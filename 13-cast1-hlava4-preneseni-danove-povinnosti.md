@@ -21,7 +21,7 @@ Kapitola je členěna podle systematiky zákona na čtyři díly: obecná pravid
 
 Daň přiznává **plátce-příjemce**, a to **ke dni uskutečnění zdanitelného plnění** (vznik povinnosti přiznat daň → [05](05-cast1-hlava2-dil4-uskutecneni-vznik-povinnosti.md)). To je odchylka od základního pravidla, kde daň přiznává poskytovatel. Poskytovatel u plnění v PDP **nepřiznává daň na výstupu** — pouze vystaví doklad bez daně (§ 92a se v této části provazuje s náležitostmi dokladu, → [06](06-cast1-hlava2-dil5-danove-doklady.md)).
 
-> ⚠ **Záloha (odst. 3 a 7):** přijetí úplaty před uskutečněním plnění **nezakládá** v PDP povinnost přiznat daň ze zálohy v okamžiku jejího přijetí — režim se naopak aktivuje až ke dni uskutečnění plnění. Vznikla-li přesto výjimečně povinnost přiznat daň z úplaty přijaté předem, použije se PDP při uskutečnění plnění na daň vypočtenou ze **základu daně podle § 37a odst. 1** (→ [07](07-cast1-hlava2-dil7-zaklad-dane.md)), tj. z rozdílu po odečtení již zdaněné zálohy.
+> ⚠ **Záloha (odst. 3 a 7):** přijetí úplaty před uskutečněním plnění **nezakládá** v PDP povinnost přiznat daň ze zálohy v okamžiku jejího přijetí — režim se naopak aktivuje až ke dni uskutečnění plnění. Vznikla-li přesto výjimečně povinnost přiznat daň z úplaty přijaté předem, použije se PDP při uskutečnění plnění na daň vypočtenou ze **základu daně podle § 37a odst. 1** (→ [07](07-cast1-hlava2-dil6-zaklad-dane.md)), tj. z rozdílu po odečtení již zdaněné zálohy.
 
 #### Oba účastníci musí být plátci a jednat jako osoby povinné k dani
 

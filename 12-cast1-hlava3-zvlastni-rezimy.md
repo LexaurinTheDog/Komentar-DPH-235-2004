@@ -97,7 +97,7 @@ Režim je **volitelný** a lze jej použít, je-li zboží obchodníkovi dodáno
 
 - a) **osobou nepovinnou k dani**,
 - b) osobou povinnou k dani využívající **režim pro malé podniky** (jednající jako taková), jde-li o dlouhodobý hmotný majetek,
-- c) jinou osobou povinnou k dani, pro kterou je dodání **osvobozeno podle [§ 62](08-cast1-hlava2-osvobozena-plneni-bez-naroku.md)** (nebo obdobně dle předpisu jiného státu),
+- c) jinou osobou povinnou k dani, pro kterou je dodání **osvobozeno podle [§ 62](09-cast1-hlava2-dil8-osvobozeni.md)** (nebo obdobně dle předpisu jiného státu),
 - d) **jiným obchodníkem**, použil-li ten při dodání rovněž zvláštní režim.
 
 > ⚠ **Společný jmenovatel** všech čtyř případů: dodavatel **nemohl uplatnit daň na výstupu odpočitatelnou u kupujícího**. Proto se daní marže — jinak by se zboží zatížilo dvakrát.
@@ -140,7 +140,7 @@ Obchodník tedy „přepíná" mezi dvěma logikami: buď režim marže **bez** 
 
 #### Přeshraniční a vývozní specifika (odst. 9, 12)
 
-- Jsou-li při dodání splněny podmínky **osvobození vývozu podle [§ 66](09-cast1-hlava2-osvobozena-plneni-s-narokem.md)**, je dodání zboží v režimu rovněž **osvobozeno** (odst. 9).
+- Jsou-li při dodání splněny podmínky **osvobození vývozu podle [§ 66](09-cast1-hlava2-dil8-osvobozeni.md)**, je dodání zboží v režimu rovněž **osvobozeno** (odst. 9).
 - Při dodání zboží v režimu **mezi členskými státy** se **nepoužijí** § 8, § 8a a § 64 (pravidla prodeje na dálku a osvobozeného intrakomunitárního dodání). Režim **nelze** použít při dodání **nového dopravního prostředku** z tuzemska do jiného státu ani u zboží, u něhož byl při **pořízení uplatněn nárok na odpočet** (odst. 12) — to by jinak vedlo k neoprávněnému zvýhodnění.
 
 #### Evidence, daňový doklad, knihy

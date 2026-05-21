@@ -34,7 +34,7 @@ Obecnou místní příslušnost stanoví daňový řád (podle sídla či místa
 
 **Výklad:**
 
-Plátcovství **vzniká ze zákona** naplněním podmínek § 6 a násl. (viz [02-cast1-hlava2-danove-subjekty.md](02-cast1-hlava2-danove-subjekty.md)); registrace je následný **deklaratorní** akt. Přihláška je proto povinností, nikoli podmínkou vzniku plátcovství — kdo ji nepodá, je plátcem stejně a vystavuje se sankci za pozdní registraci.
+Plátcovství **vzniká ze zákona** naplněním podmínek § 6 a násl. (viz [kapitola 02](02-cast1-hlava2-dil1-danove-subjekty.md)); registrace je následný **deklaratorní** akt. Přihláška je proto povinností, nikoli podmínkou vzniku plátcovství — kdo ji nepodá, je plátcem stejně a vystavuje se sankci za pozdní registraci.
 
 #### Lhůty pro přihlášku k registraci (§ 94)
 
