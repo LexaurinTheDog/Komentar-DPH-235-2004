@@ -45,10 +45,10 @@ Zákon má **2 části, 113 paragrafů** (s mnoha vloženými paragrafy typu § 
 | Hlava | Obsah | §§ (přibližně) |
 |---|---|---|
 | **I.** | Obecná ustanovení — předmět úpravy, předmět daně, vymezení základních pojmů, územní působnost | 1–4b |
-| **II.** | **Uplatňování daně** (jádro zákona — 12 dílů) | 5–87 |
-| **III.** | Zvláštní režimy (jeden správní stát, cestovní služba, použité zboží, investiční zlato, OSS) | 88–92 |
-| **IV.** | Správa daně v tuzemsku (registrace, daňové přiznání, kontrolní hlášení, zrušení registrace) | 93–110 |
-| **V.** | Zvláštní režim jednoho správního místa (One Stop Shop) a další zvláštní úpravy | (vložené §§) |
+| **II.** | **Uplatňování daně** (jádro zákona — 12 dílů: subjekty, místo plnění, plnění, vznik daně, doklady, základ a sazby, osvobození, odpočet, vracení) | 5–87 |
+| **III.** | Zvláštní režimy (cestovní služba, použité zboží/umělecká díla, investiční zlato) | 88–92 |
+| **IV.** | Režim přenesení daňové povinnosti (tuzemský reverse charge + závazné posouzení) | 92a–92i |
+| **V.** | Správa daně v tuzemsku (registrace, přiznání, kontrolní hlášení, zrušení registrace) + přeshraniční režim malých podniků, dovoz zboží nízké hodnoty, **OSS** a evidence přeshraničních plateb | 93–110 |
 
 ### Detail Hlavy II — „Uplatňování daně" (12 dílů)
 
@@ -58,15 +58,17 @@ Toto je nejrozsáhlejší a nejdůležitější část. Logika dílů kopíruje 
 |---|---|---|
 | 1 | Daňové subjekty — osoby povinné k dani, plátci, identifikované osoby | [02](02-cast1-hlava2-dil1-danove-subjekty.md) |
 | 2 | Místo plnění (u zboží i služeb) | [03](03-cast1-hlava2-dil2-misto-plneni.md) |
-| 3 | Vymezení plnění — dodání zboží a poskytnutí služby | [04](04-cast1-hlava2-dil3-zdanitelna-plneni.md) |
+| 3 | Vymezení plnění — dodání zboží a poskytnutí služby | [04](04-cast1-hlava2-dil3-vymezeni-plneni.md) |
 | 4 | Uskutečnění plnění a vznik povinnosti přiznat daň | [05](05-cast1-hlava2-dil4-uskutecneni-vznik-povinnosti.md) |
 | 5 | Daňové doklady | [06](06-cast1-hlava2-dil5-danove-doklady.md) |
-| 6 | Základ daně a jeho oprava, výpočet daně | [07](07-cast1-hlava2-dil6-7-zaklad-sazby.md) |
-| 7 | Sazby daně | [07](07-cast1-hlava2-dil6-7-zaklad-sazby.md) |
-| 8 | Osvobození od daně **bez** nároku na odpočet | [08](08-cast1-hlava2-dil8-osvobozeni-bez-naroku.md) |
-| 10 | Osvobození od daně **s** nárokem na odpočet | [09](09-cast1-hlava2-dil10-osvobozeni-s-narokem.md) |
-| 11 | Odpočet daně | [10](10-cast1-hlava2-dil11-odpocet.md) |
-| 12 | Vracení daně a prodej zboží za ceny bez daně | [11](11-cast1-hlava3-zvlastni-rezimy.md) |
+| 6 | Základ daně, výpočet, oprava základu a výše daně | [07](07-cast1-hlava2-dil6-zaklad-dane.md) |
+| 7 | Sazby daně | [08](08-cast1-hlava2-dil7-sazby-dane.md) |
+| 8 | Osvobození od daně (bez i s nárokem na odpočet) | [09](09-cast1-hlava2-dil8-osvobozeni.md) |
+| 10 | Odpočet daně | [10](10-cast1-hlava2-dil10-odpocet-dane.md) |
+| 11 | Vracení daně | [11](11-cast1-hlava2-dil11-12-vraceni-dane.md) |
+| 12 | Prodej zboží za ceny bez daně | [11](11-cast1-hlava2-dil11-12-vraceni-dane.md) |
+
+Hlavy III–V pak řeší zvláštní režimy ([12](12-cast1-hlava3-zvlastni-rezimy.md)), tuzemský reverse charge ([13](13-cast1-hlava4-preneseni-danove-povinnosti.md)), správu daně ([14](14-cast1-hlava5-dil1-sprava-dane.md)) a přeshraniční režimy včetně OSS ([15](15-cast1-hlava5-dily2-5-oss.md)). Část druhá a přílohy: [16](16-cast2-prechodna-zaverecna.md).
 
 ## Dvě osvobození, která je nutné nezaměňovat
 
