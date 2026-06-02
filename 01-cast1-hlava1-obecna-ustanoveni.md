@@ -56,6 +56,13 @@ Chybí-li jediný znak, plnění **není předmětem české DPH** (může být 
 
 **Odst. 2 — pojem „zdanitelné plnění":** pozor na terminologickou přesnost. Plnění, které je předmětem daně, ještě nemusí být **zdanitelné** — je-li **osvobozené** (§ 51 a násl., § 63 a násl.), předmětem daně sice je, ale zdanitelné není. „Zdanitelné plnění" = předmět daně **mínus** osvobozená plnění. Tento rozdíl je klíčový pro nárok na odpočet: u osvobozených plnění bez nároku odpočet nevzniká.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 3321/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/477F95CE6E0F4B5FC1258915001B8083?openDocument) — 29. 9. 2022, kat. A
+  > „Důvod požadovat, aby k částce, jež se mu přiznává jako náhrada ušlého zisku, byla připočtena částka odpovídající dani z přidané hodnoty, by poškozený, který je plátcem daně z přidané hodnoty, měl jen tehdy, kdyby soudem přiznané plnění této dani podléhalo. Náhrada škody však není předmětem daně podle § 2 odst. 1 zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů, a tedy ani zdanitelným plněním ve smyslu ustanovení § 2 odst. 2 tohoto zákona. Pro posouzení nároku nesprávně opomenutého insolvenčního správce na ušlý zisk za odměnu ze zpeněžení je rozhodující, zda podle pravidelného běhu věcí bylo možné (při řádném průběhu daného insolvenčního řízení) takové zpeněžení (a odměnu z něj) očekávat. Nejde-li o změnu žaloby (§ 95 o. s. ř.), pak okolnost, že odvolatel uplatnil v průběhu odvolacího řízení nové skutečnosti nebo důkazy, které nastaly (vznikly) po…"
+- *NS* [29 NSCR 43/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A5E8880A0368A94C125857C002F16AE?openDocument) — 31. 3. 2020, kat. A
+  > „I. U dlužníka, který je plátcem daně z přidané hodnoty, je při zpeněžení předmětu zajištění, který tvoří „obchodní majetek“ dlužníka, obsažena v „prodejní ceně“ i daň z přidané hodnoty. Nejde o částku určenou k uspokojení pohledávky zajištěného věřitele jako součást tzv. čistého výtěžku zpeněžení předmětu zajištění. Částka odpovídající dani z přidané hodnoty není ani nákladem spojeným se zpeněžením předmětu zajištění a nepodléhá proto zákonnému limitu dle § 298 odst. 4 insolvenčního zákona. II. Dokud není částka odpovídající v dosaženém výtěžku zpeněžení dani z přidané hodnoty odvedena (postupem dle § 108 odst. 4 zákona o dani z přidané hodnoty), jde v neuhrazeném rozsahu o daňovou pohledávku státu za majetkovou podstatou ve smyslu § 168 odst. 2 písm. e/ insolvenčního zákona. Vyjde-li v insolvenčním řízení, v němž je způsobem řešení dlužníkova úpadku konkurs, následně najevo, že…"
+
 ## § 2a–2b — Vynětí z předmětu daně a volba
 
 > **§ 2a (2):** *Předmětem daně není pořízení zboží z jiného členského státu, pokud celková hodnota pořízeného zboží nepřekročila v příslušném ani bezprostředně předcházejícím kalendářním roce 326 000 Kč* a pořizovatelem je vyjmenovaná osoba (neplátce s ekonomickou činností, právnická osoba nepovinná k dani, zemědělec v paušálu apod.).
@@ -124,6 +131,11 @@ Rozdíl je zásadní: pohyb zboží **uvnitř EU** je „pořízení/dodání zb
 ## § 4 — Vymezení základních pojmů
 
 Nejdůležitější paragraf celé Hlavy I — **slovník zákona**. Vybíráme pojmy s největším praktickým dopadem.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 43/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A5E8880A0368A94C125857C002F16AE?openDocument) — 31. 3. 2020, kat. A
+  > „I. U dlužníka, který je plátcem daně z přidané hodnoty, je při zpeněžení předmětu zajištění, který tvoří „obchodní majetek“ dlužníka, obsažena v „prodejní ceně“ i daň z přidané hodnoty. Nejde o částku určenou k uspokojení pohledávky zajištěného věřitele jako součást tzv. čistého výtěžku zpeněžení předmětu zajištění. Částka odpovídající dani z přidané hodnoty není ani nákladem spojeným se zpeněžením předmětu zajištění a nepodléhá proto zákonnému limitu dle § 298 odst. 4 insolvenčního zákona. II. Dokud není částka odpovídající v dosaženém výtěžku zpeněžení dani z přidané hodnoty odvedena (postupem dle § 108 odst. 4 zákona o dani z přidané hodnoty), jde v neuhrazeném rozsahu o daňovou pohledávku státu za majetkovou podstatou ve smyslu § 168 odst. 2 písm. e/ insolvenčního zákona. Vyjde-li v insolvenčním řízení, v němž je způsobem řešení dlužníkova úpadku konkurs, následně najevo, že…"
 
 ### Úplata (odst. 1 písm. a)
 

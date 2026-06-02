@@ -12,6 +12,11 @@
 
 § 72 stanoví **dvě základní podmínky vzniku** nároku (hmotněprávní jádro) a okamžik jeho vzniku.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 2169/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF02D58D713385B1C12584C2001B8589?openDocument) — 3. 9. 2019, kat. A
+  > „Při vyčíslování bezdůvodného obohacení, jež vzniklo užíváním cizí věci, zjišťováním obvyklého nájemného porovnávací metodou je zásadně relevantní nájemné sjednané v porovnávaných smlouvách, ať již v sobě zahrnuje daň z přidané hodnoty, či nikoli. Pakliže však věc užíval plátce daně z přidané hodnoty za okolností umožňujících uplatnění odpočtu daně na vstupu ve smyslu § 72 zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů, je namístě vycházet z nájemného placeného za srovnatelné objekty bez navýšení o daň z přidané hodnoty je-li tedy v tomto případě v porovnávaných nájemných smlouvách sjednáno nájemné s daní z přidané hodnoty, je zapotřebí je od této daně očistit"
+
 #### Hmotněprávní podstata nároku (odst. 1)
 
 Nárok vzniká u **přijatého zdanitelného plnění** (na vstupu) za podmínky, že je plátce **v rámci své ekonomické činnosti** použije pro stanovené účely („výstupy" s nárokem):
