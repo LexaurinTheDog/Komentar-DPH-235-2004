@@ -5,7 +5,22 @@
 ## § 5 — Osoby povinné k dani
 
 > *(1) Osobou povinnou k dani je osoba, která samostatně uskutečňuje ekonomickou činnost, nebo skupina. Osobou povinnou k dani, pokud samostatně uskutečňuje ekonomickou činnost, je i právnická osoba, která nebyla založena nebo zřízena za účelem podnikání.*
-> *(3) Ekonomickou činností se … rozumí činnost výrobců, obchodníků a osob poskytujících služby … za účelem získávání pravidelného příjmu. Za ekonomickou činnost se považuje zejména činnost spočívající ve využití hmotného a nehmotného majetku za účelem získávání pravidelného příjmu.*
+>
+> *(2) Za samostatně uskutečňovanou ekonomickou činnost se nepovažuje činnost*
+>
+> *- a) zaměstnance nebo jiné osoby vyplývající z pracovněprávního vztahu, služebního poměru nebo jiného obdobného vztahu,*
+>
+> *- b) jiných osob než osob podle písmene a), pokud jsou příjmy z této činnosti příjmy ze závislé činnosti podle zákona upravujícího daně z příjmů.*
+>
+> *(3) Ekonomickou činností se pro účely daně z přidané hodnoty rozumí činnost výrobců, obchodníků a osob poskytujících služby, včetně důlní činnosti a zemědělské výroby a výkonu svobodných a jiných obdobných povolání podle jiných právních předpisů, za účelem získávání pravidelného příjmu. Za ekonomickou činnost se považuje zejména činnost spočívající ve využití hmotného a nehmotného majetku za účelem získávání pravidelného příjmu.*
+>
+> *(4) Stát, kraj, obec ani jiná veřejnoprávní osoba se nepovažují za osoby povinné k dani v souvislosti s činnostmi nebo plněními, při nichž vystupují jako orgány veřejné moci, a to i v případě, kdy v souvislosti s těmito činnostmi vybírají poplatky nebo jiné úhrady.*
+>
+> *(5) Osoba podle odstavce 4 se však považuje za osobu povinnou k dani, pokud uskutečňuje činnosti,*
+>
+> *- a) které jsou uvedené v příloze č. 1 k tomuto zákonu, nebo*
+>
+> *- b) při jejichž výkonu se má za to, že dochází k výraznému narušení hospodářské soutěže tím, že osoba podle odstavce 4 nebyla považována nebo není považována za osobu povinnou k dani; tyto činnosti stanoví vláda nařízením.*
 
 **Výklad:**
 
@@ -39,9 +54,27 @@ Tři kumulativní znaky, jejichž obsah dotváří ustálená judikatura SD EU k
 
 ## § 5a–5c — Skupina
 
-> **§ 5a (1):** *Skupinu může vytvořit personálně spojené seskupení nebo kapitálově spojené seskupení, pokud podíl na základním kapitálu nebo hlasovacích právech představuje alespoň 40 %. Členem skupiny může být pouze osoba, která má sídlo nebo provozovnu v tuzemsku.*
-> **§ 5a (3):** *Skupina vzniká registrací … jako plátce.*
-> **§ 5a (6):** *Každá osoba může být členem pouze jedné skupiny. Člen skupiny není po dobu svého členství ve skupině osobou povinnou k dani.*
+> **§ 5a**
+>
+> (1) Skupinu může vytvořit personálně spojené seskupení nebo kapitálově spojené seskupení, pokud podíl na základním kapitálu nebo hlasovacích právech představuje alespoň 40 %. Členem skupiny může být pouze osoba, která má sídlo nebo provozovnu v tuzemsku.
+>
+> (2) Jako na kapitálově spojené seskupení, které může vytvořit skupinu, se hledí na seskupení
+>
+> - a) organizační složky státu a jí zřízené příspěvkové organizace, nebo
+>
+> - b) územně samosprávného celku a jím zřízené příspěvkové organizace.
+>
+> (3) Skupina vzniká registrací kapitálově nebo personálně spojeného seskupení jako plátce.
+>
+> (4) Pokud má člen skupiny
+>
+> - a) provozovnu mimo tuzemsko, není tato provozovna součástí skupiny,
+>
+> - b) sídlo mimo tuzemsko, může být součástí skupiny pouze jeho provozovna v tuzemsku.
+>
+> (5) Odstavec 4 platí obdobně i pro seskupení podle právních předpisů jiného členského státu obdobné skupině, pokud členové tohoto seskupení mají sídlo nebo provozovnu v tuzemsku.
+>
+> (6) Každá osoba může být členem pouze jedné skupiny. Člen skupiny není po dobu svého členství ve skupině osobou povinnou k dani.
 
 **Výklad:**
 
@@ -68,10 +101,27 @@ Práva a povinnosti v oblasti DPH členů přecházejí na skupinu **dnem regist
 
 ## § 6 — Plátce: vznik plátcovství překročením obratu
 
-> *(1) Osoba povinná k dani se sídlem v tuzemsku nebo osoba registrovaná do režimu pro malé podniky pro tuzemsko je plátcem od prvního dne kalendářního roku bezprostředně následujícího po kalendářním roce, ve kterém její obrat v tuzemsku překročil částku **2 000 000 Kč**.*
+> *(1) Osoba povinná k dani se sídlem v tuzemsku nebo osoba registrovaná do režimu pro malé podniky pro tuzemsko je plátcem od prvního dne kalendářního roku bezprostředně následujícího po kalendářním roce, ve kterém její obrat v tuzemsku překročil částku 2 000 000 Kč.*
+>
 > *(2) Osoba podle odstavce 1 je plátcem dnem následujícím*
-> *a) po dni překročení částky podle odstavce 1, pokud … sdělila, že se chce stát plátcem tímto dnem, nebo*
-> *b) po dni, kdy její obrat v tuzemsku překročil v příslušném kalendářním roce částku **2 536 500 Kč**.*
+>
+> *- a) po dni překročení částky podle odstavce 1, pokud správci daně ve včas podané přihlášce k registraci sdělila, že se chce stát plátcem tímto dnem, nebo*
+>
+> *- b) po dni, kdy její obrat v tuzemsku překročil v příslušném kalendářním roce částku 2 536 500 Kč.*
+>
+> *(3) Osoba podle odstavce 1, která uskutečňuje pouze plnění, u kterých by neměla nárok na odpočet daně, pokud by byla plátcem, se nestane plátcem podle odstavce 1 nebo 2, ale je plátcem*
+>
+> *- a) prvním dnem kalendářního roku bezprostředně následujícího po kalendářním roce, ve kterém její obrat v tuzemsku překročil částku podle odstavce 1, pokud tato osoba uskuteční plnění, které spadá do jejího obratu v tuzemsku a u kterého by měla nárok na odpočet daně, pokud by byla plátcem, v kalendářním roce tohoto překročení, nebo*
+>
+> *- b) dnem následujícím po dni uskutečnění plnění, které spadá do jejího obratu v tuzemsku a u kterého by měla nárok na odpočet daně, pokud by byla plátcem, v případě, že toto plnění se uskutečnilo poté, co*
+>
+> *  - 1. v příslušném kalendářním roce její obrat v tuzemsku překročil částku podle odstavce 1 a správci daně ve včas podané přihlášce k registraci sdělila, že se chce stát plátcem tímto dnem,*
+>
+> *  - 2. v příslušném kalendářním roce její obrat v tuzemsku překročil částku podle odstavce 2 písm. b), nebo pokud uskutečněním tohoto plnění došlo k překročení této částky, nebo*
+>
+> *  - 3. v bezprostředně předcházejícím kalendářním roce její obrat v tuzemsku překročil částku podle odstavce 1.*
+>
+> *(4) Osoba povinná k dani se sídlem v tuzemsku, které byla zrušena registrace z důvodu, že jako plátce přestala uskutečňovat ekonomickou činnost, je plátcem ode dne, ve kterém uskutečnila plnění, u kterého by měla nárok na odpočet daně, pokud by byla plátcem, v případě, že v příslušném nebo bezprostředně předcházejícím kalendářním roce její obrat v tuzemsku překročil částku podle odstavce 1.*
 
 **Výklad:**
 
@@ -103,8 +153,15 @@ Vedle obratu se osoba stává plátcem **ze zákona** i z dalších důvodů, kd
 
 #### § 6b — Nabytí majetku, přeměny, privatizace
 
-> *(1) Osoba povinná k dani je plátcem ode dne nabytí majetku, pokud nabývá tento majetek a) … na základě rozhodnutí o privatizaci, nebo b) od plátce nabytím obchodního závodu.*
-> *(2) … plátcem ode dne zápisu přeměny právnické osoby … pokud na ni přechází … jmění zanikající nebo rozdělované právnické osoby, která byla plátcem.*
+> *(1) Osoba povinná k dani je plátcem ode dne nabytí majetku, pokud nabývá tento majetek*
+>
+> *- a) pro účely uskutečňování ekonomické činnosti na základě rozhodnutí o privatizaci podle zákona upravujícího podmínky převodu majetku státu na jiné osoby, nebo*
+>
+> *- b) od plátce nabytím obchodního závodu.*
+>
+> *(2) Osoba povinná k dani je plátcem ode dne zápisu přeměny právnické osoby do veřejného rejstříku nebo jemu odpovídající evidence vedené podle právních předpisů příslušného státu, pokud na ni při této přeměně přechází nebo je převáděno jmění zanikající nebo rozdělované právnické osoby, která byla plátcem.*
+>
+> *(3) Právnická osoba, která při změně právní formy na jinou formu nezaniká ani nepřechází její jmění na právního nástupce, pouze se mění její vnitřní právní poměry a právní postavení jejích společníků, nepřestává být plátcem.*
 
 - **Nabytí obchodního závodu od plátce** nebo **privatizace** (odst. 1): nabyvatel se stává plátcem **dnem nabytí** — daňové postavení je vázáno na pokračování v ekonomické činnosti převedeného závodu.
 - **Přeměna právnické osoby** (odst. 2): přechází-li jmění plátce na nástupnickou osobu, ta je plátcem **ode dne zápisu přeměny** do rejstříku.
@@ -128,7 +185,11 @@ Provozovatel **elektronického rozhraní** (digitální platformy), který uskut
 
 #### § 6f — Dobrovolná registrace
 
-> *(1) Osoba povinná k dani se sídlem nebo provozovnou v tuzemsku, která uskutečňuje nebo bude uskutečňovat plnění, u kterého by měla nárok na odpočet …, je plátcem ode dne následujícího po dni oznámení rozhodnutí, kterým je tato osoba registrována.*
+> *(1) Osoba povinná k dani se sídlem nebo provozovnou v tuzemsku, která uskutečňuje nebo bude uskutečňovat plnění, u kterého by měla nárok na odpočet daně, pokud by byla plátcem, je plátcem ode dne následujícího po dni oznámení rozhodnutí, kterým je tato osoba registrována.*
+>
+> *(2) Osoba povinná k dani, která nemá sídlo ani provozovnu v tuzemsku, která není registrovaná do režimu pro malé podniky pro tuzemsko a která bude uskutečňovat plnění s nárokem na odpočet daně s místem plnění v tuzemsku, je plátcem ode dne následujícího po dni oznámení rozhodnutí, kterým je tato osoba registrována.*
+>
+> *Identifikované osoby*
 
 **Dobrovolné plátcovství** — osoba pod obratovým prahem se může nechat **registrovat na vlastní žádost**, uskutečňuje-li (nebo bude-li uskutečňovat) plnění **s nárokem na odpočet**. Plátcem se stává **dnem následujícím po oznámení rozhodnutí** o registraci. Obdobně může požádat i osoba **bez sídla i provozovny v tuzemsku** (odst. 2), bude-li uskutečňovat tuzemská plnění s nárokem na odpočet. Dobrovolná registrace dává smysl tam, kde převažují **odběratelé-plátci** (kterým DPH nevadí) a kde má osoba **vysoké vstupy** — získá nárok na odpočet.
 
@@ -136,9 +197,13 @@ Provozovatel **elektronického rozhraní** (digitální platformy), který uskut
 
 ## § 6g–6l — Identifikovaná osoba
 
-> **§ 6g:** *Osoba povinná k dani, která není plátcem, nebo právnická osoba nepovinná k dani jsou identifikovanými osobami ode dne uskutečnění prvního pořízení zboží z jiného členského státu, které je předmětem daně* (s výjimkou prostřední osoby u třístranného obchodu a pořízení osvobozeného podle § 71l).
-> **§ 6h:** *Osoba povinná k dani se sídlem nebo provozovnou v tuzemsku, která není plátcem, je identifikovanou osobou ode dne přijetí zdanitelného plnění … od osoby neusazené v tuzemsku …* (poskytnutí služby; dodání zboží s instalací/montáží; dodání zboží soustavami nebo sítěmi).
-> **§ 6i:** *… je identifikovanou osobou ode dne poskytnutí služby s místem plnění v jiném členském státě podle § 9 odst. 1 …*
+> **§ 6g**
+>
+> Osoba povinná k dani, která není plátcem, nebo právnická osoba nepovinná k dani jsou identifikovanými osobami ode dne uskutečnění prvního pořízení zboží z jiného členského státu, které je předmětem daně; to neplatí pro
+>
+> - a) pořízení zboží prostřední osobou při dodání zboží při třístranném obchodu, nebo
+>
+> - b) pořízení zboží z jiného členského státu, které je osvobozeno od daně podle § 71l.
 
 **Výklad:**
 

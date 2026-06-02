@@ -4,10 +4,49 @@
 
 ## § 111 — Přechodná ustanovení
 
-> *1. Pro uplatnění daně z přidané hodnoty za období přede dnem nabytí účinnosti tohoto zákona, jakož i pro uplatnění práv s tím souvisejících, platí dosavadní právní předpisy.*
-> *3. Plátce registrovaný podle dosavadních předpisů je plátcem podle tohoto zákona.*
-> *6. Osvědčení o registraci, která byla vydána přede dnem nabytí účinnosti tohoto zákona, zůstávají v platnosti. Daňová identifikační čísla … se mění tak, že první tři číslice a pomlčka se nahrazují kódem „CZ".*
-> *7. Pro stanovení výše obratu uvedené v § 6 … se pro účely registrace nepřihlíží k obratu dosaženému před účinností tohoto zákona.*
+> *- 1. Pro uplatnění daně z přidané hodnoty za období přede dnem nabytí účinnosti tohoto zákona, jakož i pro uplatnění práv s tím souvisejících, platí dosavadní právní předpisy.*
+>
+> *- 2. Podle dosavadních právních předpisů platných do dne nabytí účinnosti tohoto zákona se až do svého ukončení posuzují všechny procesní lhůty, které začaly běžet před účinností tohoto zákona. Lhůty pro uplatnění práv podle bodu 1 se řídí dosavadními právními předpisy.*
+>
+> *- 3. Plátce registrovaný podle dosavadních předpisů je plátcem podle tohoto zákona.*
+>
+> *- 4. Plátce, který podává daňové přiznání za kalendářní čtvrtletí, je povinen do 25. července 2004 podat daňové přiznání za měsíc duben 2004 podle dosavadních právních předpisů.*
+>
+> *- 5. Zdaňovacím obdobím pro plátce, který podává daňové přiznání za kalendářní čtvrtletí a tento plátce postupoval podle bodu 4, je období od 1. května 2004 do 30. června 2004. Od 1. července 2004 plátce podává daňové přiznání podle § 99.*
+>
+> *- 6. Osvědčení o registraci, která byla vydána přede dnem nabytí účinnosti tohoto zákona, zůstávají v platnosti. Daňová identifikační čísla přidělená přede dnem nabytí účinnosti tohoto zákona zaregistrovaným daňovým subjektům se mění tak, že první tři číslice a pomlčka se nahrazují kódem „CZ“. Daňový subjekt je povinen uvádět takto změněné daňové identifikační číslo. Na žádost daňového subjektu správce daně vyznačí změnu daňového identifikačního čísla v osvědčení o registraci.*
+>
+> *- 7. Pro stanovení výše obratu uvedené v § 6 tohoto zákona se pro účely registrace nepřihlíží k obratu dosaženému před účinností tohoto zákona.*
+>
+> *- 8. Ve zdaňovacích obdobích roku 2004 ode dne nabytí účinnosti tohoto zákona se použije jako zálohový koeficient pro zkracování nároku na odpočet daně podle § 76 odst. 6 koeficient vypočtený při vypořádání odpočtu daně za zdaňovací období kalendářního roku 2003.*
+>
+> *- 9. Při zrušení registrace počínaje dnem účinnosti tohoto zákona plátce, který při uplatnění nároku na odpočet daně u majetku v období do 31. prosince 2000 použil koeficient podle § 20 dosavadního zákona, upraví částku snížení nároku na odpočet daně podle § 74 odst. 5 koeficientem stanoveným podle § 76 tohoto zákona.*
+>
+> *- 10. Při vypořádání nároku na odpočet daně od 1. ledna 2004 do 31. prosince 2004 postupuje plátce tak, že za období od 1. ledna 2004 do data účinnosti tohoto zákona provede vypořádání podle znění § 20 dosavadního zákona, a za období od data účinnosti tohoto zákona do 31. prosince 2004 podle § 76 tohoto zákona. Vypořádání za období od 1. ledna 2004 do data účinnosti tohoto zákona plátce uvede do daňového přiznání za měsíc duben 2004. V případě dodatečné opravy uskutečněných zdanitelných plnění za již vypořádané období podle předchozí věty plátce postupuje podle § 20 odst. 11 dosavadního zákona. Vypořádání za období od data účinnosti tohoto zákona do 31. prosince 2004 plátce uvede do daňového přiznání za poslední zdaňovací období roku 2004. Ve zdaňovacích obdobích roku 2005 se použije jako zálohový koeficient pro zkracování nároku na odpočet daně podle § 76 odst. 6 koeficient vypočtený při vypořádání odpočtu daně za zdaňovací období od data účinnosti tohoto zákona do 31. prosince 2004.*
+>
+> *- 11. U smluv uzavřených do dne předcházejícího dni nabytí účinnosti tohoto zákona, u nichž byly do tohoto dne poskytnuty zálohy na zdanitelná plnění, která budou uskutečněna po nabytí účinnosti tohoto zákona, je plátce daně povinen přiznat daň ke dni uskutečnění zdanitelného plnění. Záloha zaplacená před datem účinnosti tohoto zákona není přijatou platbou podle tohoto zákona. U smluv uzavřených do dne předcházejícího dni nabytí účinnosti tohoto zákona na plnění, která budou uskutečněna po nabytí účinnosti tohoto zákona a budou zdanitelnými plněními podle tohoto zákona, je plátce, který je povinen přiznat a zaplatit daň, povinen tuto daň přiznat ke dni uskutečnění zdanitelného plnění nebo ke dni přijetí platby, pokud je platba přijata po nabytí účinnosti tohoto zákona. Částka zaplacená před datem účinnosti tohoto zákona není přijatou platbou podle tohoto zákona.*
+>
+> *- 12. Pro smlouvy o finančním pronájmu, které byly uzavřeny a předmět smlouvy byl předán do užívání do dne předcházejícího dni nabytí účinnosti tohoto zákona, se použijí příslušná ustanovení zákona č. 588/1992 Sb., o dani z přidané hodnoty, ve znění platném do dne předcházejícího datu nabytí účinnosti tohoto zákona.*
+>
+> *- 13. Osoba registrovaná k dani v jiném členském státě se může zaregistrovat ke dni nabytí účinnosti tohoto zákona, pokud bude uskutečňovat zdanitelná plnění v tuzemsku.*
+>
+> *- 14. U zboží, které bylo v jiném členském státě nebo nově přistupujícím členském státě propuštěno do celního režimu vývoz nebo tranzit do 30. dubna 2004 a po dni nabytí účinnosti tohoto zákona vstoupí do tuzemska, se postupuje jako při dovozu zboží.*
+>
+> *- 15. U zboží, které bylo v tuzemsku propuštěno do celního režimu vývoz, tranzit nebo pasivní zušlechťovací styk do 30. dubna 2004 a po dni nabytí účinnosti tohoto zákona vstoupí do jiného členského státu, se postupuje jako při vývozu zboží.*
+>
+> *- 16. Ustanovení § 36 odst. 10 se poprvé použije pro vratné zálohované obaly vykoupené po 30. dubnu 2004.*
+>
+> *- 18. Pro stanovení místa plnění podle § 8 odst. 3 v období od účinnosti tohoto zákona do 31. prosince 2004 neplatí podmínka, že hodnota dodaného zboží do jiného členského státu nebyla překročena v předcházejícím kalendářním roce.*
+>
+> *- 19. Rozhodnutí o záznamní povinnosti vydané správci daně podle § 18 zákona č. 588/1992 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů, a to s platností do 31. prosince 2004, zůstávají v platnosti i po dni účinnosti tohoto zákona.*
+>
+> *- 20. U převodu nemovitosti, u kterého dojde k právním účinkům vkladu do 30. dubna 2004, se použijí dosavadní právní předpisy.*
+>
+> *- 21. U zboží, které bylo dovezeno ze zemí, které byly členskými státy před účinností tohoto zákona, a propuštěno do příslušných celních režimů, se postupuje při uplatnění daně po účinnosti tohoto zákona podle celních předpisů.*
+>
+> *- 22. U programů předvstupní pomoci se po účinnosti tohoto zákona vrací daň podle § 81 až do ukončení těchto programů.*
+>
+> *- 23. Pokud bude zboží před účinností tohoto zákona propuštěno do režimu vývozu a jeho výstup do jiného členského státu po účinnosti tohoto zákona nebude potvrzen celním orgánem, prokazuje plátce splnění podmínek pro osvobození od daně jinými důkazními prostředky.*
 
 **Výklad:**
 

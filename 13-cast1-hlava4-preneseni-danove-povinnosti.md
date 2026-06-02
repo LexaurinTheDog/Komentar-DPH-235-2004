@@ -9,9 +9,20 @@ Kapitola je členěna podle systematiky zákona na čtyři díly: obecná pravid
 ### § 92a — Základní ustanovení
 
 > *(1) V režimu přenesení daňové povinnosti je plátce, pro kterého bylo zdanitelné plnění s místem plnění v tuzemsku uskutečněno, povinen přiznat daň ke dni uskutečnění zdanitelného plnění.*
-> *(2) Režim … se nepoužije, pokud ke dni uskutečnění zdanitelného plnění příjemce tohoto plnění nejedná jako osoba povinná k dani.*
-> *(4) Režim … se nepoužije, pokud se jedná o nucený prodej obchodního majetku plátce.*
-> *(5) Plátce, pro kterého je zdanitelné plnění v režimu … uskutečněno, je povinen doplnit výši daně v evidenci pro účely daně … Za správnost vypočtené daně odpovídá plátce, pro kterého je plnění uskutečněno.*
+>
+> *(2) Režim přenesení daňové povinnosti se nepoužije, pokud ke dni uskutečnění zdanitelného plnění příjemce tohoto plnění nejedná jako osoba povinná k dani.*
+>
+> *(3) Režim přenesení daňové povinnosti se nepoužije na zdanitelné plnění, pokud ke dni přijetí úplaty přede dnem uskutečnění tohoto plnění příjemce tohoto plnění nejedná jako osoba povinná k dani.*
+>
+> *(4) Režim přenesení daňové povinnosti se nepoužije na zdanitelné plnění, pokud se jedná o nucený prodej obchodního majetku plátce.*
+>
+> *(5) Plátce, pro kterého je zdanitelné plnění v režimu přenesení daňové povinnosti uskutečněno, je povinen doplnit výši daně v evidenci pro účely daně z přidané hodnoty. Za správnost vypočtené daně odpovídá plátce, pro kterého je plnění uskutečněno.*
+>
+> *(6) Režim přenesení daňové povinnosti nelze použít v případě, že o plátci, který uskutečnil nebo přijal zdanitelné plnění, nebyla ke dni uskutečnění tohoto plnění zveřejněna způsobem umožňujícím dálkový přístup skutečnost, že je plátcem, a to do dne, ve kterém je tato skutečnost o těchto plátcích zveřejněna způsobem umožňujícím dálkový přístup.*
+>
+> *(7) Pokud vznikla povinnost přiznat daň z úplaty přijaté před uskutečněním zdanitelného plnění v režimu přenesení daňové povinnosti, použije se režim přenesení daňové povinnosti při uskutečnění zdanitelného plnění na daň vypočtenou ze základu daně stanoveného podle § 37a odst. 1.*
+>
+> *(8) Mají-li plátce, který uskutečnil zdanitelné plnění, a plátce, pro kterého bylo zdanitelné plnění uskutečněno, důvodně za to, že toto zdanitelné plnění podléhá režimu přenesení daňové povinnosti, a tento režim k tomuto plnění použijí, považuje se toto plnění za zdanitelné plnění podléhající režimu přenesení daňové povinnosti.*
 
 **Výklad:**
 
@@ -126,8 +137,9 @@ Příloha č. 6 obsahuje **katalog kandidátů** na dočasné přenesení — ty
 
 ### § 92g — Mechanismus rychlé reakce
 
-> *(1) Při dodání zboží nebo poskytnutí služby plátci použije plátce režim přenesení daňové povinnosti, pokud v případě, kdy Evropská komise … potvrdila, že proti použití režimu … nemá námitky, tak vláda stanoví nařízením.*
-> *(2) Režim … podle odstavce 1 se použije po dobu nepřesahující 9 měsíců.*
+> *(1) Při dodání zboží nebo poskytnutí služby plátci použije plátce režim přenesení daňové povinnosti, pokud v případě, kdy Evropská komise za účelem boje proti náhlým a rozsáhlým daňovým podvodům potvrdila, že proti použití režimu přenesení daňové povinnosti při dodání tohoto zboží nebo poskytnutí této služby nemá námitky, tak vláda stanoví nařízením.*
+>
+> *(2) Režim přenesení daňové povinnosti podle odstavce 1 se použije po dobu nepřesahující 9 měsíců.*
 
 **Výklad:**
 
@@ -153,7 +165,12 @@ Předmětem posouzení je **jediná otázka**: aplikuje se na dané konkrétní 
 ### § 92i — Žádost o závazné posouzení
 
 > *(1) Generální finanční ředitelství vydá na žádost rozhodnutí o závazném posouzení určitého zdanitelného plnění pro použití režimu přenesení daňové povinnosti.*
-> *(2) V žádosti … žadatel uvede a) popis zdanitelného plnění …; v žádosti lze uvést pouze jedno zdanitelné plnění, b) návrh výroku rozhodnutí o závazném posouzení.*
+>
+> *(2) V žádosti o vydání rozhodnutí o závazném posouzení žadatel uvede*
+>
+> *- a) popis zdanitelného plnění, jehož se žádost o vydání rozhodnutí o závazném posouzení týká; v žádosti lze uvést pouze jedno zdanitelné plnění,*
+>
+> *- b) návrh výroku rozhodnutí o závazném posouzení.*
 
 **Výklad:**
 

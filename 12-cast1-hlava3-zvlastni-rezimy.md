@@ -5,7 +5,66 @@
 ## § 89 — Zvláštní režim pro cestovní službu
 
 > *(1) Zvláštní režim je povinen použít poskytovatel cestovní služby, který jedná se zákazníkem vlastním jménem, při poskytnutí cestovní služby zákazníkovi.*
-> *(3) … základem daně přirážka poskytovatele cestovní služby snížená o daň z přirážky. Tato přirážka se stanoví jako rozdíl mezi celkovou peněžní částkou, kterou jako úplatu obdržel … plátce od zákazníka … za poskytnutou cestovní službu, a součtem částek, které plátce uhradil … za jednotlivé služby cestovního ruchu a zboží nakoupené od jiných osob povinných k dani, které jsou přímo zahrnuté do cestovní služby.*
+>
+> *(2) Pro účely zvláštního režimu pro cestovní službu se rozumí*
+>
+> *- a) poskytovatelem cestovní služby osoba povinná k dani, která poskytuje zákazníkovi cestovní službu,*
+>
+> *- b) zákazníkem osoba, které je poskytnuta cestovní služba,*
+>
+> *- c) cestovní službou poskytnutí služby zákazníkovi, která zahrnuje kombinace služeb cestovního ruchu61) a popřípadě zboží, pokud jsou jednotlivé služby cestovního ruchu a zboží nakoupené od jiných osob povinných k dani; poskytnutí cestovní služby se považuje za poskytnutí jedné služby, přestože k uskutečnění cestovní služby se využije více služeb cestovního ruchu a popřípadě zboží nakoupené od jiných osob povinných k dani; za cestovní službu se považuje i poskytnutí služby zákazníkovi, která zahrnuje pouze jednu nakoupenou službu cestovního ruchu ubytování nebo dopravy osob.*
+>
+> *(3) Při poskytnutí cestovní služby je základem daně přirážka poskytovatele cestovní služby snížená o daň z přirážky. Tato přirážka se stanoví jako rozdíl mezi celkovou peněžní částkou, kterou jako úplatu obdržel nebo má obdržet plátce od zákazníka nebo třetí osoby za poskytnutou cestovní službu, a součtem částek, které plátce uhradil nebo má uhradit za jednotlivé služby cestovního ruchu a zboží nakoupené od jiných osob povinných k dani, které jsou přímo zahrnuté do cestovní služby.*
+>
+> *(4) Pokud je před uskutečněním cestovní služby přijata úplata, ze které vzniká povinnost přiznat daň, stanoví se přirážka poskytovatele cestovní služby k této úplatě jako součin přijaté úplaty a koeficientu pro výpočet přirážky.*
+>
+> *(5) Koeficient pro výpočet přirážky se vypočte jako podíl*
+>
+> *- a) rozdílu mezi*
+>
+> *  - 1. celkovou peněžní částkou, kterou jako úplatu obdržel nebo má obdržet plátce od zákazníka nebo třetí osoby za poskytnutou cestovní službu, a*
+>
+> *  - 2. součtem částek, které plátce již uhradil za jednotlivé služby cestovního ruchu a zboží nakoupené od jiných osob povinných k dani, které jsou přímo zahrnuté do cestovní služby, a*
+>
+> *- b) celkové peněžní částky, kterou jako úplatu obdržel nebo má obdržet plátce od zákazníka nebo třetí osoby za poskytnutou cestovní službu.*
+>
+> *(6) Koeficient pro výpočet přirážky lze vypočíst také jako podíl*
+>
+> *- a) rozdílu mezi*
+>
+> *  - 1. celkovou peněžní částkou, kterou jako úplatu obdržel nebo má obdržet plátce od zákazníka nebo třetí osoby za poskytnutou cestovní službu, a*
+>
+> *  - 2. součtem částek, které plátce uhradil nebo předpokládá, že uhradí, za jednotlivé služby cestovního ruchu a zboží nakoupené od jiných osob povinných k dani, které jsou přímo zahrnuté do cestovní služby, a*
+>
+> *- b) celkové peněžní částky, kterou jako úplatu obdržel nebo má obdržet plátce od zákazníka nebo třetí osoby za poskytnutou cestovní službu.*
+>
+> *(7) U jedné cestovní služby lze pro stanovení přirážky poskytovatele cestovní služby k úplatě použít pouze jeden způsob výpočtu koeficientu pro výpočet přirážky; v případě, že poskytovatel cestovní služby použije způsob výpočtu koeficientu podle odstavce 6, může koeficient, který pro účely stanovení přirážky vypočetl u první přijaté úplaty, použít i pro stanovení přirážky u všech úplat následujících.*
+>
+> *(8) Je-li rozdíl podle odstavce 3, 5 nebo 6 záporný, základem daně je nula.*
+>
+> *(9) Při poskytnutí cestovní služby je místem plnění místo, kde má poskytovatel poskytující službu sídlo. Pokud je však tato služba poskytnuta prostřednictvím provozovny, je místem plnění místo, kde je tato provozovna umístěna.*
+>
+> *(10) Cestovní služba se považuje za uskutečněnou dnem poskytnutí cestovní služby. Za poskytnutí cestovní služby se považuje den poskytnutí poslední služby cestovního ruchu zahrnuté v cestovní službě.*
+>
+> *(11) U cestovní služby se uplatňuje základní sazba daně.*
+>
+> *(12) Pokud jednotlivé služby cestovního ruchu nakoupené od jiných osob povinných k dani jsou poskytnuty ve třetí zemi, cestovní služba je osvobozena od daně s nárokem na odpočet daně. Jestliže služby cestovního ruchu nakoupené od jiných osob povinných k dani jsou poskytnuty jak ve třetí zemi, tak i na území Evropské unie, je cestovní služba osvobozena od daně s nárokem na odpočet daně jen v poměru odpovídajícímu poskytnutým službám ve třetí zemi a na území Evropské unie. Za službu cestovního ruchu poskytnutou ve třetí zemi se považuje nakoupená letecká přeprava osob s místem určení do třetí země nebo přeprava zpět na území Evropské unie.*
+>
+> *(13) Poskytovatel cestovní služby nemá nárok na odpočet daně ani na vrácení daně v jiném členském státě u zboží a služeb cestovního ruchu nakoupených od plátců nebo od osob registrovaných k dani v jiném členském státě, které poskytuje zákazníkovi jako součást cestovní služby.*
+>
+> *(14) Při poskytnutí cestovní služby musí být na daňovém dokladu uveden údaj „zvláštní režim – cestovní služba“. Při poskytnutí cestovní služby nesmí být na daňovém dokladu samostatně uvedena daň týkající se přirážky.*
+>
+> *(15) Plátce, kterému byla poskytnuta cestovní služba, nemá nárok na odpočet daně z přirážky, kterou je povinen zaplatit v ceně za tuto poskytnutou službu.*
+>
+> *(16) Pokud poskytovatel cestovní služby poskytuje vlastní službu nebo zboží vytvořené vlastní činností, které nesmí zahrnout do cestovní služby, je povinen uplatňovat daň u těchto zdanitelných plnění podle příslušné sazby daně a daň se vypočítá z ceny určené podle právních předpisů upravujících oceňování majetku, která se považuje za peněžní částku včetně daně.*
+>
+> *(17) Pokud poskytovatel cestovní služby uplatňuje daň a současně je povinen použít zvláštní režim, je také povinen vést v evidenci pro účely daně z přidané hodnoty samostatně plnění podle jednotlivých způsobů uplatňování daně.*
+>
+> *(18) Při opravě základu daně nebo výše daně u cestovní služby plátce nevystavuje opravný daňový doklad.*
+>
+> *(19) Pokud však plátce poskytuje cestovní služby jiné osobě povinné k dani, která není poskytovatelem cestovní služby, pro účely uskutečňování ekonomické činnosti, nemusí uplatňovat zvláštní režim a uplatňuje u jednotlivých nakoupených služeb cestovního ruchu daň na výstupu podle příslušné sazby daně, pokud všechny nakoupené služby cestovního ruchu zahrnuté v cestovní službě jsou poskytnuty v tuzemsku.*
+>
+> *(20) Zvláštní režim není oprávněn použít plátce, který poskytuje službu spočívající v zajištění cestovní služby jménem a na účet jiné osoby. Daň se vypočítá z úplaty, kterou plátce obdržel nebo má obdržet za poskytnutou službu zajištění cestovní služby, která se považuje za peněžní částku včetně daně. Poskytnutí služby spočívající v zajištění cestovní služby jménem a na účet jiné osoby je osvobozeno od daně s nárokem na odpočet daně, pokud jednotlivé služby cestovního ruchu zahrnuté v cestovní službě jsou poskytnuty ve třetí zemi. Pokud jsou služby cestovního ruchu zahrnuté v cestovní službě poskytnuty jak ve třetí zemi, tak i na území Evropské unie, je poskytnutí služby spočívající v zajištění cestovní služby jménem a na účet jiné osoby osvobozeno od daně s nárokem na odpočet daně jen v poměru odpovídajícímu poskytnutým službám cestovního ruchu ve třetí zemi a na území Evropské unie.*
 
 **Výklad:**
 

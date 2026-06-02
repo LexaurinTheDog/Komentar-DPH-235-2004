@@ -5,8 +5,52 @@
 ## § 13 — Dodání zboží
 
 > *(1) Dodáním zboží se pro účely tohoto zákona rozumí převod práva nakládat se zbožím jako vlastník.*
-> *(2) Dodáním zboží do jiného členského státu se rozumí dodání zboží, které je skutečně odesláno nebo přepraveno do jiného členského státu.*
-> *(3) Za dodání zboží se považuje [mj.] a) převod či přechod vlastnického práva za úplatu i na základě rozhodnutí orgánu veřejné moci …, b) dodání zboží prostřednictvím zastupující osoby jednající vlastním jménem na účet zastoupené osoby …, c) přenechání zboží k užití, je-li zřejmé, že vlastnické právo bude za obvyklých okolností převedeno na uživatele.*
+>
+> *(2) Dodáním zboží do jiného členského státu se pro účely tohoto zákona rozumí dodání zboží, které je skutečně odesláno nebo přepraveno do jiného členského státu.*
+>
+> *(3) Za dodání zboží se pro účely tohoto zákona považuje*
+>
+> *  - a) převod nebo přechod vlastnického práva k majetku za úplatu i na základě rozhodnutí orgánu veřejné moci nebo vyplývající ze zvláštního právního předpisu,*
+>
+> *  - b) dodání zboží prostřednictvím zastupující osoby, která jedná vlastním jménem na účet zastoupené osoby; toto dodání zboží se považuje za*
+>
+> *    - 1. dodání zboží zastoupenou osobou nebo třetí osobou zastupující osobě a*
+>
+> *    - 2. dodání zboží zastupující osobou třetí osobě nebo zastoupené osobě,*
+>
+> *  - c) přenechání zboží k užití na základě smlouvy, pokud je ujednáno a ke dni uzavření této smlouvy je zřejmé, že vlastnické právo k užívanému zboží bude za obvyklých okolností převedeno na jeho uživatele.*
+>
+> *(4) Za dodání zboží za úplatu se také považuje*
+>
+> *  - a) použití zboží pro účely nesouvisející s uskutečňováním ekonomické činnosti plátce, pokud byl u tohoto zboží nebo jeho části uplatněn odpočet daně,*
+>
+> *  - b) vydání vypořádacího podílu na obchodní korporaci nebo podílu na likvidačním zůstatku v nepeněžité podobě ve zboží, pokud byl u tohoto zboží nebo jeho části uplatněn odpočet daně,*
+>
+> *  - c) vložení nepeněžitého vkladu ve zboží, pokud vkladatel při nabytí tohoto zboží uplatnil u něj nebo u jeho části odpočet daně, s výjimkou vložení zboží, které je součástí vkladu obchodního závodu; vkladatel i nabyvatel v takovém případě odpovídají za splnění povinnosti přiznat daň společně a nerozdílně,*
+>
+> *  - d) dodání vratného obalu spolu se zbožím v tuzemsku plátcem, který uvádí vratné obaly spolu se zbožím na trh10a), jestliže vratný obal stejného druhu nebyl tomuto plátci vrácen k poslednímu dni příslušného účetního období daného plátce nebo k poslednímu dni příslušného kalendářního roku u plátce, který nevede účetnictví. Pro účely tohoto zákona jsou za vratné obaly stejného druhu považovány také vratné obaly se shodnou výší zvláštní peněžní částky účtované při dodání vratného obalu spolu se zbožím. Toto ustanovení se nevztahuje na dodání vratných obalů spolu se zbožím, u kterého by se uplatnilo osvobození od daně podle § 63.*
+>
+> *(5) Použitím zboží pro účely nesouvisející s uskutečňováním ekonomické činnosti plátce se pro účely daně z přidané hodnoty rozumí*
+>
+> *  - a) trvalé použití zboží, které je obchodním majetkem, plátcem pro jeho osobní potřebu nebo pro osobní potřebu jeho zaměstnanců,*
+>
+> *  - b) přenechání zboží, které je obchodním majetkem, plátcem bez úplaty, nebo*
+>
+> *  - c) trvalé použití zboží, které je obchodním majetkem, plátcem pro účely nesouvisející s uskutečňováním jeho ekonomické činnosti.*
+>
+> *(6) Za dodání zboží za úplatu se pro účely tohoto zákona považuje také přemístění zboží plátcem z tuzemska do jiného členského státu.*
+>
+> *(7) Za dodání zboží se však pro účely tohoto zákona nepovažuje*
+>
+> *  - a) pozbytí obchodního závodu,*
+>
+> *  - b) vydání nebo poskytnutí majetku v nepeněžité podobě jako náhrady nebo vypořádání podle zvláštního právního předpisu,11)*
+>
+> *  - c) poskytnutí dárku v rámci ekonomické činnosti, pokud jeho pořizovací cena bez daně nepřesahuje 500 Kč, nebo poskytnutí obchodních vzorků bez úplaty v rámci ekonomické činnosti,*
+>
+> *  - d) dodání vratného obalu, který je dodáván spolu se zbožím kupujícímu za úplatu, pokud je tato úplata přímo vázána k vratnému obalu a kupujícímu je při dodání zboží zaručeno vrácení této úplaty v plné výši po vrácení vratného obalu10a), nebo*
+>
+> *  - e) vrácení vratného obalu bez úplaty či za úplatu.*
 
 **Výklad:**
 
@@ -181,8 +225,39 @@ Nabytí zboží, které se a) **dodává s instalací/montáží**, **soustavami
 
 ## § 17 — Zjednodušený postup při třístranném obchodu
 
-> *(1) Třístranným obchodem je obchod tří osob registrovaných k dani ve třech různých členských státech, jehož předmětem je dodání téhož zboží mezi nimi, přičemž zboží je přímo odesláno z členského státu prodávajícího do členského státu kupujícího.*
-> *(5) Pořízení zboží prostřední osobou s místem plnění v tuzemsku je osvobozeno od daně za stanovených podmínek …*
+> *Třístranný obchod*
+>
+> *(1) Třístranným obchodem je obchod, který uzavřou tři osoby registrované k dani ve třech různých členských státech a předmětem obchodu je dodání téhož zboží mezi těmito třemi osobami s tím, že zboží je přímo odesláno nebo přepraveno z členského státu prodávajícího do členského státu kupujícího.*
+>
+> *(2) Prodávajícím se pro účely třístranného obchodu rozumí osoba registrovaná k dani v členském státě zahájení odeslání nebo přepravy zboží, která v členském státě zahájení odeslání nebo přepravy zboží nevyužívá režim pro malé podniky.*
+>
+> *(3) Kupujícím se pro účely třístranného obchodu rozumí osoba registrovaná k dani v členském státě ukončení odeslání nebo přepravy zboží, která kupuje zboží od prostřední osoby.*
+>
+> *(4) Prostřední osobou se pro účely třístranného obchodu rozumí osoba registrovaná k dani v členském státě odlišném od členského státu prodávajícího a členského státu kupujícího, která*
+>
+> *  - a) nemá sídlo nebo provozovnu v členském státě kupujícího a*
+>
+> *  - b) pořizuje zboží od prodávajícího v členském státě kupujícího s cílem následného dodání zboží kupujícímu v tomto členském státě.*
+>
+> *(5) Pořízení zboží z jiného členského státu, které je uskutečněno prostřední osobou s místem plnění v tuzemsku, při třístranném obchodu je osvobozeno od daně za těchto podmínek:*
+>
+> *  - a) prostřední osoba*
+>
+> *    - 1. není plátcem ani identifikovanou osobou a*
+>
+> *    - 2. je osobou registrovanou k dani v jiném členském státě,*
+>
+> *  - b) pořízení zboží z jiného členského státu je uskutečněno prostřední osobou za účelem následného dodání zboží v tuzemsku,*
+>
+> *  - c) zboží pořízené prostřední osobou je přímo odesláno nebo přepraveno z členského státu prodávajícího do tuzemska a je určeno pro kupujícího, pro kterého prostřední osoba uskutečňuje následné dodání zboží,*
+>
+> *  - d) prostřední osoba uvede na daňovém dokladu*
+>
+> *    - 1. stejné daňové identifikační číslo, které sdělila prodávajícímu, a*
+>
+> *    - 2. údaj „daň odvede zákazník“,*
+>
+> *  - e) kupující je plátcem nebo identifikovanou osobou a sdělil prostřední osobě daňové identifikační číslo, které mu bylo přiděleno v tuzemsku.*
 
 **Výklad:**
 

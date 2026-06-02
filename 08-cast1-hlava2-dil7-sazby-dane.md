@@ -66,12 +66,42 @@ Vzhledem k tomu, že zařazení do sazby může být sporné (hraniční položk
 ## § 48 — Stavba pro bydlení (definiční ustanovení)
 
 > *(1) Stavbou pro bydlení se pro účely daně z přidané hodnoty rozumí*
-> *a) stavba bytového domu,*
-> *b) stavba rodinného domu,*
-> *c) stavba, která 1. slouží k využití stavby bytového domu nebo stavby rodinného domu a 2. je zřízena na pozemku, který se stavbou … tvoří funkční celek,*
-> *d) obytný prostor,*
-> *e) místnost užívaná spolu s obytným prostorem podle písmene d), která se nachází ve stejné stavbě pevně spojené se zemí.*
-> *(5) Obytným prostorem … se rozumí soubor místností, popřípadě jedna obytná místnost, které svým stavebně technickým uspořádáním a vybavením splňují požadavky na trvalé bydlení a jsou k tomuto účelu užívání určeny.*
+>
+> *- a) stavba bytového domu,*
+>
+> *- b) stavba rodinného domu,*
+>
+> *- c) stavba, která*
+>
+> *  - 1. slouží k využití stavby bytového domu nebo stavby rodinného domu a*
+>
+> *  - 2. je zřízena na pozemku, který se stavbou bytového domu nebo rodinného domu podle bodu 1 tvoří funkční celek,*
+>
+> *- d) obytný prostor,*
+>
+> *- e) místnost užívaná spolu s obytným prostorem podle písmene d), která se nachází ve stejné stavbě pevně spojené se zemí.*
+>
+> *(2) Stavbou bytového domu se pro účely daně z přidané hodnoty rozumí stavba, která*
+>
+> *- a) je zapsána v základním registru územní identifikace, adres a nemovitostí (dále jen „registr územní identifikace“) se způsobem využití bytový dům, nebo*
+>
+> *- b) není v registru územní identifikace zapsána, ale lze důvodně předpokládat, že do registru územní identifikace bude se způsobem využití bytový dům zapsána.*
+>
+> *(3) Stavbou rodinného domu se pro účely daně z přidané hodnoty rozumí stavba, která*
+>
+> *- a) je zapsána v registru územní identifikace se způsobem využití rodinný dům, nebo*
+>
+> *- b) není v registru územní identifikace zapsána, ale lze důvodně předpokládat, že do registru územní identifikace bude se způsobem využití rodinný dům zapsána.*
+>
+> *(4) Pozemkem, který tvoří funkční celek se stavbou pevně spojenou se zemí, se pro účely daně z přidané hodnoty rozumí pozemek, který slouží k provozu stavby pevně spojené se zemí nebo slouží k plnění její funkce anebo který je využíván spolu s takovou stavbou. Touto stavbou není síť technické infrastruktury ve vlastnictví jiné osoby než vlastníka pozemku.*
+>
+> *(5) Obytným prostorem se pro účely daně z přidané hodnoty rozumí soubor místností, popřípadě jedna obytná místnost, které svým stavebně technickým uspořádáním a vybavením splňují požadavky na trvalé bydlení a jsou k tomuto účelu užívání určeny.*
+>
+> *(6) Stavba se pro účely daně z přidané hodnoty považuje za dokončenou dnem*
+>
+> *- a) nabytí právní moci prvního kolaudačního rozhodnutí, nebo*
+>
+> *- b) splnění podmínek k trvalému užívání stavby, pokud se pro stavbu kolaudační rozhodnutí nevydává.*
 
 **Výklad:**
 
@@ -90,13 +120,45 @@ Vzhledem k tomu, že zařazení do sazby může být sporné (hraniční položk
 
 ## § 48a — Stavba pro sociální bydlení (limity podlahové plochy)
 
-> *(1) Stavbou pro sociální bydlení se … rozumí*
-> *a) stavba bytového domu, v níž je více než polovina podlahové plochy tvořena obytným prostorem pro sociální bydlení,*
-> *b) stavba rodinného domu, jejíž podlahová plocha nepřesahuje 350 m2, nebo*
-> *c) obytný prostor pro sociální bydlení.*
-> *(5) Obytným prostorem pro sociální bydlení se … rozumí*
-> *a) obytný prostor, jehož podlahová plocha nepřesahuje 120 m2, nebo*
-> *b) místnost užívaná spolu s obytným prostorem podle písmene a) …*
+> *(1) Stavbou pro sociální bydlení se pro účely daně z přidané hodnoty rozumí*
+>
+> *- a) stavba bytového domu, v níž je více než polovina podlahové plochy tvořena obytným prostorem pro sociální bydlení,*
+>
+> *- b) stavba rodinného domu, jejíž podlahová plocha nepřesahuje 350 m2, nebo*
+>
+> *- c) obytný prostor pro sociální bydlení.*
+>
+> *(2) Za stavbu pro sociální bydlení se pro účely daně z přidané hodnoty považuje také*
+>
+> *- a) ubytovací zařízení pro ubytování příslušníků bezpečnostních sborů podle zákona upravujícího služební poměr příslušníků bezpečnostních sborů nebo pro ubytování státních zaměstnanců,*
+>
+> *- b) zařízení sociálních služeb poskytující pobytové služby podle zákona upravujícího sociální služby,*
+>
+> *- c) školské zařízení pro výkon ústavní výchovy nebo ochranné výchovy a školské zařízení pro preventivně výchovnou péči podle zákona upravujícího výkon ústavní výchovy nebo ochranné výchovy ve školských zařízeních a preventivně výchovnou péči ve školských zařízeních,*
+>
+> *- d) internát školy samostatně zřízené pro žáky se zdravotním postižením podle právních předpisů upravujících školská výchovná a ubytovací zařízení a školská účelová zařízení,*
+>
+> *- e) zařízení pro děti vyžadující okamžitou pomoc a zařízení pro výkon pěstounské péče poskytující péči podle zákona upravujícího sociálně-právní ochranu dětí,*
+>
+> *- f) speciální lůžkové zařízení hospicového typu podle zákona upravujícího veřejné zdravotní pojištění, nebo*
+>
+> *- g) domov péče o válečné veterány podle zákona upravujícího válečné veterány.*
+>
+> *(3) Za stavbu pro sociální bydlení se pro účely daně z přidané hodnoty považuje také stavba, u níž součet podlahové plochy prostorů využívaných pro účely podle odstavce 2 a podlahové plochy obytných prostorů pro sociální bydlení činí více než polovinu celkové podlahové plochy. Do tohoto součtu se započítá i podíl podlahové plochy společných částí domu s těmito prostory spojený.*
+>
+> *(4) Za stavbu pro sociální bydlení se pro účely daně z přidané hodnoty považuje také jiná stavba, která*
+>
+> *- a) slouží výhradně k využití stavby podle odstavce 1 písm. a) nebo b) anebo odstavce 2 nebo 3 a*
+>
+> *- b) je zřízena na pozemku, který se stavbou podle písmene a) tvoří funkční celek.*
+>
+> *(5) Obytným prostorem pro sociální bydlení se pro účely daně z přidané hodnoty rozumí*
+>
+> *- a) obytný prostor, jehož podlahová plocha nepřesahuje 120 m2, nebo*
+>
+> *- b) místnost užívaná spolu s obytným prostorem podle písmene a), která se nachází ve stejné stavbě pevně spojené se zemí.*
+>
+> *(6) Způsob výpočtu podlahové plochy pro účely daně z přidané hodnoty stanoví Ministerstvo financí vyhláškou.*
 
 **Výklad:**
 
@@ -126,13 +188,22 @@ Bez ohledu na metry se za stavbu pro sociální bydlení považují vybraná **z
 ## § 49 — Sazba daně u stavby pro bydlení
 
 > *(1) Snížená sazba daně se uplatní při poskytnutí stavebních nebo montážních prací spojených s výstavbou stavby, která je stavbou pro sociální bydlení.*
+>
 > *(2) Snížená sazba daně se uplatní také při poskytnutí stavebních nebo montážních prací, kterými se stavba nebo prostor, které nejsou dokončenou stavbou pro bydlení nebo pro sociální bydlení mění na stavbu pro sociální bydlení.*
+>
 > *(3) Snížená sazba daně se uplatní u dodání*
-> *a) stavby pro sociální bydlení, a to i pokud není dokončená,*
-> *b) pozemku, jehož součástí není jiná stavba než stavba pro sociální bydlení …,*
-> *c) práva stavby, jehož součástí není jiná stavba než stavba pro sociální bydlení …, nebo*
-> *d) jednotky, která nezahrnuje jiný prostor než obytný prostor pro sociální bydlení.*
+>
+> *- a) stavby pro sociální bydlení, a to i pokud není dokončená,*
+>
+> *- b) pozemku, jehož součástí není jiná stavba než stavba pro sociální bydlení, a to i pokud není dokončená,*
+>
+> *- c) práva stavby, jehož součástí není jiná stavba než stavba pro sociální bydlení, a to i pokud není dokončená, nebo*
+>
+> *- d) jednotky, která nezahrnuje jiný prostor než obytný prostor pro sociální bydlení.*
+>
 > *(4) Snížená sazba daně se uplatní při poskytnutí stavebních nebo montážních prací provedených na dokončené stavbě pro bydlení nebo pro sociální bydlení. To neplatí, pokud se poskytnutím těchto prací tato stavba mění na stavbu nebo prostor, které nejsou stavbou pro bydlení nebo pro sociální bydlení.*
+>
+> *(5) Snížená sazba daně se uplatní při poskytnutí stavebních nebo montážních prací provedených na dokončené stavbě, která není stavbou pro bydlení ani pro sociální bydlení, pokud jsou tyto práce provedeny na částech těchto staveb, které jsou určeny nebo slouží výhradně k bydlení nebo sociálnímu bydlení podle § 48a odst. 1 písm. c) nebo § 48a odst. 2 nebo 4. Základ daně u poskytnutí prací na částech stavby, které jsou určeny nebo slouží výhradně k bydlení nebo sociálnímu bydlení, a částech stavby určených nebo sloužících k jinému účelu, se stanoví podle poměru podlahových ploch prostorů určených nebo sloužících výhradně k bydlení nebo sociálnímu bydlení a prostorů určených nebo sloužících k jinému účelu k celkovému součtu těchto podlahových ploch.*
 
 **Výklad:**
 
@@ -162,7 +233,7 @@ Zákon dělí stavební práce podle stádia stavby:
 
 #### Poměrné rozdělení u smíšené stavby (odst. 5)
 
-> *(5) Snížená sazba daně se uplatní při poskytnutí stavebních nebo montážních prací provedených na dokončené stavbě, která není stavbou pro bydlení ani pro sociální bydlení, pokud jsou tyto práce provedeny na částech těchto staveb, které jsou určeny nebo slouží výhradně k bydlení nebo sociálnímu bydlení … Základ daně … se stanoví podle poměru podlahových ploch prostorů určených nebo sloužících výhradně k bydlení nebo sociálnímu bydlení a prostorů určených nebo sloužících k jinému účelu …*
+> *(5) Snížená sazba daně se uplatní při poskytnutí stavebních nebo montážních prací provedených na dokončené stavbě, která není stavbou pro bydlení ani pro sociální bydlení, pokud jsou tyto práce provedeny na částech těchto staveb, které jsou určeny nebo slouží výhradně k bydlení nebo sociálnímu bydlení podle § 48a odst. 1 písm. c) nebo § 48a odst. 2 nebo 4. Základ daně u poskytnutí prací na částech stavby, které jsou určeny nebo slouží výhradně k bydlení nebo sociálnímu bydlení, a částech stavby určených nebo sloužících k jinému účelu, se stanoví podle poměru podlahových ploch prostorů určených nebo sloužících výhradně k bydlení nebo sociálnímu bydlení a prostorů určených nebo sloužících k jinému účelu k celkovému součtu těchto podlahových ploch.*
 
 Toto je **jediný** případ v Dílu 7, kdy se jedno plnění **dělí mezi dvě sazby**. Pracuje-li se na dokončené stavbě, která sama není stavbou pro (sociální) bydlení, ale obsahuje **části sloužící výhradně k bydlení**, uplatní se snížená sazba **jen na poměrnou část** základu daně — poměr se určí podle **podlahových ploch** (bytová část vs. ostatní). Základ daně se tedy rozdělí v poměru ploch a každá část se zdaní svou sazbou.
 

@@ -17,11 +17,24 @@ Jediná věta, ale dvě zásadní sdělení:
 ## § 2 — Předmět daně
 
 > *(1) Předmětem daně je*
-> *a) dodání zboží za úplatu osobou povinnou k dani, která jedná jako taková, s místem plnění v tuzemsku,*
-> *b) poskytnutí služby za úplatu osobou povinnou k dani, která jedná jako taková, s místem plnění v tuzemsku,*
-> *c) pořízení 1. zboží z jiného členského státu za úplatu …, 2. nového dopravního prostředku z jiného členského státu …,*
-> *d) dovoz zboží s místem plnění v tuzemsku.*
-> *(2) Zdanitelné plnění je plnění, které a) je předmětem daně a b) není osvobozené od daně.*
+>
+> *- a) dodání zboží za úplatu osobou povinnou k dani, která jedná jako taková, s místem plnění v tuzemsku,*
+>
+> *- b) poskytnutí služby za úplatu osobou povinnou k dani, která jedná jako taková, s místem plnění v tuzemsku,*
+>
+> *- c) pořízení*
+>
+> *- 1. zboží z jiného členského státu za úplatu s místem plnění v tuzemsku osobou povinnou k dani, která jedná jako taková, nebo právnickou osobou nepovinnou k dani,*
+>
+> *- 2. nového dopravního prostředku z jiného členského státu za úplatu s místem plnění v tuzemsku osobou nepovinnou k dani,*
+>
+> *- d) dovoz zboží s místem plnění v tuzemsku.*
+>
+> *(2) Zdanitelné plnění je plnění, které*
+>
+> *- a) je předmětem daně a*
+>
+> *- b) není osvobozené od daně.*
 
 **Výklad:**
 
@@ -57,8 +70,45 @@ Chybí-li jediný znak, plnění **není předmětem české DPH** (může být 
 
 ## § 3 — Územní působnost
 
-> *(1) … tuzemskem území České republiky, … třetí zemí území mimo území Evropské unie, … územím Evropské unie souhrn území členských států.*
-> *(2)* [katalog území vyňatých z území EU pro účely DPH — hora Athos, Kanárské ostrovy, Ålandy, Helgoland, Livigno, Campione d'Italia aj.]
+> *(1) Pro účely daně z přidané hodnoty se rozumí*
+>
+> *- a) tuzemskem území České republiky,*
+>
+> *- b) členským státem území členského státu Evropské unie s výjimkou jeho území, na které se nevztahuje Smlouva o Evropské unii a Smlouva o fungování Evropské unie,*
+>
+> *- c) jiným členským státem členský stát s výjimkou tuzemska,*
+>
+> *- d) třetí zemí území mimo území Evropské unie,*
+>
+> *- e) územím Evropské unie souhrn území členských států.*
+>
+> *(2) Pro účely daně z přidané hodnoty se za území členského státu Evropské unie nepovažuje*
+>
+> *- a) hora Athos,*
+>
+> *- b) Kanárské ostrovy,*
+>
+> *- c) francouzská území uvedená v čl. 349 Smlouvy o fungování Evropské unie,*
+>
+> *- d) Ålandy,*
+>
+> *- e) Normanské ostrovy,*
+>
+> *- f) ostrov Helgoland,*
+>
+> *- g) území Büsingen,*
+>
+> *- h) Ceuta,*
+>
+> *- i) Melilla,*
+>
+> *- j) Livigno,*
+>
+> *- k) Campione d' Italia,*
+>
+> *- l) italské vody jezera Lugano.*
+>
+> *(3) Území Monackého knížectví se pro účely daně z přidané hodnoty považuje za území Francouzské republiky a území ostrova Man se považuje za území Spojeného království Velké Británie a Severního Irska, území Akrotiri a Dhekelie se považují za území Kypru.*
 
 **Výklad:**
 
@@ -118,8 +168,17 @@ Páteř režimu **e-commerce** (OSS). Jde o dodání zboží odeslaného z jedno
 
 ## § 4a — Obrat v tuzemsku
 
-> *(1) Obratem v tuzemsku se … rozumí souhrn úplat bez daně, které osobě povinné k dani náleží za uskutečněná plnění s místem plnění v tuzemsku, jde-li o úplaty za a) zdanitelné plnění …, b) plnění osvobozené od daně s nárokem na odpočet …, c) [vybraná osvobozená plnění bez nároku, nejsou-li doplňková a příležitostná].*
-> *(3) Do obratu v tuzemsku se nezahrnuje úplata za dodání nebo poskytnutí dlouhodobého majetku, není-li … nedílnou součástí obvyklé ekonomické činnosti …*
+> *(1) Obratem v tuzemsku se pro účely daně z přidané hodnoty rozumí souhrn úplat bez daně, které osobě povinné k dani náleží za uskutečněná plnění s místem plnění v tuzemsku, jde-li o úplaty za*
+>
+> *- a) zdanitelné plnění a plnění, které by bylo zdanitelné, pokud by v tuzemsku nebylo osvobozeno v režimu pro malé podniky,*
+>
+> *- b) plnění osvobozené od daně s nárokem na odpočet daně, nebo*
+>
+> *- c) plnění osvobozené od daně bez nároku na odpočet daně podle § 54 až 56a nebo dodání nemovité věci osvobozené od daně bez nároku na odpočet daně podle § 62, jestliže nejsou doplňkovou činností uskutečňovanou příležitostně.*
+>
+> *(2) Za úplatu, která osobě povinné k dani náleží za plnění podle odstavce 1, se považuje rovněž výše základu daně stanovená podle § 36 odst. 6 písm. a) nebo b) pro dodání zboží podle § 13 odst. 4 písm. a) až c) a § 13 odst. 6 nebo poskytnutí služby podle § 14 odst. 3 a 4.*
+>
+> *(3) Do obratu v tuzemsku se nezahrnuje úplata za dodání nebo poskytnutí dlouhodobého majetku, není-li toto uskutečněné plnění nedílnou součástí obvyklé ekonomické činnosti osoby povinné k dani.*
 
 **Výklad:**
 

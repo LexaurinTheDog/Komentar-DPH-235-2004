@@ -43,8 +43,14 @@ Za **správnost údajů** a za **vystavení ve lhůtě** odpovídá **vždy osob
 ## § 27 — Určení pravidel pro vystavování daňových dokladů (který stát)
 
 > *(1) Vystavování daňových dokladů při dodání zboží nebo poskytnutí služby podléhá pravidlům členského státu, ve kterém je místo plnění.*
-> *(2) Vystavování daňových dokladů podléhá pravidlům členského státu, ve kterém má osoba povinná k dani … sídlo nebo provozovnu …, pokud je místo plnění a) v jiném členském státě …, je-li osobou povinnou přiznat daň příjemce a tato osoba nebyla zmocněna k vystavení dokladu, nebo b) ve třetí zemi.*
-> *(3) … podléhá pravidlům členského státu, ve kterém je osoba … registrovaná k dani ve zvláštním režimu jednoho správního místa.*
+>
+> *(2) Vystavování daňových dokladů podléhá pravidlům členského státu, ve kterém má osoba povinná k dani, která plnění uskutečňuje, sídlo nebo provozovnu, je-li plnění uskutečněno prostřednictvím této provozovny, pokud je místo plnění*
+>
+> *  - a) v členském státě odlišném od členského státu, ve kterém má osoba povinná k dani, která plnění uskutečňuje, sídlo nebo provozovnu, je-li plnění uskutečněno prostřednictvím této provozovny, a pokud osobou povinnou přiznat daň je osoba, pro kterou se plnění uskutečňuje, a tato osoba nebyla zmocněna k vystavení daňového dokladu, nebo*
+>
+> *  - b) ve třetí zemi.*
+>
+> *(3) Vystavování daňových dokladů podléhá pravidlům členského státu, ve kterém je osoba povinná k dani, která plnění uskutečňuje, registrovaná k dani ve zvláštním režimu jednoho správního místa.*
 
 **Výklad:**
 
@@ -62,9 +68,69 @@ Za **správnost údajů** a za **vystavení ve lhůtě** odpovídá **vždy osob
 
 ## § 28 — Pravidla pro vystavování dokladů v tuzemsku (kdo, kdy, lhůta)
 
-> *(1) Plátce je povinen vystavit daňový doklad v případě a) dodání zboží nebo poskytnutí služby osobě povinné k dani nebo právnické osobě nepovinné k dani, s výjimkou plnění osvobozených od daně bez nároku na odpočet daně, b) prodeje zboží na dálku …, c) dodání zboží do jiného členského státu osvobozeného s nárokem na odpočet, d) přijetí úplaty …*
+> *(1) Plátce je povinen vystavit daňový doklad v případě*
+>
+> *  - a) dodání zboží nebo poskytnutí služby osobě povinné k dani nebo právnické osobě nepovinné k dani, s výjimkou plnění osvobozených od daně bez nároku na odpočet daně,*
+>
+> *  - b) prodeje zboží na dálku do tuzemska s místem plnění v tuzemsku; to neplatí pro prodej zboží na dálku, na který je použit zvláštní režim jednoho správního místa,*
+>
+> *  - c) dodání zboží do jiného členského státu, na které se vztahuje osvobození od daně s nárokem na odpočet daně,*
+>
+> *  - d) přijetí úplaty, pokud před uskutečněním plnění podle písmene a) nebo b) vznikla povinnost přiznat daň nebo přiznat uskutečnění plnění ke dni přijetí úplaty.*
+>
+> *(2) Plátce je povinen v případě uskutečnění plnění podle § 13 odst. 4 písm. a) a d) nebo podle § 14 odst. 3 písm. a) vystavit doklad o použití.*
+>
+> *(3) Osoba povinná k dani je povinna vystavit daňový doklad v případě*
+>
+> *  - a) uskutečnění plnění pro osobu povinnou k dani nebo právnickou osobu nepovinnou k dani, je-li místo plnění v členském státě, ve kterém nemá osoba povinná k dani, která plnění uskutečňuje, sídlo nebo ve kterém nemá umístěnu provozovnu, prostřednictvím které je toto plnění uskutečněno, pokud jde o*
+>
+> *    - 1. poskytnutí služby,*
+>
+> *    - 2. dodání zboží s instalací nebo montáží, nebo*
+>
+> *    - 3. dodání zboží soustavami nebo sítěmi,*
+>
+> *  - b) poskytnutí služby nebo dodání zboží s instalací nebo montáží pro osobu povinnou k dani nebo právnickou osobu nepovinnou k dani, je-li místo plnění ve třetí zemi, nebo*
+>
+> *  - c) přijetí úplaty, pokud před uskutečněním plnění podle písmene a) nebo b) vznikla povinnost přiznat daň nebo přiznat plnění ke dni přijetí úplaty.*
+>
+> *(4) Zahraniční osoba nebo osoba povinná k dani se sídlem ve třetí zemi, pokud se její provozovna na území Evropské unie neúčastní daného plnění, jsou povinny vystavit daňový doklad v případě*
+>
+> *  - a) uskutečnění zdanitelného plnění, u kterého má podle § 108 odst. 3 povinnost přiznat daň osoba, která toto plnění přijala, nebo*
+>
+> *  - b) přijetí úplaty, pokud před uskutečněním zdanitelného plnění podle písmene a) vznikla povinnost přiznat daň ke dni přijetí úplaty.*
+>
+> *(5) Osoba určená k uskutečnění nuceného prodeje obchodního majetku plátce je povinna namísto plátce vystavit daňový doklad při prodeji tohoto majetku, a to obdobně podle odstavce 1 písm. a), a poskytnout daňový doklad tomuto plátci.*
+>
+> *(6) Nuceným prodejem obchodního majetku se pro účely daně z přidané hodnoty rozumí prodej obchodního majetku*
+>
+> *  - a) soudem při provádění výkonu rozhodnutí podle občanského soudního řádu,*
+>
+> *  - b) soudním exekutorem při provádění exekuce podle exekučního řádu,*
+>
+> *  - c) správcem daně při provádění daňové exekuce podle daňového řádu,*
+>
+> *  - d) dražebníkem při provádění nucené dražby podle zákona upravujícího veřejné dražby,*
+>
+> *  - e) orgánem veřejné moci, nejde-li o prodej obchodního majetku podle písmen a) až d) nebo o prodej obchodního majetku tohoto orgánu veřejné moci.*
+>
+> *(7) Dochází-li k nucenému prodeji obchodního majetku plátce takovým způsobem, že se jej účastní více osob podle odstavce 6, má povinnost vystavit doklad o tomto prodeji a poskytnout jej plátci ta osoba, jejímž prostřednictvím osoba podle odstavce 6 odpovědná za provedení nuceného prodeje obchodního majetku plátce tento prodej zabezpečuje.*
+>
 > *(8) Daňový doklad musí být vystaven do 15 dnů ode dne, kdy vznikla povinnost přiznat daň, nebo přiznat plnění.*
-> *(9) Daňový doklad musí být vystaven do 15 dnů od konce kalendářního měsíce, ve kterém [vybraná přeshraniční plnění a úplaty].*
+>
+> *(9) Daňový doklad musí být vystaven do 15 dnů od konce kalendářního měsíce, ve kterém*
+>
+> *  - a) se uskutečnilo dodání zboží do jiného členského státu, na které se vztahuje osvobození od daně s nárokem na odpočet daně,*
+>
+> *  - b) se uskutečnilo poskytnutí služby, dodání zboží s instalací nebo montáží nebo dodání zboží soustavami nebo sítěmi pro osobu povinnou k dani nebo právnickou osobu nepovinnou k dani, je-li místo plnění v členském státě, ve kterém nemá osoba povinná k dani, která plnění uskutečňuje, sídlo nebo ve kterém nemá umístěnu provozovnu, prostřednictvím které je toto plnění uskutečněno,*
+>
+> *  - c) se uskutečnilo poskytnutí služby nebo dodání zboží s instalací nebo montáží pro osobu povinnou k dani nebo právnickou osobu nepovinnou k dani, je-li místo plnění ve třetí zemi, nebo*
+>
+> *  - d) byla přijata úplata, pokud před uskutečněním plnění podle písmen b) nebo c) vznikla povinnost vystavit daňový doklad v důsledku přijetí úplaty.*
+>
+> *(10) Vystavit daňový doklad může namísto osoby povinné k dani jiná osoba, a to na základě jejich ujednání; v tomto rozsahu má tato jiná osoba stejná práva a povinnosti jako tato osoba povinná k dani. Správce daně může tuto jinou osobu vyzvat k prokázání existence takového ujednání.*
+>
+> *(11) Osoba povinná k dani je povinna ve lhůtě pro vystavení daňového dokladu vynaložit úsilí, které po ní lze rozumně požadovat, k tomu, aby se tento daňový doklad dostal do dispozice příjemce plnění; to neplatí pro doklad o použití.*
 
 **Výklad:**
 
@@ -102,7 +168,67 @@ Osoba povinná k dani musí ve lhůtě vynaložit **úsilí, které po ní lze r
 
 ## § 29 — Náležitosti daňového dokladu
 
-> *(1) Daňový doklad musí obsahovat tyto údaje: a) označení osoby, která uskutečňuje plnění, b) DIČ této osoby, c) označení osoby, pro kterou se plnění uskutečňuje, d) DIČ této osoby, e) evidenční číslo dokladu, f) rozsah a předmět plnění, g) den vystavení, h) den uskutečnění plnění nebo přijetí úplaty …, i) jednotkovou cenu bez daně a slevu …, j) základ daně, k) sazbu daně, l) výši daně; tato daň se uvádí v české měně.*
+> *(1) Daňový doklad musí obsahovat tyto údaje:*
+>
+> *  - a) označení osoby, která uskutečňuje plnění,*
+>
+> *  - b) daňové identifikační číslo osoby, která uskutečňuje plnění,*
+>
+> *  - c) označení osoby, pro kterou se plnění uskutečňuje,*
+>
+> *  - d) daňové identifikační číslo osoby, pro kterou se plnění uskutečňuje,*
+>
+> *  - e) evidenční číslo daňového dokladu,*
+>
+> *  - f) rozsah a předmět plnění,*
+>
+> *  - g) den vystavení daňového dokladu,*
+>
+> *  - h) den uskutečnění plnění nebo den přijetí úplaty, pokud před uskutečněním plnění vznikla povinnost ke dni přijetí úplaty přiznat daň nebo přiznat plnění, pokud se liší ode dne vystavení daňového dokladu,*
+>
+> *  - i) jednotkovou cenu bez daně a slevu, není-li obsažena v jednotkové ceně,*
+>
+> *  - j) základ daně,*
+>
+> *  - k) sazbu daně,*
+>
+> *  - l) výši daně; tato daň se uvádí v české měně.*
+>
+> *(2) Daňový doklad musí obsahovat rovněž tyto údaje:*
+>
+> *  - a) odkaz na příslušné ustanovení tohoto zákona, ustanovení předpisu Evropské unie nebo jiný údaj uvádějící, že plnění je od daně osvobozeno, je-li plnění osvobozeno od daně,*
+>
+> *  - b) „vystaveno zákazníkem“, je-li osoba, pro kterou je plnění uskutečněno, zmocněna k vystavení daňového dokladu,*
+>
+> *  - c) „daň odvede zákazník“, je-li osobou povinnou přiznat daň osoba, pro kterou je plnění uskutečněno,*
+>
+> *  - d) údaj, že se jedná o nový dopravní prostředek, a údaje podle § 19 odst. 1 tuto skutečnost potvrzující, pokud se jedná o dodání nového dopravního prostředku do jiného členského státu,*
+>
+> *  - e) sdělení, že se jedná o třístranný obchod, jde-li o daňový doklad vystavený prostřední osobou kupujícímu při třístranném obchodu.*
+>
+> *(3) Daňový doklad nemusí obsahovat tyto údaje:*
+>
+> *  - a) daňové identifikační číslo osoby, která uskutečňuje plnění, není-li jí přiděleno,*
+>
+> *  - b) daňové identifikační číslo osoby, pro kterou se plnění uskutečňuje, není-li jí přiděleno,*
+>
+> *  - c) rozsah plnění, není-li v případě přijetí úplaty znám,*
+>
+> *  - d) jednotkovou cenu bez daně a slevu, není-li obsažena v jednotkové ceně, pokud vznikla povinnost přiznat daň nebo přiznat plnění ke dni přijetí úplaty,*
+>
+> *  - e) sazbu daně a výši daně,*
+>
+> *    - 1. jedná-li se o plnění osvobozené od daně, nebo*
+>
+> *    - 2. je-li osobou povinnou přiznat daň osoba, pro kterou je plnění uskutečněno.*
+>
+> *(4) Označením se pro účely daňových dokladů rozumí*
+>
+> *  - a) obchodní firma nebo jméno,*
+>
+> *  - b) dodatek ke jménu a*
+>
+> *  - c) sídlo.*
 
 **Výklad:**
 
@@ -155,8 +281,9 @@ Označením se rozumí **obchodní firma nebo jméno**, **dodatek ke jménu** a 
 
 ## § 29a — Náležitosti daňového dokladu skupiny
 
-> *(1) … uvede se namísto označení skupiny, která uskutečňuje plnění, označení člena skupiny, který uskutečňuje plnění.*
-> *(2) … uvede se namísto označení skupiny, pro kterou se uskutečňuje plnění, označení člena skupiny, pro kterého se uskutečňuje plnění.*
+> *(1) Pokud je daňový doklad vystaven v případě plnění uskutečněného skupinou, uvede se na daňovém dokladu namísto označení skupiny, která uskutečňuje plnění, označení člena skupiny, který uskutečňuje plnění.*
+>
+> *(2) Pokud je daňový doklad vystaven v případě plnění uskutečněného pro skupinu, uvede se na daňovém dokladu namísto označení skupiny, pro kterou se uskutečňuje plnění, označení člena skupiny, pro kterého se uskutečňuje plnění.*
 
 **Výklad:**
 
@@ -166,8 +293,19 @@ Skupina (§ 5a a násl.) je sice jediným plátcem, ale plnění fakticky prová
 
 ## § 30–30a — Zjednodušený daňový doklad
 
-> **§ 30 (1)** *Daňový doklad lze vystavit jako zjednodušený daňový doklad, pokud celková částka za plnění na daňovém dokladu není vyšší než 10 000 Kč.*
-> **§ 30 (2)** *Daňový doklad nelze vystavit jako zjednodušený … v případě a) dodání zboží do jiného ČS osvobozeného s nárokem na odpočet, b) prodeje zboží na dálku …, c) plnění, u něhož přiznává daň příjemce, nebo d) prodeje tabákových výrobků za jiné než pevné ceny pro konečného spotřebitele.*
+> **§ 30**
+>
+> (1) Daňový doklad lze vystavit jako zjednodušený daňový doklad, pokud celková částka za plnění na daňovém dokladu není vyšší než 10 000 Kč.
+>
+> (2) Daňový doklad nelze vystavit jako zjednodušený daňový doklad v případě
+>
+>   - a) dodání zboží do jiného členského státu, na které se vztahuje osvobození od daně s nárokem na odpočet daně,
+>
+>   - b) prodeje zboží na dálku nebo prodeje dovezeného zboží na dálku do tuzemska s místem plnění v tuzemsku,
+>
+>   - c) uskutečnění plnění, u něhož je povinna přiznat daň osoba, pro kterou se plnění uskutečňuje, nebo
+>
+>   - d) prodeje zboží, které je předmětem spotřební daně z tabákových výrobků, za jiné než pevné ceny pro konečného spotřebitele.
 
 **Výklad:**
 
@@ -184,8 +322,8 @@ Zjednodušený daňový doklad lze vystavit, **nepřesahuje-li celková částka
 
 #### Náležitosti, které zjednodušený doklad nemusí obsahovat (§ 30a)
 
-> **§ 30a (1)** *Zjednodušený daňový doklad nemusí obsahovat a) označení příjemce, b) DIČ příjemce, c) jednotkovou cenu bez daně a slevu …, d) základ daně, e) výši daně.*
-> **§ 30a (2)** *Neobsahuje-li zjednodušený daňový doklad výši daně, musí obsahovat částku, kterou osoba … získala nebo má získat za plnění celkem.*
+> **§ 30a (1)** *Zjednodušený daňový doklad nemusí obsahovat - a) označení osoby, pro kterou se plnění uskutečňuje, - b) daňové identifikační číslo osoby, pro kterou se plnění uskutečňuje, - c) jednotkovou cenu bez daně a slevu, není-li obsažena v jednotkové ceně, - d) základ daně, - e) výši daně.*
+> **§ 30a (2)** *Neobsahuje-li zjednodušený daňový doklad výši daně, musí obsahovat částku, kterou osoba, která plnění uskutečňuje, získala nebo má získat za uskutečňované plnění celkem.*
 
 | Údaj | Zjednodušený doklad |
 |---|---|
@@ -200,8 +338,13 @@ Zjednodušený daňový doklad lze vystavit, **nepřesahuje-li celková částka
 
 ## § 31–31b — Splátkový a platební kalendář, souhrnný daňový doklad
 
-> **§ 31** *Splátkový kalendář je daňovým dokladem, pokud a) obsahuje náležitosti daňového dokladu a b) tvoří součást nájemní smlouvy nebo je na něj v těchto smlouvách výslovně odkazováno.*
-> **§ 31a** *Platební kalendář je daňovým dokladem, pokud a) obsahuje náležitosti …, b) příjemce poskytuje úplatu před uskutečněním plnění a c) je na něm uveden rozpis plateb na předem stanovené období. (2) Platební kalendář nemusí obsahovat den uskutečnění plnění nebo den přijetí úplaty.*
+> **§ 31**
+>
+> Splátkový kalendář je daňovým dokladem, pokud
+>
+>   - a) obsahuje náležitosti daňového dokladu a
+>
+>   - b) tvoří součást nájemní smlouvy nebo je na něj v těchto smlouvách výslovně odkazováno.
 
 **Výklad:**
 
@@ -215,7 +358,7 @@ Používá se u **plateb předem** (zálohy) na předem stanovené období — t
 
 #### Souhrnný daňový doklad (§ 31b)
 
-> **§ 31b (2)** *Souhrnný daňový doklad se vystavuje do 15 dnů od konce kalendářního měsíce, ve kterém a) se uskutečnilo první plnění …, nebo b) byla přijata první úplata uvedená na tomto dokladu.*
+> **§ 31b (2)** *Souhrnný daňový doklad se vystavuje do 15 dnů od konce kalendářního měsíce, ve kterém - a) se uskutečnilo první plnění uvedené na tomto souhrnném daňovém dokladu, nebo - b) byla přijata první úplata uvedená na tomto souhrnném daňovém dokladu.*
 
 Umožňuje shrnout do **jednoho dokladu** více plnění (a úplat) uskutečněných pro **stejnou osobu v rámci jednoho kalendářního měsíce** (odst. 1):
 
@@ -265,8 +408,31 @@ Při vývozu (osvobozeném s nárokem na odpočet) je daňovým dokladem **běž
 
 ## § 34 — Věrohodnost původu, neporušenost obsahu a čitelnost (auditní stopa)
 
-> *(1) U daňového dokladu musí být od okamžiku jeho vystavení do konce doby stanovené pro jeho uchovávání zajištěna a) věrohodnost jeho původu, b) neporušenost jeho obsahu a c) jeho čitelnost.*
-> *(2) … a) věrohodností původu skutečnost, že je zaručena totožnost osoby, která plnění uskutečňuje nebo která doklad oprávněně vystavila, b) neporušeností obsahu skutečnost, že obsah … nebyl změněn, c) čitelností skutečnost, že je možné se seznámit s obsahem … přímo nebo prostřednictvím technického zařízení.*
+> *(1) U daňového dokladu musí být od okamžiku jeho vystavení do konce doby stanovené pro jeho uchovávání zajištěna*
+>
+> *  - a) věrohodnost jeho původu,*
+>
+> *  - b) neporušenost jeho obsahu a*
+>
+> *  - c) jeho čitelnost.*
+>
+> *(2) Pro účely tohoto zákona se rozumí*
+>
+> *  - a) věrohodností původu skutečnost, že je zaručena totožnost osoby, která plnění uskutečňuje nebo která daňový doklad oprávněně vystavila,*
+>
+> *  - b) neporušeností obsahu skutečnost, že obsah daňového dokladu požadovaný podle tohoto zákona nebyl změněn,*
+>
+> *  - c) čitelností skutečnost, že je možné se seznámit s obsahem daňového dokladu přímo nebo prostřednictvím technického zařízení.*
+>
+> *(3) Zajištění věrohodnosti původu daňového dokladu, neporušenosti jeho obsahu a jeho čitelnosti lze dosáhnout prostřednictvím kontrolních mechanismů procesů vytvářejících spolehlivou vazbu mezi daňovým dokladem a daným plněním.*
+>
+> *(4) Věrohodnost původu daňového dokladu v elektronické podobě a neporušenost jeho obsahu lze vedle kontrolních mechanismů procesů zajistit také*
+>
+> *  - a) uznávaným elektronickým podpisem,*
+>
+> *  - b) uznávanou elektronickou pečetí, nebo*
+>
+> *  - c) elektronickou výměnou informací (EDI)21), jestliže dohoda o této výměně stanoví užití postupů zaručujících věrohodnost původu a neporušenost obsahu.*
 
 **Výklad:**
 
@@ -291,8 +457,19 @@ Zákon je **technologicky neutrální**. Lze je zajistit:
 
 ## § 35 — Uchovávání daňových dokladů (kdo, jak dlouho, kde)
 
-> *(1) Povinnost uchovávat daňové doklady má uchovatel, kterým je osoba povinná k dani, která a) doklad vystavila nebo jejímž jménem byl vystaven …, nebo b) má sídlo nebo provozovnu v tuzemsku a je plátcem nebo identifikovanou osobou, pokud jde o doklady za všechna plnění přijatá v souvislosti se sídlem nebo provozovnou v tuzemsku.*
+> *(1) Povinnost uchovávat daňové doklady má uchovatel, kterým je osoba povinná k dani, která*
+>
+> *  - a) daňový doklad vystavila nebo jejímž jménem byl daňový doklad vystaven, pokud jde o daňové doklady za uskutečněná plnění, nebo*
+>
+> *  - b) má sídlo nebo provozovnu v tuzemsku a která je plátcem nebo identifikovanou osobou, pokud jde o daňové doklady za všechna plnění přijatá v souvislosti se sídlem nebo provozovnou v tuzemsku.*
+>
 > *(2) Daňové doklady se uchovávají po dobu 10 let od konce zdaňovacího období, ve kterém se plnění uskutečnilo.*
+>
+> *(3) Uchovatel se sídlem nebo provozovnou v tuzemsku je povinen uchovávat daňové doklady v tuzemsku. To neplatí, pokud je uchovává způsobem umožňujícím nepřetržitý dálkový přístup.*
+>
+> *(4) Pokud má uchovatel sídlo nebo provozovnu v tuzemsku, je povinen předem oznámit správci daně místo uchovávání daňových dokladů v případě, že toto místo není v tuzemsku.*
+>
+> *(5) Uchovatel je povinen na žádost správce daně zajistit český překlad daňového dokladu vystaveného v cizím jazyce.*
 
 **Výklad:**
 
@@ -318,8 +495,16 @@ Povinnost má **uchovatel** — osoba povinná k dani, která doklad **vystavila
 ## § 35a — Elektronické uchovávání daňových dokladů
 
 > *(1) Daňový doklad lze převést z listinné podoby do elektronické a naopak.*
+>
 > *(2) Daňový doklad lze uchovávat elektronicky prostřednictvím elektronických prostředků pro zpracování a uchovávání dat.*
-> *(3) Při uchovávání … prostřednictvím elektronických prostředků musí být rovněž elektronicky uchovávána data zaručující věrohodnost původu daňových dokladů a neporušenost jejich obsahu.*
+>
+> *(3) Při uchovávání daňových dokladů prostřednictvím elektronických prostředků musí být rovněž elektronicky uchovávána data zaručující věrohodnost původu daňových dokladů a neporušenost jejich obsahu.*
+>
+> *(4) Pokud uchovatel uchovává daňové doklady prostřednictvím elektronických prostředků zaručujících nepřetržitý dálkový přístup k uchovávaným datům, je povinen zajistit pro správce daně bezodkladně přístup k těmto dokladům, možnost stahovat je a používat je, pokud jde o*
+>
+> *  - a) daňové doklady uchovávané osobou povinnou k dani, která má sídlo nebo provozovnu v tuzemsku, nebo*
+>
+> *  - b) daňové doklady za uskutečněná plnění s místem plnění v tuzemsku uchovávané osobou povinnou k dani, která nemá sídlo ani provozovnu v tuzemsku.*
 
 **Výklad:**
 
