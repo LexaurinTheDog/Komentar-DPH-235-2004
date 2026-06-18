@@ -50,6 +50,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 12/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-12-06_1) — nález, 2. 7. 2008
+  > „Právní úprava, založená na totožných principech byla obsažena i v ustanovení § 37a zákona č. 588/1992 Sb., které i přes zrušení zákona č. 588/1992 Sb. je i nadále aplikováno podle § 111 zákona č. 235/2004 Sb. ve věcech neskončených"
+
 #### Smysl a struktura přechodných bodů
 
 § 111 obsahuje **23 očíslovaných bodů** (bod 17 v konsolidovaném textu chybí — byl v minulosti zrušen). Jejich úkol je jediný a typický pro každou rekodifikaci: **rozhraní mezi dvěma právními úpravami v čase**. Klíčový je **bod 1** — vyjadřuje obecnou zásadu, podle níž se plnění uskutečněná **přede dnem účinnosti** (a práva s nimi spojená) posuzují podle **dosavadních předpisů**, tj. podle zrušeného zákona č. 588/1992 Sb. Tím se chrání **zákaz pravé retroaktivity** a legitimní očekávání daňových subjektů.
@@ -116,6 +121,11 @@ Zrušení starého zákona je nutné odečíst **ve spojení s § 111 bodem 1**:
 > *Tento zákon nabývá účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost, s výjimkou ustanovení § 23 odst. 3, § 73 odst. 3 věty poslední a § 51 odst. 1 písm. j), která nabývají účinnosti dnem 1. ledna 2005.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 504/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-504-10_1) — nález, 21. 3. 2011
+  > „ZDPH ve svém závěrečném ustanovení [§ 113 písm. b)] stanovil, že ustanovení § 51 odst. 1 písm. i) a § 68 odst. 10 pozbývají platnosti dnem 31. prosince 2004. Uplynutím zmíněného dne tak citovaná ustanovení přestala normativně existovat … Ustanovení § 113 písm. b) ZDPH se naplnilo; uplynutím stanoveného okamžiku došlo ke vzniku právní skutečnosti, se kterou byl spjat stanovený následek. Tento následek nastal a vzhledem k tomu, že nikdo neumí zvrátit tok času, nelze předpokládat, že by se "opakoval""
 
 #### Datum účinnosti navázané na vstup do EU
 

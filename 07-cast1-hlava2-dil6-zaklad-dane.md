@@ -305,6 +305,11 @@ Pro plnění **mimo tuzemsko** (která se nedaní v ČR, ale vykazují se kvůli
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [77 Af 15/2021 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/702579) — 31. 5. 2022
+  > „Zákon o DPH v § 42 reaguje na situace, kdy se až po uskutečnění plnění (aspoň částečném) změnila výše úplaty za ně (typicky při vrácení zboží, nedodržení sjednaných podmínek, odstoupení od smlouvy). Důvodem pro vystavení opravného daňového dokladu tak není nesprávné vystavení původního dokladu (resp. uvedení nějakého nesprávného údaje v něm), ale typicky změna…"
+
 #### Kdy se opravuje
 
 § 42 je nástroj **dobropisu a vrubopisu**. Plátce má povinnost (nikoli jen oprávnění) opravit základ daně, nastane-li po uskutečnění plnění skutečnost měnící cenu — typicky:
@@ -376,6 +381,11 @@ Přestal-li plátce být plátcem, **neztrácí** právo (a povinnost) opravit z
 - Pravidlo se vztahuje i na **neplátce**, jemuž vznikla povinnost přiznat daň uvedenou na dokladu (odst. 5), a obdobně na zálohy (odst. 6).
 
 > ⚠ Opravu **nemůže** provést ten, komu byla daň vrácena příjemci jako **bezdůvodně zaplacená** (odst. 7). § 44 byl ze zákona vypuštěn — režim nedobytných pohledávek dnes upravuje samostatný oddíl 3 (§ 46 a násl.).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 Afs 10/2024 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/740269) — 27. 3. 2025
+  > „…dodržení zásady neutrality DPH [je] zajištěno možností, kterou mají upravit členské státy, a která spočívá v opravě jakékoliv bezdůvodně naúčtované daně, pokud vystavitel faktury prokáže dobrou víru nebo pokud včas zcela odstranil riziko ztráty daňových příjmů… Právě nebezpečí ztráty daňových příjmů spojené s uplatněním nároku na odpočet daně na základě dokladu, na němž je nesprávně uvedena daň, odůvodňuje potřebu jinak výjimečného zdanění subjektu, který sice neposkytl žádné zdanitelné plnění, vystavil však doklad, na kterém uvedl daň"
 
 ## § 45 — Opravný daňový doklad
 
@@ -528,6 +538,11 @@ Opravný daňový doklad (lidově **dobropis/vrubopis**) musí vedle identifikac
 > *(9) Věřitel opraví základ daně u pohledávky podle odstavce 1 písm. i) v posledním zdaňovacím období kalendářního roku, ve kterém dojde ke splnění podmínek této opravy.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 37/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-37-23_1) — nález, 20. 11. 2024
+  > „Podle důvodové zprávy k zákonu č. 47/2011 Sb. se možnost opravy výše daně na výstupu u pohledávek za dlužníky (odběrateli) v insolvenčním řízení zavádí v souvislosti s negativním vývojem ekonomické situace; reaguje na ekonomickou situaci a je protikrizovým opatřením s cílem pomoci firmám, jejichž cash-flow snižují nedobytné pohledávky za podniky v platební neschopnosti. … Je tak patrné, že cílem či účelem posuzovaného privilegovaného postavení státu v insolvenčním řízení je snížit negativní dopady pro stát v souvislosti se zajištěním daňové neutrality při plnění povinností státu vyplývajících z unijního práva a řádného výběru daně"
 
 #### Logika institutu
 

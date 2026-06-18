@@ -40,6 +40,11 @@
 
 § 7 je základním pravidlem pro **zboží** (hmotná věc dle § 4). Logika je geografická: rozhodující je **fyzické umístění zboží**. Klíčové je rozlišení podle toho, zda je s dodáním spojen pohyb zboží.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [22 Af 39/2023 - 62](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739065) — 9. 1. 2025
+  > „v případě, kdy je zboží předmětem více po sobě následujících dodání mezi různými osobami povinnými k dani z přidané hodnoty, které jednají jako takové, avšak předmětem pouze jediné přepravy uvnitř Společenství, musí být určení plnění, jemuž má být tato přeprava přičtena, tedy prvnímu či dalšímu dodání, provedeno s ohledem na celkové posouzení všech okolností posuzovaného případu (nikoliv jen například s ohledem na tzv. kritérium organizace přepravy) za účelem prokázání toho, které z dodání splňuje všechny podmínky, které se vážou k dodáním uvnitř Společenství (§ 7 odst. 2 zákona č. 235/2004 Sb., o dani z přidané hodnoty). … Místem dodání, které je spojeno s přepravou, nemusí být nutně vždy jen místo fyzického naložení nákladu (zboží) na dopravní prostředek, neboť v případech, kdy dochází k více dodáním v rámci jedné přepravy, k fyzické nakládce a vykládce dojde jen na počátku a konci této přepravy"
+
 #### Dodání bez přepravy vs. s přepravou
 
 | Situace | Místo plnění | Příklad |
@@ -422,6 +427,13 @@ Stejně jako u zboží na dálku platí **úleva pro malé poskytovatele**: posk
 **Výklad:**
 
 U **intrakomunitárního pořízení** (protějšek osvobozeného dodání ve státě odeslání) je **základní zásadou** zdanění v **zemi určení** — místem plnění je stát, kde **přeprava končí** (odst. 1). Tím se zajišťuje zdanění v zemi spotřeby; daň přiznává **pořizovatel** v reverse charge.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 Afs 323/2022 - 38](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/723940) — 9. 8. 2024
+  > „Ustanovení § 11 odst. 4 zákona o DPH tedy obsahuje zvláštní úpravu místa plnění při pořízení zboží z jiného členského státu. Postup uvedený v odst. 2 téhož ustanovení se nepoužije v případě třístranných obchodů, u kterých se aplikuje zjednodušený postup. Podstatou zjednodušeného postupu je osvobození prostřední osoby od povinnosti přiznat a zaplatit daň z titulu pořízení zboží z jiného členského státu ve státě ukončení přepravy či odeslání a přenesení daňové povinnosti až na konečného odběratele. Jestliže jsou splněny podmínky uvedené v § 11 odst. 4 zákona o DPH a zároveň daná transakce naplňuje definici třístranného obchodu, je místem plnění vždy členský stát, kde došlo k ukončení přepravy či odeslání zboží. Jestliže ale není splněná některá z podmínek pro aplikaci daného režimu, musí daň přiznat pořizovatel, a to v členském státě či státech určených postupem podle § 11 odst. odst. 1 a 2 zákona o DPH"
+- *NSS* [8 Afs 205/2021 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/709100) — 9. 3. 2023
+  > „Nejvyšší správní soud stran námitky aplikace § 11 odst. 4 zákona o DPH konstatuje, že ustanovení v rozhodném znění stanovilo podmínky ve vztahu k odběrateli (osobě, které bylo zboží dodáno), které musejí být kumulativně naplněny, tedy že osoba, které bylo zboží dodáno v členském státě ukončení odeslání nebo přepravy zboží, přiznala a zaplatila daň jako při pořízení zboží z jiného členského státu"
 
 #### Pojistka podle DIČ (odst. 2)
 

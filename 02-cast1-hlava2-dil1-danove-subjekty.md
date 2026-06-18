@@ -26,6 +26,11 @@
 
 Pojem **osoby povinné k dani** (unijně *taxable person*, čl. 9 směrnice Rady 2006/112/ES) je vstupní branou celého systému. Není totožný s pojmem „plátce": osobou povinnou k dani je **každý**, kdo naplní znaky ekonomické činnosti, **bez ohledu na to, zda je registrován**. Drobný podnikatel-neplátce pod obratovým prahem je osobou povinnou k dani; daň však nepřiznává a tuzemská plnění uskutečňuje bez daně. Postavení „osoba povinná k dani" je tedy širší množinou, jejíž podmnožinou jsou plátci a identifikované osoby.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Afs 82/2019 - 38](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/670080) — 21. 6. 2021
+  > „Pro určení, zda osoba vykonává ekonomickou činnost samostatně, je rozhodující, zda se nachází ve vztahu podřízenosti vůči jiné osobě. Pro posouzení existence vztahu podřízenosti je třeba ověřit, zda osoba provádí svou činnost vlastním jménem, na svůj účet a na vlastní odpovědnost, jakož i to, zda nese hospodářské riziko spojené s výkonem takové činnosti, svobodně si určuje podmínky výkonu práce a sama vybírá honoráře tvořící její příjem"
+
 #### Znaky ekonomické činnosti
 
 Tři kumulativní znaky, jejichž obsah dotváří ustálená judikatura SD EU k pojmu ekonomická činnost:
@@ -151,6 +156,11 @@ Osobě, jíž byla **zrušena registrace** proto, že přestala uskutečňovat e
 
 Vedle obratu se osoba stává plátcem **ze zákona** i z dalších důvodů, kde rozhoduje **právní nástupnictví** nebo **přeshraniční charakter** plnění. Společným jmenovatelem je ochrana neutrality a kontinuity zdanění.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Af 22/2020 - 59](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/713190) — 29. 6. 2023
+  > „Správní soudy s odkazem na ustálenou rozhodovací praxi SDEU judikují, že za osobu povinnou k dani musí být považován ten, kdo má v úmyslu potvrzeném objektivními skutečnostmi začít samostatně vykonávat ekonomickou činnost ve smyslu článku 9 Směrnice […] a kdo uskuteční první investiční výdaje za tímto účelem […]. Za hospodářskou činnost ve smyslu Směrnice tak musejí být považovány rovněž přípravné činnosti: „Kdokoliv, kdo uskutečňuje přípravné úkony, je v důsledku toho považován za osobu povinnou k dani […] a má nárok na odpočet“"
+
 #### § 6b — Nabytí majetku, přeměny, privatizace
 
 > *(1) Osoba povinná k dani je plátcem ode dne nabytí majetku, pokud nabývá tento majetek*
@@ -194,6 +204,11 @@ Provozovatel **elektronického rozhraní** (digitální platformy), který uskut
 **Dobrovolné plátcovství** — osoba pod obratovým prahem se může nechat **registrovat na vlastní žádost**, uskutečňuje-li (nebo bude-li uskutečňovat) plnění **s nárokem na odpočet**. Plátcem se stává **dnem následujícím po oznámení rozhodnutí** o registraci. Obdobně může požádat i osoba **bez sídla i provozovny v tuzemsku** (odst. 2), bude-li uskutečňovat tuzemská plnění s nárokem na odpočet. Dobrovolná registrace dává smysl tam, kde převažují **odběratelé-plátci** (kterým DPH nevadí) a kde má osoba **vysoké vstupy** — získá nárok na odpočet.
 
 > O **procesní stránce** registrace (přihláška, lhůty, rozhodnutí správce daně) pojednává [14](14-cast1-hlava5-dil1-sprava-dane.md).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Af 22/2020 - 59](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/713190) — 29. 6. 2023
+  > „Správní soudy s odkazem na ustálenou rozhodovací praxi SDEU judikují, že za osobu povinnou k dani musí být považován ten, kdo má v úmyslu potvrzeném objektivními skutečnostmi začít samostatně vykonávat ekonomickou činnost ve smyslu článku 9 Směrnice […] a kdo uskuteční první investiční výdaje za tímto účelem […]. Za hospodářskou činnost ve smyslu Směrnice tak musejí být považovány rovněž přípravné činnosti: „Kdokoliv, kdo uskutečňuje přípravné úkony, je v důsledku toho považován za osobu povinnou k dani […] a má nárok na odpočet“"
 
 ## § 6g–6l — Identifikovaná osoba
 

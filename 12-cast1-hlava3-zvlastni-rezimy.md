@@ -68,6 +68,13 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Afs 179/2020 - 56](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/698910) — 29. 3. 2022
+  > „Jsou-li splněny zákonné podmínky a cestovní služba nemá jen doplňkovou povahu, je třeba ji zdanit ve zvláštním režimu. Pokud by se totiž zvláštní režim uplatňoval v závislosti na účelu cesty, nepřiměřeně by se zúžil okruh dotčených subjektů a zvláštní režim by nedopadal na všechny subjekty poskytující shodné služby. To by vyústilo v narušení hospodářské soutěže mezi dotčenými subjekty a ohrozilo by to jednotné použití právní úpravy DPH (rozsudek iSt, body 34, 35 a 37)"
+- *NSS* [7 Afs 392/2021 - 28](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715269) — 18. 10. 2023
+  > „Podle Soudního dvora platí zvláštní zdaňovací režim pro cestovní služby také v případě, že poskytovatel není cestovní kanceláří nebo organizátorem turistických zájezdů v běžném smyslu, pokud při své činnosti uskutečňuje totožná plnění. Výklad, který by vyhrazoval zvláštní zdaňovací režim cestovních služeb jen pro cestovní kanceláře či organizátory turistických zájezdů v běžném smyslu, by totiž vedl k tomu, že by totožné služby spadaly pod různé daňové režimy v závislosti na formální povaze hospodářského subjektu …"
+
 #### Komu a kdy je režim povinný
 
 Na rozdíl od ostatních dvou režimů Hlavy III není režim pro cestovní službu volitelný — je **povinný**, jsou-li kumulativně splněny dvě podmínky (odst. 1):
@@ -139,6 +146,11 @@ Uplatňuje-li poskytovatel současně daň (běžný režim) i zvláštní reži
 > *(3) Při použití zvláštního režimu je základem daně přirážka snížená o daň z přirážky. Tato přirážka se stanoví jako rozdíl mezi prodejní cenou obchodníka a pořizovací cenou tohoto zboží. Pokud je tento rozdíl záporný, základem daně je nula.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 Af 19/2021 - 74](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/716605) — 8. 11. 2023
+  > „Účelem zvláštního režimu dle § 90 ZDPH je zabránění dvojímu zdanění a narušení hospodářské soutěže mezi osobami povinnými k dani v oblasti použitého zboží, uměleckých děl, sběratelských předmětů a starožitnosti (viz rozsudek Soudního dvora EU C-624/15 Litdana, bod 25)"
 
 #### Smysl režimu
 

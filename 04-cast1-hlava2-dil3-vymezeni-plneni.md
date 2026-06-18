@@ -54,6 +54,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [22 Af 39/2023 - 62](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739065) — 9. 1. 2025
+  > „Podle ustálené judikatury Soudního dvora EU pojem dodání zboží „neodkazuje na převod vlastnictví způsoby, jež upravuje použitelné vnitrostátní právo, ale zahrnuje veškeré převody hmotného majetku opravňující druhou stranu k faktickému nakládání s uvedeným majetkem, jako by byla vlastníkem tohoto majetku“ (rozhodnutí ze dne 8. 2. 1990, ve věci C-320/88, Shipping and Forwarding Enterprise Safe). Zahrnuje „právo skutečně nakládat s příslušnými pohonnými hmotami“ či „právo rozhodnout, jakým způsobem nebo k jakému účelu mají být takové pohonné hmoty použity“ (rozhodnutí ze dne 6. 2. 2003, ve věci C-185/01, Auto Lease Holland). […] Převod práva nakládat s věcí jako vlastník nelze zcela ztotožnit s převodem vlastnického práva podle příslušných vnitrostátních předpisů, nicméně ve většině případů k dodání zboží dochází převodem vlastnického práva. Z tohoto obecného pravidla existují výjimky, pokud jsou na nabyvatele převedena taková práva, která ho opravňují nakládat se zbožím v obdobném rozsahu, jako může činit vlastník, ačkoliv na něj vlastnické právo podle vnitrostátního práva převedeno nebylo“"
+
 #### Eurokonformní jádro pojmu: ekonomické, nikoli právní vlastnictví
 
 Definice v odst. 1 je **autonomní unijní pojem** (čl. 14 odst. 1 směrnice 2006/112/ES). Klíčové slovo je „**jako** vlastník": nejde o převod vlastnického práva v civilistickém smyslu (§ 1099 a násl. obč. zák.), nýbrž o převod **faktické, ekonomické dispozice** se zbožím — schopnosti nakládat s věcí, jako by byl nabyvatel jejím vlastníkem. Z ustálené judikatury Soudního dvora EU plyne, že:
@@ -196,6 +201,11 @@ Převod MPV **není** plněním (odst. 1) — prodej poukazu se nedaní. Daní s
 > *(2) Osobou, která uskutečňuje dodání, je osoba registrovaná k dani v JČS (mimo osob v režimu pro malé podniky daného státu).*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Afs 114/2020 - 72](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/706026) — 30. 11. 2022
+  > „V případě řetězových obchodů může být považována za intrakomunitární dodání zboží s přepravou jen jedna z řetězce obchodních transakcí (rozsudek Soudního dvora ze dne 6. 4. 2006 ve věci C-245/04, EMAG Handel Eder, bod 45). Pro určení takové transakce je rozhodné určit místo, v němž daňový subjekt nabyl právo nakládat se zbožím jako vlastník (§ 13 odst. 1 věta první zákona o DPH). Za účelem správného určení takového místa je vždy třeba posoudit všechny zvláštní okolnosti. Teprve pak je možné identifikovat, které dodání splňuje všechny podmínky stanovené pro dodání uvnitř EU (rozsudek Soudního dvora ze dne 6. 4. 2006 ve věci C-430/09, Euro Tyre […])"
 
 #### Zrcadlo k dodání — zdanění v zemi určení
 

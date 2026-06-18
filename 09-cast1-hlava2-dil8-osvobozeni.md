@@ -211,6 +211,11 @@ Naplní-li pozemek byť jen jedno z těchto kritérií, je **stavebním pozemkem
 
 § 56 je **jeden z nejdůležitějších paragrafů celé Hlavy II**. Logika je **obrácená** oproti tomu, jak ji čte laik: dodání dokončené nemovité věci je **osvobozeno od daně** — **s výjimkou** „prvního dodání" v zákonné lhůtě, které **osvobozeno není** (= je zdanitelné).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 Afs 22/2012 - 53](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/624055) — 28. 3. 2012
+  > „Z judikatury Soudního dvora EU plyne, že podmínky pro osvobození určitého plnění od daně z přidané hodnoty musí být vykládány restriktivně, restriktivní výklad ovšem nesmí vést k popření účelu osvobození od daně, jak plyne z rozhodnutí ze dne 18. 11. 2004 ve věci Temco Europe, C 284/03, Sb. rozh. s. I-11237. […] pojmy použité ve směrnici o DPH týkající se osvobození od daně jsou autonomními pojmy práva EU"
+
 #### Časový test — kdy je dodání zdanitelné a kdy osvobozené
 
 | Situace | Daňový režim |
@@ -405,6 +410,11 @@ Osvobození ve veřejném zájmu navázané na **formalizovaný systém vzdělá
 
 Dvě podmínky musí být splněny **současně**: (1) službu poskytuje **poskytovatel zdravotních služeb** dle svého **oprávnění**, a (2) jde o činnost **s léčebným cílem nebo chránící lidské zdraví**. **Kritérium léčebného cíle** je rozhodující a odpovídá judikatuře SD EU — proto výkony **bez léčebného účelu** (čistě estetické zákroky, posudky pro pojišťovnu, znalecké posudky) osvobozeny **nejsou**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [31 Af 37/2017 - 196](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/446562) — 5. 12. 2018
+  > „Primárním východiskem argumentace žalovaného je teze, že zákonem upravujícím zdravotní služby ve smyslu § 58 odst. 1 zákona o dani z přidané hodnoty je pouze zákon o zdravotních službách. Toto východisko však považuje zdejší soud za nesprávné. Citované ustanovení hovoří obecně o zdravotních službách a zákonu upravujícím zdravotní služby. Takovým zákonem je podle názoru soudu také zákon č. 379/2005 Sb"
+
 #### Zdravotní zboží (odst. 2 a 3)
 
 - **Osvobozeno (odst. 2):** dodání **lidské krve, lidských orgánů, mateřského mléka** (není-li zřejmé průmyslové využití) a **stomatologických výrobků** dodávaných stomatologickými laboratořemi (a jejich oprav).
@@ -427,6 +437,13 @@ Stručné osvobození ve veřejném zájmu odkazující na zákon o sociálních
 **Výklad:**
 
 Osvobozeno je **provozování hazardních her** provozovatelem dle zákona o hazardních hrách. **Vyňaty** jsou **související služby zajišťované provozovateli jinými osobami** (dodávky herního software, servis, marketing) — ty jsou **zdanitelné**. Osvobození tedy dopadá na herní výnos provozovatele, nikoli na dodavatelský řetězec kolem něj.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 Af 36/2019 - 59](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/709477) — 8. 3. 2023
+  > „[P]odstatou provozování hazardních her je nabízet šanci na výhru sázejícímu za přijetí rizika povinnosti vyplatit výhru. Pouze subjekt, který je vůči sázejícímu v tomto postavení, provozuje loterie a jiné podobné hry ve smyslu § 60 zákona č. 235/2004 Sb., o dani z přidané hodnoty, a pouze jím poskytovaná plnění mohou být osvobozena od daně bez nároku na odpočet daně podle § 51 odst. 1 písm. k) téhož zákona. Poskytování souvisejících služeb pro provozovatele jinými subjekty osvobozeno není (např. zajištění prodeje losů či obsluhy sázkových zařízení pro provozovatele)"
+- *NSS* [1 Afs 43/2023 - 85](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/718816) — 21. 2. 2024
+  > „Pouze subjekt, který je vůči sázejícímu v tomto postavení, provozuje loterie a jiné podobné hry ve smyslu § 60 zákona č. 235/2004 Sb., o dani z přidané hodnoty, a pouze jím poskytovaná plnění mohou být osvobozena od daně bez nároku na odpočet daně podle § 51 odst. 1 písm. k) téhož zákona. Poskytování souvisejících služeb pro provozovatele jinými subjekty osvobozeno není […]. […] služby spočívající v údržbě nebo kompletním zajištění obsluhy těchto zařízení nemají povahu provozování loterií a podobných her ve smyslu § 60 zákona o DPH"
 
 ### § 61 — Ostatní plnění osvobozená od daně bez nároku na odpočet daně
 

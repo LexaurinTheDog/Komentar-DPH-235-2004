@@ -75,6 +75,11 @@ Trvalé použití je **stálá** součást zákona — režim platí přímo ze 
 
 Zlatem se pro účely tohoto ustanovení rozumí (odst. 1) zlato o **ryzosti 333 tisícin nebo vyšší** v **neopracované** podobě (slitek, cihla, prut, valoun, zrno, granule, lístek, drát, prášek, zlomky, smetky, odpad) — s výjimkou investičního zlata — a dále **investiční zlato při dodání podle § 92 odst. 5**, tj. když se výrobce nebo zpracovatel rozhodne uplatnit u jinak osvobozeného investičního zlata daň. Výjimkou z PDP je dodání **České národní bance**. PDP dopadá rovněž na **zprostředkovatelskou službu** k investičnímu zlatu podle § 92 odst. 6, byla-li u dodání uplatněna daň.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 Af 76/2015 - 50](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/463205) — 30. 1. 2018
+  > „Režim přenesení daňové povinnosti (resp. dříve tzv. „zvláštní režim pro dodávání zlata“) se tedy projevuje tak, že daň je povinen přiznat plátce, jemuž bylo zlato o ryzosti 333/1000 nebo vyšší dodáno. Jde-li o zlato o ryzosti nižší než 333/1000, platí obecný režim, dle něhož daň z přidané hodnoty přiznává a platí plátce, který uskutečňuje zdanitelné plnění dodání zboží nebo poskytnutí služby [§ 108 odst. 1 písm. a) zákona o dani z přidané hodnoty]"
+
 ### § 92c — Dodání zboží uvedeného v příloze č. 5
 
 > *Při dodání zboží uvedeného v příloze č. 5 k tomuto zákonu, včetně dodání tohoto zboží po zpracování v podobě čištění, leštění, třídění, řezání, štěpení, lisování nebo odlévání do ingotů plátci, použije plátce režim přenesení daňové povinnosti.*

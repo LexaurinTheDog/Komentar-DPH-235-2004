@@ -234,6 +234,13 @@ Osoba povinná k dani musí ve lhůtě vynaložit **úsilí, které po ní lze r
 
 § 29 je **jádrem celého dílu** — vyjmenovává obsah „úplného" daňového dokladu. Náležitosti dělíme do tří skupin: vždy povinné (odst. 1), povinné za určitých okolností (odst. 2) a ty, které doklad za vymezených podmínek **nemusí** obsahovat (odst. 3).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 254/2024 - 30](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/744774) — 2. 9. 2025
+  > „podle § 29 odst. 1 písm. f) zákona č. 235/2004 Sb., o dani z přidané hodnoty, musí daňový doklad obsahovat též údaj o rozsahu a předmětu zdanitelného plnění (viz i čl. 226 odst. 6 směrnice o DPH). Jestliže je předmět a rozsah zdanitelného plnění uveden na daňovém dokladu natolik obecným způsobem, že není seznatelné, co bylo předmětem plnění a v jakém rozsahu bylo plnění poskytnuto, má plátce daně povinnost prokázat, o jaký předmět plnění se jednalo a v jakém rozsahu bylo plnění uskutečněno … Určení konkrétního rozsahu přijetí zdanitelných plnění je pro nárok na odpočet daně nezbytné"
+- *NSS* [9 Afs 85/2022 - 48](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/707284) — 12. 1. 2023
+  > „Tak jako správce daně nemůže klást požadavky na konkrétní obchodní model daňového subjektu a tím upřednostňovat fiskální zájmy státu (srov. nález Ústavního soudu ze dne 18. 4. 2006, sp. zn. II. ÚS 664/04), nemůže klást požadavky ani na vzhled daňových dokladů a jejich změnu přičítat daňovému subjektu k tíži"
+
 #### Povinné náležitosti (odst. 1)
 
 | Náležitost | Poznámka |
@@ -443,6 +450,11 @@ Při vývozu (osvobozeném s nárokem na odpočet) je daňovým dokladem **běž
 | **Věrohodnost původu** | je zaručena totožnost osoby, která plnění uskutečňuje / doklad oprávněně vystavila (doklad pochází od koho deklaruje) |
 | **Neporušenost obsahu** | zákonem požadovaný obsah dokladu nebyl změněn |
 | **Čitelnost** | s obsahem se lze seznámit přímo nebo technickým zařízením |
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 Af 22/2020 - 115](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/718977) — 2. 1. 2024
+  > „Povinnost daňového subjektu zajistit si důkazní prostředky o souladu faktického stavu se stavem deklarovaným na daňovém dokladu vyplývá z § 34 zákona č. 235/2004 Sb., o dani z přidané hodnoty, dle kterého musí být zajištěna mj. věrohodnost původu daňového dokladu (tj. totožnost osoby, která plnění uskutečňuje). Toho lze dosáhnout prostřednictvím kontrolních mechanismů procesů vytvářejících spolehlivou vazbu mezi daňovým dokladem a daným plněním, tzv. auditní stopu"
 
 #### Jak tyto vlastnosti zajistit
 
