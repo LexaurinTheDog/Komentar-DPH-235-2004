@@ -141,6 +141,45 @@ Uplatňuje-li poskytovatel současně daň (běžný režim) i zvláštní reži
 - **B2B přeprodej (odst. 19):** poskytuje-li plátce cestovní službu **jiné osobě povinné k dani, která sama není poskytovatelem cestovní služby**, pro účely její ekonomické činnosti, **nemusí** režim použít a uplatní daň u jednotlivých nakoupených služeb podle příslušné sazby — pokud jsou všechny nakoupené služby poskytnuty **v tuzemsku**.
 - **Zajištění cizím jménem (odst. 20):** plátce poskytující službu spočívající v **zajištění cestovní služby jménem a na účet jiné osoby** režim **použít nesmí**. Daň se vypočte z úplaty za službu zajištění (jako částka včetně daně). Zajištění je **osvobozeno s nárokem na odpočet**, jsou-li příslušné služby cestovního ruchu poskytnuty ve třetí zemi (resp. v poměru, jsou-li zčásti v EU).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Pražská cestovní kancelář CK Alfa, s. r. o. (plátce), sestaví letní pobytový balíček do Tuniska: vlastním jménem prodá zákazníkovi (spotřebiteli) za 30 000 Kč zájezd zahrnující nakoupené ubytování v tuniském hotelu (14 000 Kč od tuniské agentury) a leteckou přepravu Praha–Djerba a zpět (9 000 Kč od leteckého dopravce). Zákazník zaplatí 6 měsíců předem zálohu 12 000 Kč, zbytek měsíc před odletem. Účastníci: poskytovatel (CK), zákazník (konečný spotřebitel), dodavatelé vstupů (hotel, dopravce). Důkazy, jež by bylo třeba obstarat: smlouva o zájezdu, faktury za nakoupené vstupy s identifikací dodavatelů jako osob povinných k dani, doklad o přijetí zálohy, evidence DPH oddělující plnění podle způsobu zdanění (odst. 17).
+
+**2. Právní otázka.** Z jakého základu a v jaké výši CK přizná daň, jak naloží se zálohou přijatou před uskutečněním služby a v jakém rozsahu je plnění osvobozeno, je-li doprava i ubytování poskytnuto mimo EU (Tunisko = třetí země)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 89 — povinný režim přirážky pro poskytovatele jednajícího vlastním jménem; základ daně = přirážka snížená o daň z přirážky (odst. 3); záloha přes koeficient (odst. 4–7); osvobození u třetích zemí (odst. 12); vyloučení odpočtu (odst. 13).
+- *Související ustanovení téhož zákona:* § 36 (základ daně obecně — subsidiárně), § 21 a § 20a (uskutečnění plnění a povinnost přiznat daň ze zálohy), § 100 (evidence), § 28 a násl. (daňový doklad — zde s povinným údajem „zvláštní režim – cestovní služba").
+- *Související předpisy:* zákon č. 159/1999 Sb., o některých podmínkách podnikání v cestovním ruchu (pojem zájezdu — pozor, daňový pojem cestovní služby je širší); směrnice 2006/112/ES, čl. 306–310.
+- *Judikatura:* NSS 10 Afs 179/2020 (je-li cestovní služba splněna a nemá jen doplňkovou povahu, musí se zdanit ve zvláštním režimu bez ohledu na účel cesty — jinak narušení soutěže); NSS 7 Afs 392/2021 a věc SDEU iSt (režim platí i pro subjekt, který není „cestovní kanceláří v běžném smyslu", uskutečňuje-li totožná plnění).
+
+**4. Subsumpce.** CK jedná **vlastním jménem** (1. znak odst. 1) a poskytuje **kombinaci** nakoupené dopravy a ubytování od jiných osob povinných k dani (2. znak — cestovní služba dle odst. 2 písm. c). Balíček je **jediné plnění**. Přirážka = 30 000 − (14 000 + 9 000) = 7 000 Kč včetně daně. Vstupy ve výši 23 000 Kč jsou poskytnuty **ve třetí zemi** (Tunisko) — letecká přeprava do třetí země se za plnění ve třetí zemi výslovně považuje (odst. 12) — pročež je celá služba **osvobozena s nárokem na odpočet** v poměru plnění ve třetí zemi. Sporné/k prokázání: zda je veškerá doprava skutečně směřována do třetí země a poměr EU/třetí země.
+
+**5. Řešení.** Ze zálohy 12 000 Kč přizná CK daň z přirážky stanovené součinem zálohy a koeficientu (odst. 4), zvolí jednu metodu výpočtu (odst. 5 nebo 6) a u téže služby ji nezmění (odst. 7). Protože jsou vstupy poskytnuty ve třetí zemi, je výsledná cestovní služba osvobozena s nárokem na odpočet (odst. 12) — daň z přirážky fakticky odpadá v rozsahu plnění ve třetí zemi. Na dokladu uvede „zvláštní režim – cestovní služba" a neuvede samostatně daň z přirážky (odst. 14). Z nakoupených vstupů 23 000 Kč nemá nárok na odpočet ani na vrácení daně v jiném státě (odst. 13). Procesně: oddělená evidence (odst. 17), žádný opravný daňový doklad při pozdější opravě (odst. 18).
+
+**6. Varianty.** (a) Hotel i doprava jsou **v Chorvatsku** (EU) — osvobození dle odst. 12 nenastává, přirážka 7 000 Kč se zdaní základní sazbou v ČR (místo plnění dle sídla, odst. 9). (b) CK prodá totéž **jiné cestovní kanceláři** k dalšímu prodeji, vše v tuzemsku — může režim nepoužít a zdanit jednotlivé vstupy běžně (odst. 19). (c) CK pouze **zprostředkuje** zájezd jménem a na účet jiné CK — režim použít nesmí, zdaní jen svou provizi (odst. 20).
+
+### G. Protiargumenty a rizika
+
+- *„Účel cesty byl služební, nešlo o turistiku, režim se neuplatní."* Neutralizace: NSS 10 Afs 179/2020 i 7 Afs 392/2021 (a věc iSt) výslovně odmítají vázat režim na účel cesty či na formální status poskytovatele — rozhoduje povaha plnění, ne důvod cesty; opačný výklad by narušil soutěž a jednotné použití DPH.
+- *„Jde o jednu nakoupenou službu (jen ubytování), tedy o běžné plnění, ne o cestovní službu."* Neutralizace: odst. 2 písm. c) výslovně podřazuje pod cestovní službu i poskytnutí zahrnující **pouze jednu** nakoupenou službu ubytování nebo dopravy.
+- Slabá místa: prokázání poměru plnění ve třetí zemi vs. v EU u kombinovaných tras (odst. 12) je důkazně náročné; chybná volba/změna metody koeficientu u téže služby (odst. 7) vede k doměrku. Riziko záměny vlastního jména a zprostředkování (odst. 1 vs. 20) — rozhodující pro celý způsob zdanění.
+
+### H. Praktický závěr
+
+V praxi je třeba nejprve postavit najisto, zda poskytovatel jedná vlastním jménem (pak povinný režim marže), či jako zprostředkovatel (odst. 20). Daní se jen přirážka snížená o daň z přirážky, ze zálohy přes koeficient; vstupy nezakládají odpočet a na dokladu se neuvádí daň z přirážky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jedná poskytovatel **vlastním jménem** vůči zákazníkovi (odst. 1)? Pokud ne → odst. 20, nikoli režim marže.
+- [ ] Jde o **kombinaci (či jednu) nakoupenou službu** cestovního ruchu od jiných osob povinných k dani (odst. 2 písm. c)?
+- [ ] Správně vypočtena **přirážka** (úplata − přímo zahrnuté vstupy), záporná = 0 (odst. 3, 8)?
+- [ ] U **zálohy** zvolena a konzistentně použita jedna metoda koeficientu (odst. 4–7)?
+- [ ] Posouzeno **osvobození u třetích zemí** a poměr EU/třetí země (odst. 12)?
+- [ ] Na dokladu uvedeno **„zvláštní režim – cestovní služba"** a neuvedena samostatně daň z přirážky (odst. 14)?
+- [ ] Vyloučen odpočet z nakoupených vstupů (odst. 13) a vedena **oddělená evidence** (odst. 17)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o zájezdu / cestovní smlouva, faktury za nakoupené vstupy s identifikací dodavatelů jako osob povinných k dani, doklady o přijatých zálohách, kalkulace přirážky a koeficientu, evidence DPH oddělující jednotlivé režimy, doklady o místě poskytnutí dopravy/ubytování (třetí země vs. EU).
+
 ## § 90 — Zvláštní režim pro obchodníky s použitým zbožím, uměleckými díly, sběratelskými předměty a starožitnostmi
 
 > *(3) Při použití zvláštního režimu je základem daně přirážka snížená o daň z přirážky. Tato přirážka se stanoví jako rozdíl mezi prodejní cenou obchodníka a pořizovací cenou tohoto zboží. Pokud je tento rozdíl záporný, základem daně je nula.*
@@ -220,6 +259,46 @@ Obchodník tedy „přepíná" mezi dvěma logikami: buď režim marže **bez** 
 - Na daňovém dokladu musí být údaj **„zvláštní režim – použité zboží"**, **„zvláštní režim – umělecká díla"** nebo **„zvláštní režim – sběratelské předměty a starožitnosti"**; daň z přirážky **nesmí** být uvedena samostatně (odst. 14).
 - U **knihy**, která je zbožím podle odst. 1 písm. a) nebo b), se ustanovení o režimu použijí **obdobně** (odst. 17).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Galerie Beta, s. r. o. (plátce), koupí od soukromé osoby (neplátce, fyzická osoba nepovinná k dani) obraz za 20 000 Kč a po půl roce jej prodá sběrateli za 35 000 Kč. Galerie zároveň provozuje antikvariát, kde nakupuje od občanů knihy a drobné starožitnosti v jednotkové ceně do 1 000 Kč/ks. Účastníci: obchodník (galerie), dodavatel-neplátce (občan), kupující (sběratel, příp. plátce). Důkazy, jež by bylo třeba obstarat: doklad o nákupu od neplátce (pořizovací cena), prodejní doklad s povinným údajem o režimu, evidence oddělující plnění v režimu od běžných (odst. 13), u drobného zboží souhrnná evidence pořizovacích a prodejních cen za období.
+
+**2. Právní otázka.** Z jakého základu galerie přizná daň z prodeje obrazu, vzniká jí z pořizovací ceny 20 000 Kč nárok na odpočet a jak může zjednodušeně zdanit prodej drobného zboží do 1 000 Kč/ks?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 90 — volitelný režim marže; základ daně = přirážka (prodejní − pořizovací cena) snížená o daň z přirážky, záporná = 0 (odst. 3); podmínky původu zboží od neodpočitatelného dodavatele (odst. 2); souhrnný výpočet u zboží do 1 000 Kč (odst. 4); vyloučení odpočtu u kupujícího (odst. 10).
+- *Související ustanovení téhož zákona:* § 36 odst. 5 a 14 (vyloučené částky z prodejní ceny), [§ 62](09-cast1-hlava2-dil8-osvobozeni.md) (osvobozené dodání zakládající vstup do režimu — odst. 2 písm. c), [§ 66](09-cast1-hlava2-dil8-osvobozeni.md) (vývoz — odst. 9), § 8, § 8a, § 64 (vyloučené při intrakomunitárním dodání v režimu — odst. 12), příloha č. 4 (umělecká díla, sběratelské předměty, starožitnosti).
+- *Související předpisy:* směrnice 2006/112/ES, čl. 311–343 (režim ziskové přirážky).
+- *Judikatura:* NSS 5 Af 19/2021 (účelem režimu je zabránit dvojímu zdanění a narušení soutěže — odkaz na SDEU C-624/15 Litdana, bod 25); z věci Litdana plyne i ochrana dobré víry obchodníka spoléhajícího na to, že dodavatel režim oprávněně použil.
+
+**4. Subsumpce.** Obraz byl dodán **osobou nepovinnou k dani** (odst. 2 písm. a) — dodání nebylo zatíženo odpočitatelnou daní, takže podmínka vstupu do režimu je splněna. Galerie je **obchodník** (pořizuje za účelem dalšího prodeje na vlastní účet — odst. 1). Přirážka = 35 000 − 20 000 = 15 000 Kč včetně daně; základem daně je přirážka snížená o daň z přirážky. Pořizovací cena 20 000 Kč **nezakládá odpočet** (od neplátce žádná daň na vstupu nebyla). U drobného zboží do 1 000 Kč/ks je splněna podmínka odst. 4 pro souhrnné stanovení přirážky za období.
+
+**5. Řešení.** Galerie zvolí režim marže: z 15 000 Kč vytkne daň (částka včetně daně) a přizná ji. Na prodejním dokladu uvede „zvláštní režim – umělecká díla" (odst. 14) a daň z přirážky neuvede samostatně. Kupující-plátce nemá z této přirážky nárok na odpočet (odst. 10). U knih a drobných starožitností do 1 000 Kč/ks stanoví přirážku souhrnně za zdaňovací období jako rozdíl celkové prodejní a celkové pořizovací ceny (v členění dle sazby) — odst. 4. Procesně: oddělená evidence při souběhu s běžným režimem (odst. 13).
+
+**6. Varianty.** (a) Galerie obraz **sama doveze** ze třetí země — může (volitelně) použít režim, ale pořizovací cenou je součet základu daně a daně při dovozu (odst. 7); volbu oznámí správci daně a drží ji nejméně dva kalendářní roky (odst. 8). (b) Obraz koupí od **autora** (plátce) — režim lze zvolit (odst. 5 písm. b), pak bez odpočtu z nákupu (odst. 11); nepoužije-li režim, odpočet má (odst. 15). (c) Zboží bylo pořízeno s **uplatněným nárokem na odpočet** — režim použít **nelze** (odst. 12), prodej se zdaní běžně z plné ceny.
+
+### G. Protiargumenty a rizika
+
+- *„Dodavatel uvedl na dokladu režim marže, ale podmínky nebyly splněny — kupujícímu-obchodníkovi se režim odepírá."* Neutralizace: dle SDEU C-624/15 Litdana je chráněna **dobrá víra** obchodníka, který spoléhal na údaje dodavatele a nemohl rozpoznat pochybení; samotné odepření vyžaduje prokázání, že obchodník o nesplnění podmínek věděl nebo vědět měl.
+- *„Zboží lze do režimu zařadit i tehdy, byl-li při pořízení uplatněn odpočet."* Neutralizace: odst. 12 to výslovně vylučuje — jinak by vzniklo neoprávněné zvýhodnění (odpočet na vstupu + zdanění jen marže na výstupu).
+- Slabá místa: správné určení **pořizovací a prodejní ceny** (vč. vedlejších výdajů a výjimek dle § 36 odst. 5 a 14); prokázání postavení dodavatele jako neodpočitatelného subjektu (odst. 2 písm. a–d); u souhrnné metody (odst. 4) riziko smíšení zboží nad a pod 1 000 Kč/ks. Chybí-li doklad o pořizovací ceně od neplátce, hrozí zdanění plné ceny.
+
+### H. Praktický závěr
+
+Obchodník u zboží nabytého od neodpočitatelných dodavatelů (neplátci, osvobozená dodání, jiní obchodníci v režimu) zdaní jen přirážku snížená o daň z přirážky; pořizovací cena nezakládá odpočet a na dokladu se neuvádí daň z přirážky. U drobného zboží do 1 000 Kč/ks lze marži počítat souhrnně za období.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá zboží pod **použité zboží / přílohu č. 4** a nejde o drahé kovy/drahokamy (odst. 1)?
+- [ ] Byl dodavatel **osobou bez odpočitatelné daně na výstupu** (neplátce / malý podnik / [§ 62](09-cast1-hlava2-dil8-osvobozeni.md) / jiný obchodník v režimu) — odst. 2?
+- [ ] Nebyl při **pořízení uplatněn nárok na odpočet** (jinak režim nelze — odst. 12)?
+- [ ] Správně stanovena **přirážka** (prodejní − pořizovací cena), záporná = 0 (odst. 3)?
+- [ ] U zboží do **1 000 Kč/ks** zváženo souhrnné stanovení přirážky za období (odst. 4)?
+- [ ] Na dokladu správný údaj o režimu a **neuvedena samostatně daň z přirážky** (odst. 14)?
+- [ ] U dovezeného / autorského díla oznámena **volba režimu** a dodržena dvouletá vázanost (odst. 5–8)?
+- [ ] Vyloučen odpočet u kupujícího (odst. 10) a vedena **oddělená evidence** (odst. 13)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o nákupu zboží s identifikací dodavatele a jeho daňového postavení, kalkulace pořizovací a prodejní ceny (vč. vedlejších výdajů), prodejní doklady s údajem o režimu, souhrnná evidence u drobného zboží, oznámení volby režimu u dovezených/autorských děl, doklady o dovozu (základ daně a daň při dovozu).
+
 ## § 92 — Zvláštní režim pro investiční zlato
 
 > *(3) Od daně bez nároku na odpočet daně je osvobozeno dodání investičního zlata v tuzemsku, pořízení z jiného členského státu a jeho dovoz.*
@@ -274,6 +353,45 @@ Plátce, který přijme zprostředkovatelskou službu podle odst. 6, dodává os
 > ⚠ **Identifikace kupujícího:** povinnost uvádět **datum narození a místo pobytu** fyzické osoby nepovinné k dani jde nad rámec běžných náležitostí dokladu — odráží protipodvodný a evidenční účel režimu u drahých kovů.
 
 Povinnosti dle odst. 9 písm. a) a b) (doklad fyzické osobě a jeho desetiletá archivace) se **nevztahují** na dodání zlatých mincí podle odst. 1 písm. b) **vydaných Českou národní bankou** (odst. 10).
+
+### F. Kazuistika
+
+**1. Modelová situace.** Plátce Gama, s. r. o. provozuje zlatnickou výrobu: nakoupí surové (neinvestiční) zlato, **přemění** je na slitky o ryzosti 999,9 tisícin s vlastním číslem, označením výrobce, ryzosti a hmotnosti (investiční zlato dle odst. 1 písm. a), a část prodá jinému plátci (obchodníkovi se zlatem) a část fyzické osobě nepovinné k dani. Účastníci: výrobce/plátce (Gama), kupující-plátce, kupující-spotřebitel. Důkazy, jež by bylo třeba obstarat: doklady o nákupu surového zlata a souvisejících službách (rafinace), certifikáty ryzosti a hmotnosti, doklady o dodání investičního zlata, u prodeje spotřebiteli doklad s identifikací kupujícího (jméno, datum narození, místo pobytu) a desetiletá archivace.
+
+**2. Právní otázka.** Je dodání investičního zlata osvobozeno, a pokud ano, zachovává si výrobce nárok na odpočet z nakoupeného surového zlata a rafinačních služeb? Může se rozhodnout uplatnit daň při dodání plátci a jaké evidenční povinnosti jej tíží při prodeji spotřebiteli?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 92 — vymezení investičního zlata (odst. 1–2); osvobození bez nároku na odpočet (odst. 3–4); volba zdanění mezi plátci (odst. 5–6); zvláštní plný nárok na odpočet u výroby/přeměny (odst. 7–8); dokladové a evidenční povinnosti vč. identifikace kupujícího a desetileté archivace (odst. 9–10).
+- *Související ustanovení téhož zákona:* § 51 a násl. (osvobození bez nároku na odpočet — systémově), § 72 a násl. (nárok na odpočet — odst. 7–8 je výjimkou ze zákazu odpočtu u osvobozených plnění), § 28 a násl. (daňový doklad, zde s povinnou hmotností a ryzostí), § 100 (evidence).
+- *Související předpisy:* směrnice 2006/112/ES, čl. 344–356 (zvláštní režim pro investiční zlato); seznam zlatých mincí zveřejňovaný Evropskou komisí v Úředním věstníku EU (odst. 2); předpisy proti praní peněz u obchodu s drahými kovy (kontext identifikace kupujícího).
+- *Judikatura:* nosný výklad SDEU k osvobození investičního zlata coby finančního aktiva srovnatelného s měnou a k zachování neutrality přiznáním zvláštního odpočtu výrobci/zpracovateli; obecně zásada, že osvobození bez nároku na odpočet se u investičního zlata prolamuje právě úpravou odst. 7–8.
+
+**4. Subsumpce.** Slitky splňují znaky investičního zlata (ryzost ≥ 995 tisícin, vlastní číslo, hmotnost obchodovaná na trzích, předepsané označení — odst. 1 písm. a). Dodání je tedy **osvobozeno bez nároku na odpočet** (odst. 3). Protože však Gama zlato **přeměnila** na investiční zlato, vzniká jí výjimečný **plný nárok na odpočet** u zboží a služeb přímo souvisejících s přeměnou (odst. 8) i u nakoupeného surového zlata následně přeměněného (odst. 7 písm. b) a u rafinačních služeb měnících formu/ryzost (odst. 7 písm. c). Při prodeji plátci se může **rozhodnout uplatnit daň** (odst. 5). Při prodeji spotřebiteli je povinna vystavit doklad s identifikací kupujícího a uchovat jej 10 let (odst. 9).
+
+**5. Řešení.** Dodání investičního zlata Gama osvobodí (odst. 3), avšak uplatní **plný odpočet** ze surového zlata a rafinace (odst. 7–8) — vstupy tak nezůstanou zatíženy „uvízlou" daní. U prodeje **jinému plátci** se může rozhodnout daň uplatnit (odst. 5), čímž zachová odpočet i v dalším článku řetězce; volba se týká dodání plátci s místem plnění v tuzemsku. U prodeje **spotřebiteli** vystaví doklad o dodání s předepsanými údaji včetně jména, data narození a místa pobytu kupujícího a hmotnosti a ryzosti zlata (odst. 9 písm. a), na dokladu plátci uvede hmotnost a ryzost (odst. 9 písm. c) a doklad spotřebiteli uchová 10 let (odst. 9 písm. b).
+
+**6. Varianty.** (a) Gama prodá **zlaté mince** ze seznamu zveřejněného Evropskou komisí — považují se za investiční zlato pro daný rok bez individuálního prokazování (odst. 2). (b) Jde o zlaté mince podle odst. 1 písm. b) **vydané ČNB** — povinnost vystavit doklad spotřebiteli a archivovat jej 10 let se neuplatní (odst. 10). (c) Zlato **nesplní** ryzost (např. slitek 990 tisícin) — nejde o investiční zlato, dodání se zdaní **běžně** z plné ceny s běžným nárokem na odpočet.
+
+### G. Protiargumenty a rizika
+
+- *„Osvobozené dodání investičního zlata vylučuje jakýkoli odpočet na vstupu."* Neutralizace: odst. 7 a 8 jsou **výslovnou výjimkou** — výrobci a zpracovateli přiznávají plný nárok na odpočet u vstupů přímo souvisejících s výrobou/přeměnou, právě aby se zachovala neutralita; obecný zákaz odpočtu u osvobozených plnění se zde neuplatní.
+- *„Identifikace kupujícího (datum narození, místo pobytu) jde nad rámec zákona o DPH."* Neutralizace: odst. 9 písm. a) tyto údaje výslovně vyžaduje; jejich účelem je protipodvodná a evidenční kontrola obchodu s drahými kovy — povinnost je zákonná, nikoli excesivní.
+- Slabá místa: prokázání splnění znaků investičního zlata (ryzost, hmotnost, označení — odst. 1), jejichž nesplnění mění celý daňový režim; správné uplatnění a doložení **přímé souvislosti** vstupů s výrobou/přeměnou (odst. 7–8); dodržení dokladových a archivačních povinností (odst. 9) — jejich porušení je samostatným deliktem bez ohledu na samotné osvobození.
+
+### H. Praktický závěr
+
+Dodání investičního zlata je osvobozeno bez nároku na odpočet (odst. 3), avšak výrobce/zpracovatel si zachovává **plný odpočet** u vstupů přímo souvisejících s výrobou či přeměnou (odst. 7–8) a může se rozhodnout uplatnit daň při dodání jinému plátci (odst. 5–6). Při prodeji spotřebiteli platí přísné identifikační a archivační povinnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Splňuje zlato znaky **investičního zlata** — slitek (ryzost ≥ 995) nebo mince (ryzost ≥ 900, ražba po r. 1800, platidlo, cena do +80 %) dle odst. 1, příp. mince ze seznamu Komise (odst. 2)?
+- [ ] Aplikováno **osvobození bez nároku na odpočet** na dodání/pořízení/dovoz (odst. 3), vč. osvědčení, zlatých účtů a termínovaných obchodů (odst. 3 a 4)?
+- [ ] Zvážena **volba zdanění** při dodání jinému plátci v tuzemsku (odst. 5) a navazující zprostředkovatelská služba (odst. 6)?
+- [ ] Uplatněn **zvláštní plný odpočet** u výroby/přeměny a souvisejících vstupů (odst. 7–8) — doložena přímá souvislost?
+- [ ] U prodeje spotřebiteli vystaven **doklad s identifikací kupujícího** (jméno, datum narození, místo pobytu) a hmotností a ryzostí, a **archivován 10 let** (odst. 9)?
+- [ ] Na dokladu plátci uvedena **hmotnost a ryzost** zlata (odst. 9 písm. c)?
+- [ ] Uplatněna výjimka pro **mince vydané ČNB** (odst. 10), jde-li o ně?
+
+**Typicky rozhodné důkazy / podklady:** certifikáty ryzosti, hmotnosti a označení slitků/mincí, seznam zlatých mincí zveřejněný Komisí, doklady o nákupu surového zlata a rafinačních služeb (pro odpočet dle odst. 7–8), doklady o dodání investičního zlata, doklady spotřebiteli s identifikací kupujícího a důkaz desetileté archivace, evidence DPH.
 
 ---
 

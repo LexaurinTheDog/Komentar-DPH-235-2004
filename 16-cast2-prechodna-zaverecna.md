@@ -97,6 +97,27 @@ Tyto body řeší situace, kdy se **k 1. 5. 2004** změnila samotná geografie D
 
 > ⚠ Tato přechodná pravidla jsou dnes z hlediska běžné praxe **historická** (váží se k okamžiku vstupu ČR do EU v roce 2004), zachovávají však **právní význam** při řešení sporů o staré transakce a jako interpretační vodítko pro pochopení vztahu dovozního a intrakomunitárního režimu.
 
+### F. Kazuistika
+
+**1. Přežívání zrušeného zákona pro neskončené věci (bod 1).** Plátce vede v roce 2010 spor o daň za zdaňovací období roku 2003. Přestože byl zákon č. 588/1992 Sb. již dávno zrušen (§ 112), správce daně i soud posuzují věc podle dosavadní úpravy. Ústavní soud v nálezu *Pl.ÚS 12/06* potvrdil, že úprava obsažená v § 37a zákona č. 588/1992 Sb. „i přes zrušení zákona č. 588/1992 Sb. je i nadále aplikováno podle § 111 zákona č. 235/2004 Sb. ve věcech neskončených". Bod 1 tak působí jako kolizní norma chránící zákaz pravé retroaktivity.
+
+**2. Transformace DIČ a kontinuita registrace (bod 6).** Společnost registrovaná před 1. 5. 2004 pod DIČ „001-12345678" neměla povinnost o registraci znovu žádat; její DIČ se automaticky změnilo na „CZ12345678". Riziko vznikalo u plátců, kteří na fakturách po vstupu do EU nadále uváděli starý formát — odběratel z jiného členského státu si nemohl ověřit DIČ ve VIES, což ohrožovalo osvobození dodání zboží do EU.
+
+**3. Záloha podle staré smlouvy versus přiznání daně (bod 11).** Plátce přijal v dubnu 2004 zálohu na stavební práce dokončené v červnu 2004. Podle bodu 11 záloha zaplacená před účinností **není přijatou platbou** podle nového zákona; povinnost přiznat daň proto vzniká až ke dni uskutečnění zdanitelného plnění (dokončení díla), nikoli ke dni přijetí zálohy. Plátce, který by daň přiznal již z dubnové zálohy podle staré logiky, by daň přiznal v nesprávném období.
+
+**4. Přechod koeficientu odpočtu (body 8–10).** Plátce s plněními osvobozenými bez nároku na odpočet použil pro zdaňovací období roku 2004 jako zálohový koeficient hodnotu z vypořádání za rok 2003 a vypořádání rozdělil na úsek do účinnosti (§ 20 starého zákona) a úsek po účinnosti (§ 76). Chybou v praxi bylo aplikovat nový § 76 i zpětně na celý rok 2004.
+
+### G. Protiargumenty a rizika
+
+- **„Starý zákon je zrušen, tak ho nelze použít."** Nesprávné. Bod 1 výslovně zachovává dosavadní předpisy pro plnění a práva vzniklá před účinností; derogace v § 112 působí jen do budoucna.
+- **Záměna okamžiku přiznání daně u zálohových smluv.** U smluv uzavřených do 30. 4. 2004 nelze mechanicky uplatnit pravidlo „daň ke dni přijetí platby" — záloha zaplacená před účinností se za platbu podle nového zákona nepovažuje (bod 11).
+- **Restart obratu (bod 7).** Riziko nesprávného určení vzniku plátcovství, pokud se k obratu před 1. 5. 2004 přihlédne; zákon takový obrat pro účely registrace podle § 6 ignoruje.
+- **Historická, nikoli neúčinná pravidla.** Body vázané na vstup do EU (13–15, 21, 23) se sice týkají jednorázového okamžiku roku 2004, avšak při sporech o staré transakce a u leasingových smluv podle bodu 12 mohou být stále rozhodné.
+
+### H. Praktický závěr
+
+§ 111 je kolizní (intertemporální) ustanovení: rozhraní mezi zákonem č. 588/1992 Sb. a zákonem č. 235/2004 Sb. Praktik si pamatuje zejména **bod 1** (staré předpisy pro staré skutkové stavy a neskončené věci), **bod 6** (automatická transformace DIČ na formát „CZ" a kontinuita registrace), **bod 7** (restart obratu pro plátcovství podle § 6) a **body 8–10** (rozdělené vypořádání koeficientu odpočtu při přechodu z § 20 na § 76). U smluv a záloh uzavřených před 1. 5. 2004 je nutné ověřit, zda daň vzniká ke dni uskutečnění plnění (bod 11), a u leasingu podle bodu 12 aplikovat dosavadní zákon. Většina bodů má dnes historickou povahu, jejich interpretační a důkazní význam pro staré transakce však přetrvává.
+
 ## § 112 — Zrušovací ustanovení
 
 > *Zrušuje se:*
@@ -115,6 +136,24 @@ Tyto body řeší situace, kdy se **k 1. 5. 2004** změnila samotná geografie D
 Zrušení starého zákona je nutné odečíst **ve spojení s § 111 bodem 1**: ačkoli je zákon č. 588/1992 Sb. formálně zrušen, pro **plnění uskutečněná před 1. 5. 2004** a pro práva s nimi spojená se i nadále **aplikuje jeho obsah** (tzv. **přežívání zrušeného předpisu** pro skutkové stavy vzniklé za jeho účinnosti). To je standardní legislativní technika: derogace působí **do budoucna**, nikoli zpětně na již dovršené daňové povinnosti.
 
 > ⚠ **Pozor na výslovnost výčtu:** § 112 jmenovitě ruší pouze čtyři novely. To neznamená, že ostatní novely zákona č. 588/1992 Sb. zůstaly „v platnosti" — zrušením kmenového zákona pozbyly **derogační i pozměňovací novely** smyslu (novelizační ustanovení se „vyčerpala" už při svém provedení). Výčet má spíše **deklaratorní a legislativně-technickou** funkci.
+
+### F. Kazuistika
+
+**1. Derogace působí do budoucna, obsah přežívá pro staré stavy.** Daňová kontrola v roce 2009 řeší odpočet uplatněný v roce 2003. Ačkoli § 112 zrušil zákon č. 588/1992 Sb. s účinností od 1. 5. 2004, ve spojení s § 111 bodem 1 se na již dovršené daňové povinnosti nadále aplikuje obsah zrušeného zákona. Ústavní soud v nálezu *Pl.ÚS 12/06* tuto konstrukci výslovně aproboval u § 37a starého zákona, který „i přes zrušení zákona č. 588/1992 Sb. je i nadále aplikováno podle § 111 zákona č. 235/2004 Sb. ve věcech neskončených".
+
+**2. Vyčerpané novelizační zákony.** Plátce dohledá, že zákon č. 588/1992 Sb. byl za dobu své účinnosti novelizován více než čtyřmi zákony, avšak § 112 jmenovitě ruší pouze čtyři z nich (č. 321/1993 Sb., 258/1994 Sb., 133/1995 Sb. a 208/1997 Sb.). Mylně z toho dovozuje, že ostatní novely zůstaly „v platnosti". Ve skutečnosti všechny novelizační zákony pozbyly smyslu již zrušením kmenového zákona — jejich pozměňovací ustanovení se vyčerpala provedením. Výčet má jen deklaratorní a legislativně-technickou funkci.
+
+**3. Vztah k pozdějším předpisům.** Zrušení zákona č. 588/1992 Sb. nemá vliv na předpisy, které na nový zákon teprve navázaly (např. prováděcí nařízení vlády k reverse charge). § 112 řeší výhradně derogaci předchozí úpravy DPH, nikoli osud navazujících podzákonných předpisů.
+
+### G. Protiargumenty a rizika
+
+- **„Jiné novely starého zákona platí dál."** Nesprávné. Zrušením kmenového zákona pozbyly smyslu všechny jeho novely; výslovný výčet čtyř z nich je deklaratorní.
+- **Záměna formální derogace a faktické aplikace.** Formálně je zákon č. 588/1992 Sb. zrušen, materiálně se však jeho obsah na staré skutkové stavy stále používá (§ 111 bod 1). Praktik nesmí zaměnit „platnost" a „použitelnost na minulé daňové povinnosti".
+- **Riziko nesprávné citace.** U sporů o staré období je nutné odkazovat na konkrétní znění zákona č. 588/1992 Sb. účinné v rozhodné době (nikoli na zákon č. 235/2004 Sb.), jinak hrozí aplikace nesprávné hmotněprávní úpravy.
+
+### H. Praktický závěr
+
+§ 112 provádí **úplnou derogaci** předchozí úpravy DPH — ruší zákon č. 588/1992 Sb. a čtyři jeho výslovně uvedené novely. Klíčové je číst derogaci **ve spojení s § 111 bodem 1**: zrušení působí jen do budoucna, zatímco pro plnění uskutečněná před 1. 5. 2004 a práva s nimi spojená obsah zrušeného zákona „přežívá". Praktik proto u starých skutkových stavů aplikuje dosavadní zákon v rozhodném znění a nenechá se zmást tím, že je formálně zrušen. Výčet čtyř novel je pouze deklaratorní — ostatní novely se vyčerpaly již svým provedením a zrušením kmenového zákona pozbyly smyslu.
 
 ## § 113 — Účinnost
 
@@ -144,6 +183,25 @@ Tři ustanovení nabyla účinnosti až **1. 1. 2005**:
 Odložení účinnosti dílčích ustanovení je běžná technika, jíž zákonodárce poskytuje **přechodný čas** pro přizpůsobení praxe nebo navazujících předpisů.
 
 > ⚠ Text § 113 zachycuje **původní účinnost** z roku 2004. Pozdější účinnosti jednotlivých novel ZDPH (např. velké novely k 1. 1. 2009, 1. 1. 2013, 1. 7. 2017, 1. 1. 2025) jsou obsaženy v **přechodných a účinnostních ustanoveních příslušných novelizačních zákonů**, nikoli v § 113 samotném. Konsolidované znění k 1. 1. 2026 proto zachovává toto ustanovení v původní podobě.
+
+### F. Kazuistika
+
+**1. Účinnost navázaná na vstup do EU.** Zákon nenabyl účinnosti pevným kalendářním datem, nýbrž dnem vstupu přístupové smlouvy v platnost — tj. **1. května 2004**. Plátce, který by hledal v § 113 konkrétní datum „1. 5. 2004", ho v textu nenajde; účinnost je vázána na právní skutečnost (vstup smlouvy v platnost). Vazba je systémově logická, neboť celá konstrukce intrakomunitárního obchodu (pořízení/dodání zboží uvnitř EU, jednotné DIČ, VIES) má smysl jen od okamžiku členství ČR v EU.
+
+**2. Odložená účinnost tří ustanovení.** Ustanovení § 23 odst. 3 (dovoz — okamžik vzniku povinnosti), § 73 odst. 3 věty poslední (nárok na odpočet) a § 51 odst. 1 písm. j) (osvobozená plnění bez nároku na odpočet) nabyla účinnosti až **1. 1. 2005**. Plátce posuzující plnění z období květen–prosinec 2004 musel ověřit, že tato tři ustanovení v dané době ještě nebyla účinná.
+
+**3. Pozbytí platnosti uplynutím času.** Ústavní soud v nálezu *I.ÚS 504/10* k jinému závěrečnému ustanovení (§ 113 písm. b) v historickém znění) vyložil, že stanovil-li zákon pozbytí platnosti dvou ustanovení dnem 31. 12. 2004, pak „uplynutím zmíněného dne tak citovaná ustanovení přestala normativně existovat … Tento následek nastal a vzhledem k tomu, že nikdo neumí zvrátit tok času, nelze předpokládat, že by se ‚opakoval'". Jde o ilustraci, že účinnostní (resp. „pozbývací") ustanovení vyvolá svůj následek jednorázově a nelze ho znovu „aktivovat".
+
+### G. Protiargumenty a rizika
+
+- **Hledání pevného data v § 113.** Riziko omylu: účinnost není v textu vyjádřena datem, ale vázána na vstup přístupové smlouvy v platnost (1. 5. 2004).
+- **Přehlédnutí odložené účinnosti.** U plnění z období 5–12/2004 hrozí nesprávná aplikace § 23 odst. 3, § 73 odst. 3 věty poslední a § 51 odst. 1 písm. j), které nabyly účinnosti až 1. 1. 2005.
+- **Záměna § 113 s účinností novel.** § 113 zachycuje **původní** účinnost z roku 2004. Účinnosti pozdějších velkých novel (1. 1. 2009, 1. 1. 2013, 1. 7. 2017, 1. 1. 2025) jsou v přechodných a účinnostních ustanoveních **příslušných novelizačních zákonů**, nikoli v § 113. Konsolidované znění k 1. 1. 2026 zachovává § 113 v původní podobě.
+- **„Pozbylá" ustanovení nelze oživit.** Ustanovení, jejichž platnost zanikla uplynutím stanoveného dne, již normativně neexistují (viz *I.ÚS 504/10*).
+
+### H. Praktický závěr
+
+§ 113 stanoví účinnost zákona **dnem vstupu přístupové smlouvy ČR k EU v platnost** (1. 5. 2004), s odložením tří ustanovení (§ 23 odst. 3, § 73 odst. 3 věta poslední, § 51 odst. 1 písm. j) na **1. 1. 2005**. Praktik nehledá v § 113 pevné datum — účinnost je navázána na právní skutečnost přistoupení. U starých plnění z roku 2004 je třeba ověřit, zda dotčené ustanovení v rozhodné době již bylo účinné. Pro účinnost pozdějších novel se § 113 nepoužije; rozhodná jsou účinnostní ustanovení jednotlivých novelizačních zákonů. Závěrečná ustanovení o pozbytí platnosti vyvolávají následek jednorázově a nelze je znovu aktivovat (*I.ÚS 504/10*).
 
 ## Přílohy zákona
 
