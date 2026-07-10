@@ -107,3 +107,7 @@ Konsolidované znění k **1. 1. 2026**. Komentář zpracován výhradně z lok�
 ---
 
 > Doporučené pořadí čtení pro nováčka: [úvod](00-uvod.md) → [01](01-cast1-hlava1-obecna-ustanoveni.md) (pojmy) → [02](02-cast1-hlava2-dil1-danove-subjekty.md) (kdo) → [03](03-cast1-hlava2-dil2-misto-plneni.md) (kde) → [04](04-cast1-hlava2-dil3-vymezeni-plneni.md)/[05](05-cast1-hlava2-dil4-uskutecneni-vznik-povinnosti.md) (co/kdy) → [07](07-cast1-hlava2-dil6-zaklad-dane.md)/[08](08-cast1-hlava2-dil7-sazby-dane.md) (kolik) → [09](09-cast1-hlava2-dil8-osvobozeni.md)/[10](10-cast1-hlava2-dil10-odpocet-dane.md) (osvobození a odpočet — jádro).
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
