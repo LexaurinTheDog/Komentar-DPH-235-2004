@@ -82,6 +82,82 @@ Pro úplnost: oddíl 1 dílu 8 (**§ 50**) upravuje osvobození v **režimu pro 
 
 § 51 čtěte jako rozcestník, nikoli jako právní důvod osvobození. Pro každé plnění identifikujte konkrétní paragraf (§ 52–62) a ověřte splnění jeho podmínek; teprve pak je plnění osvobozeno bez nároku. Souběžně řešte dopad do odpočtu: u výlučně osvobozených vstupů odpočet vůbec neuplatňujte, u smíšených krátěte koeficientem (§ 76). Hlídejte okamžik přiznání podle odst. 2 (úplata vs. uskutečnění) a počítejte s tím, že DPH na vstupu bude nákladem.
 
+
+<!-- LEGAL-REVISION:BEGIN id=a047cc49d7a3969e5cbf generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 51 — Plnění osvobozená od daně bez nároku na odpočet daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Při splnění podmínek stanovených v § 52 až 62 jsou od daně bez nároku na odpočet daně osvobozena tato plnění:
+>
+>   - a) základní poštovní služby a dodání poštovních známek ([[#§ 52|§ 52]]),
+>
+>   - b) rozhlasové a televizní vysílání ([[#§ 53|§ 53]]),
+>
+>   - c) finanční činnosti ([[#§ 54|§ 54]]),
+>
+>   - d) penzijní činnosti ([[#§ 54a|§ 54a]]),
+>
+>   - e) pojišťovací činnosti ([[#§ 55|§ 55]]),
+>
+>   - f) dodání pozemku ([[#§ 55a|§ 55a]]),
+>
+>   - g) dodání vybrané nemovité věci ([[#§ 56|§ 56]]),
+>
+>   - h) nájem nemovité věci ([[#§ 56a|§ 56a]]),
+>
+>   - i) výchova a vzdělávání ([[#§ 57|§ 57]]),
+>
+>   - j) zdravotní služby a dodání zdravotního zboží ([[#§ 58|§ 58]]),
+>
+>   - k) sociální pomoc ([[#§ 59|§ 59]]),
+>
+>   - l) provozování hazardních her ([[#§ 60|§ 60]]),
+>
+>   - m) ostatní plnění osvobozená od daně bez nároku na odpočet daně ([[#§ 61|§ 61]]),
+>
+>   - n) dodání zboží, které bylo použito pro plnění osvobozená od daně bez nároku na odpočet daně, a zboží, u něhož nemá plátce nárok na odpočet daně ([[#§ 62|§ 62]]).
+>
+> (2) U plnění, které je osvobozeno od daně bez nároku na odpočet daně, vzniká povinnost jej přiznat ke dni jeho uskutečnění. Je-li před uskutečněním plnění osvobozeného od daně bez nároku na odpočet daně přijata úplata, vzniká povinnost přiznat tuto přijatou úplatu ke dni jejího přijetí; to neplatí, není-li plnění osvobozené od daně ke dni přijetí úplaty známo dostatečně určitě. Při stanovení hodnoty plnění osvobozeného od daně podle odstavce 1 nebo hodnoty úplaty za takové plnění, u které vznikla povinnost ji přiznat, se postupuje podle [[#§ 36|§ 36]] a 37a odst. 1 obdobně. Při opravě hodnoty plnění osvobozeného od daně podle odstavce 1 nebo hodnoty úplaty za takové plnění, u které vznikla povinnost ji přiznat, se postupuje podle [[#§ 42|§ 42]] obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 52, § 53, § 54, § 54a, § 55, § 55a, § 56, § 56a, § 57, § 58, § 59, § 60, § 61, § 62, § 36, § 42
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a047cc49d7a3969e5cbf -->
+
 ### § 52 — Základní poštovní služby a dodání poštovních známek
 
 > *(1) Základní poštovní službou se pro účely tohoto zákona rozumí základní služba podle zákona upravujícího poštovní služby poskytovaná držitelem poštovní licence obsažená v této licenci.*
@@ -108,6 +184,54 @@ Osvobozena je **jen základní (univerzální) poštovní služba** poskytovaná
 
 U poštovních plnění vždy nejprve ověřte, zda jde o **základní službu obsaženou v poštovní licenci** poskytovanou jejím držitelem — jen ta je osvobozena. Kurýrní, expresní a individuálně sjednané služby zdaňte. U známek a obdobných cenin osvobozujte pouze do nominální hodnoty (ceny dle ceníku); prodej nad nominál (filatelie) zdaňte. Konkurenční doručovatelé bez licence účtují daň na všech plněních a mají u souvisejících vstupů nárok na odpočet.
 
+
+<!-- LEGAL-REVISION:BEGIN id=3818dc66d9d5c93555af generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 52 — Základní poštovní služby a dodání poštovních známek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Základní poštovní službou se pro účely tohoto zákona rozumí základní služba podle zákona upravujícího poštovní služby poskytovaná držitelem poštovní licence obsažená v této licenci.
+>
+> (2) Dodáním poštovních známek se pro účely tohoto zákona rozumí dodání poštovních známek platných pro použití v rámci poštovních služeb v tuzemsku nebo dodání dalších obdobných cenin s tím, že částka za tato dodání nepřevyšuje nominální hodnotu nebo částku podle poštovních ceníků.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3818dc66d9d5c93555af -->
+
 ### § 53 — Rozhlasové a televizní vysílání
 
 > *Rozhlasovým nebo televizním vysíláním se pro účely osvobození od daně rozumí poskytování rozhlasového nebo televizního vysílání prováděné provozovateli vysílání ze zákona podle zákona upravujícího provozování rozhlasového a televizního vysílání, s výjimkou vysílání obchodního sdělení, nebo poskytování obdobného vysílání z jiného členského státu nebo ze třetí země.*
@@ -131,6 +255,52 @@ Osvobozeno je vysílání **veřejnoprávních provozovatelů „ze zákona"** (
 #### H. Praktický závěr
 
 Osvobození podle § 53 aplikujte jen na vysílání **provozovatele vysílání ze zákona** (ČT, ČRo) a **vyjměte z něj reklamu** — ta je vždy zdanitelná. Komerční stanice osvobození nečerpají. Vysílatel s reklamními příjmy je typickým smíšeným plátcem: vede oddělenou evidenci vstupů a krátí odpočet koeficientem (§ 76). Poskytování licencí, prodej obsahu a další komerční plnění zdaňte v běžném režimu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=8afbfb55acfec80de112 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 53 — Rozhlasové a televizní vysílání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> Rozhlasovým nebo televizním vysíláním se pro účely osvobození od daně rozumí poskytování rozhlasového nebo televizního vysílání prováděné provozovateli vysílání ze zákona podle zákona upravujícího provozování rozhlasového a televizního vysílání, s výjimkou vysílání obchodního sdělení, nebo poskytování obdobného vysílání z jiného členského státu nebo ze třetí země.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8afbfb55acfec80de112 -->
 
 ### § 54 — Finanční činnosti
 
@@ -206,6 +376,96 @@ Odst. 2 a 3 zužují okruh osob, které mohou osvobození uplatnit u **správy �
 
 U každé finanční služby ověřte, zda **doslovně spadá** pod některé písmeno § 54 odst. 1, a zda nejde o výslovně vyňaté **vymáhání dluhů či faktoring** (písm. r). U outsourcingu testujte podle judikatury SD EU, zda služba tvoří specifický a podstatný prvek finanční operace — jinak ji zdaňte. Respektujte omezení okruhu osob u správy úvěru (odst. 2) a karet (odst. 3). Počítejte s tím, že banky a obdobné instituce jsou plátci s velmi nízkým koeficientem a většinu vstupní DPH nesou jako náklad.
 
+
+<!-- LEGAL-REVISION:BEGIN id=0dd02472ed2d17ca0be7 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 54 — Finanční činnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Finančními činnostmi se pro účely tohoto zákona rozumí
+>
+>   - a) převod cenných papírů včetně zaknihovaných cenných papírů, podílů v obchodních korporacích,
+>
+>   - b) přijímání vkladů od veřejnosti,
+>
+>   - c) poskytování úvěrů a peněžních zápůjček,
+>
+>   - d) platební služby a vydávání elektronických peněz,
+>
+>   - e) vydávání a správa platebních prostředků, jestliže se nejedná o poskytování platebních služeb nebo vydávání elektronických peněz podle písmene d),
+>
+>   - f) poskytování a převzetí peněžních záruk a převzetí peněžních závazků,
+>
+>   - g) otevření, potvrzení a avizování akreditivu,
+>
+>   - h) směnárenská činnost,
+>
+>   - i) operace týkající se peněz,
+>
+>   - j) dodání zlata České národní bance a přijímání vkladů Českou národní bankou od bank, včetně zahraničních bank, nebo od státu,
+>
+>   - k) organizování regulovaného trhu s investičními nástroji,
+>
+>   - l) přijímání nebo předávání pokynů týkajících se investičních nástrojů na účet zákazníka,
+>
+>   - m) provádění pokynů týkajících se investičních nástrojů na cizí účet,
+>
+>   - n) obchodování s investičními nástroji na vlastní účet,
+>
+>   - o) upisování nebo umísťování emisí investičních nástrojů,
+>
+>   - p) vypořádání obchodů s investičními nástroji,
+>
+>   - q) obchodování s devizovými hodnotami na vlastní účet nebo na účet zákazníka,
+>
+>   - r) úplatné postoupení pohledávky postoupené jiným subjektem; osvobozeno od daně není poskytování služeb, jejichž předmětem je vymáhání dluhů a faktoring,
+>
+>   - s) obhospodařování nebo administrace investičního fondu, důchodového fondu, účastnického fondu, transformovaného fondu nebo obdobných zahraničních fondů,
+>
+>   - t) sjednání nebo zprostředkování činností podle písmen a) až i) nebo k) až r).
+>
+> (2) Osvobození podle odstavce 1 písm. c) v případě operací souvisejících se správou úvěru nebo peněžní zápůjčky může uplatnit pouze osoba poskytující úvěr nebo peněžní zápůjčku.
+>
+> (3) Osvobození podle odstavce 1 písm. e) v případě operací souvisejících s vydáváním platebních karet, zejména správy nebo blokace platební karty, může uplatnit pouze vydavatel tohoto platebního prostředku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0dd02472ed2d17ca0be7 -->
+
 ### § 54a — Penzijní činnosti
 
 > *Penzijními činnostmi se pro účely tohoto zákona rozumí*
@@ -236,6 +496,58 @@ Osvobozeno je **provozování i zprostředkování** penzijních produktů. Vyč
 
 Osvobození podle § 54a uplatněte na **poskytování i zprostředkování** doplňkového penzijního spoření a penzijního připojištění. Podpůrné a administrativní služby třetích osob zdaňte. Daňově postupujte stejně jako u § 54 — osvobození bez nároku s krácením odpočtu koeficientem (§ 76). U penzijní společnosti počítejte s nízkým odpočtovým poměrem a vstupní DPH převážně jako nákladem.
 
+
+<!-- LEGAL-REVISION:BEGIN id=4c77ada65f14ea96df85 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 54a — Penzijní činnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> Penzijními činnostmi se pro účely tohoto zákona rozumí
+>
+>   - a) poskytování doplňkového penzijního spoření podle zákona upravujícího doplňkové penzijní spoření,
+>
+>   - b) poskytování penzijního připojištění podle zákona upravujícího penzijní připojištění,
+>
+>   - c) zprostředkování doplňkového penzijního spoření nebo penzijního připojištění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4c77ada65f14ea96df85 -->
+
 ### § 55 — Pojišťovací činnosti
 
 > *Pojišťovacími činnostmi se pro účely tohoto zákona rozumí*
@@ -265,6 +577,58 @@ Osvobozeno je **pojištění, zajištění** a **zprostředkovatelské služby p
 #### H. Praktický závěr
 
 Osvobozujte podle § 55 jen **pojištění, zajištění** a služby **pojišťovacích zprostředkovatelů** v tomto jejich postavení. Likvidaci škod, asistenci a administrativu poskytovanou jinými subjekty zdaňte podle judikatury SD EU. Ověřujte postavení poskytovatele (zprostředkovatel pojištění) a u kombinovaných plnění posuďte, zda netvoří samostatná zdanitelná plnění. Pojišťovny jsou plátci s nízkým koeficientem; vstupní DPH převážně nesou jako náklad.
+
+
+<!-- LEGAL-REVISION:BEGIN id=4c849c18be2a39cfd084 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 55 — Pojišťovací činnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> Pojišťovacími činnostmi se pro účely tohoto zákona rozumí
+>
+>   - a) poskytování pojištění,
+>
+>   - b) poskytování zajištění,
+>
+>   - c) služby související s pojištěním nebo zajištěním poskytované osobami zprostředkovávajícími pojištění nebo zajištění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4c849c18be2a39cfd084 -->
 
 ### § 55a — Dodání pozemku
 
@@ -314,6 +678,66 @@ Naplní-li pozemek byť jen jedno z těchto kritérií, je **stavebním pozemkem
 #### H. Praktický závěr
 
 Osvobození podle § 55a aplikujte **jen na holý nestavební pozemek**, který současně netvoří funkční celek se stavbou a není stavebním pozemkem. Stavební charakter testujte ze dvou hledisek — právního (územní plán, rozhodnutí stavebního úřadu) i faktického (provedené stavební práce); naplnění jediného z nich činí dodání zdanitelným. U B2B prodejů zvažte **volbu zdanění** (odst. 4) k zachování odpočtu a u plátce-příjemce si zajistěte předchozí souhlas.
+
+
+<!-- LEGAL-REVISION:BEGIN id=90d81e0c5661d6d450ee generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 55a — Dodání pozemku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Od daně je osvobozeno dodání pozemku, který
+>
+>   - a) netvoří funkční celek se stavbou pevně spojenou se zemí a
+>
+>   - b) není stavebním pozemkem.
+>
+> (2) Stavebním pozemkem se pro účely daně z přidané hodnoty rozumí pozemek,
+>
+>   - a) na kterém lze na základě územně plánovací dokumentace vydané obcí, vymezení zastavěného území nebo rozhodnutí stavebního úřadu podle stavebního zákona umístit stavbu pevně spojenou se zemí; to neplatí, pokud je zřejmé, že na pozemek nelze takovou stavbu umístit nebo je to vysoce nepravděpodobné, nebo
+>
+>   - b) na kterém nebo v jehož okolí byly nebo jsou prováděny stavební nebo obdobné práce za účelem budoucího umístění stavby pevně spojené se zemí na tomto pozemku.
+>
+> (3) Pro účely odstavců 1 a [[#§ 2|2]] se za stavbu pevně spojenou se zemí nepovažuje stavba, která se na pozemku nachází a jejíž význam pro obvyklé užití takového pozemku je zanedbatelný.
+>
+> (4) Plátce nebo osoba neusazená v tuzemsku, která není registrována jako plátce a není osobou registrovanou do režimu pro malé podniky pro tuzemsko, která může tento režim využívat, se mohou rozhodnout, že se i u dodání pozemku podle odstavce 1 jedná o zdanitelné plnění. Pokud je příjemce tohoto plnění plátcem nebo osobou registrovanou k dani v jiném členském státě, která nemá sídlo ani provozovnu v tuzemsku a není osobou registrovanou do režimu pro malé podniky pro tuzemsko, která může tento režim využívat, lze tak učinit pouze po jeho předchozím souhlasu. Pokud plátce nebo osoba neusazená v tuzemsku, která není registrována jako plátce a není osobou registrovanou do režimu pro malé podniky pro tuzemsko, která může tento režim využívat, přijali před uskutečněním zdanitelného plnění úplatu, ze které jim nevznikla povinnost přiznat daň, stanoví se při uskutečnění zdanitelného plnění základ daně podle [[#§ 36|§ 36]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 36
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=90d81e0c5661d6d450ee -->
 
 ### § 56 — Dodání vybrané nemovité věci
 
@@ -381,6 +805,90 @@ I u dodání, které **má být osvobozeno**, se plátce může rozhodnout, že 
 #### H. Praktický závěr
 
 U dodání vybrané nemovité věci proveďte **časový test**: zjistěte datum dokončení (právní moc první kolaudace, resp. splnění podmínek užívání) a případnou podstatnou změnu (náklady nad **30 %**) a spočítejte konec **23. měsíce**. První dodání ve lhůtě zdaňte, pozdější je osvobozeno. U osvobozeného dodání kalkulujte úpravu odpočtu (vyrovnávací lhůta u nemovitostí **10 let**, § 78 a násl.) a u B2B transakcí zvažte **volbu zdanění** (odst. 8) — u plátce-příjemce s předchozím souhlasem.
+
+
+<!-- LEGAL-REVISION:BEGIN id=74e19d7ee3b27a816698 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 56 — Dodání vybrané nemovité věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Dodání dokončené vybrané nemovité věci je osvobozeno od daně s výjimkou prvního dodání této nemovité věci uskutečněného do konce dvacátého třetího kalendářního měsíce bezprostředně následujícího po kalendářním měsíci, v němž se vybraná nemovitá věc považuje za dokončenou nebo v němž nastala skutečnost podle odstavce 3; pro účely určení počátku této doby je rozhodná skutečnost, která nastala později.
+>
+> (2) Vybraná nemovitá věc se pro účely daně z přidané hodnoty považuje za dokončenou dnem
+>
+>   - a) nabytí právní moci prvního kolaudačního rozhodnutí, nebo
+>
+>   - b) splnění podmínek k trvalému užívání této nemovité věci, pokud se pro tuto nemovitou věc kolaudační rozhodnutí nevydává.
+>
+> (3) Za první dodání dokončené vybrané nemovité věci se pro účely daně z přidané hodnoty považuje také první dodání této nemovité věci uskutečněné po
+>
+>   - a) dni nabytí právní moci kolaudačního rozhodnutí po provedení změny, během níž došlo k podstatné změně této nemovité věci, nebo dnem splnění podmínek k trvalému užívání této nemovité věci po provedení této změny, pokud se po jejím provedení kolaudační rozhodnutí nevydává; to neplatí v případě, že
+>
+>     - 1. je kolaudační rozhodnutí vydáno jiné osobě než osobě, která tuto změnu provedla, nebo
+>
+>     - 2. podmínky k trvalému užívání této nemovité věci po provedení této změny splnila jiná osoba než osoba, která tuto změnu provedla, nebo
+>
+>   - b) dni, kdy se změna probíhající na této nemovité věci stala podstatnou změnou, pokud k dodání této nemovité věci dochází přede dnem
+>
+>     - 1. nabytí právní moci kolaudačního rozhodnutí po provedení této změny, nebo
+>
+>     - 2. splnění podmínek k trvalému užívání této nemovité věci po provedení této změny, pokud se po jejím provedení kolaudační rozhodnutí nevydává.
+>
+> (4) Vybraná nemovitá věc se pro účely daně z přidané hodnoty nepovažuje za dokončenou, byla-li dokončena pouze její část.
+>
+> (5) Podstatnou změnou dokončené vybrané nemovité věci se pro účely daně z přidané hodnoty rozumí změna dokončené vybrané nemovité věci, jejímž cílem je změna jejího využití nebo podmínek jejího obývání, pokud skutečné náklady vynaložené na tuto změnu bez daně osobou, která uskutečňuje bezprostředně následující dodání této nemovité věci, přesáhnou 30 % základu daně při tomto bezprostředně následujícím dodání.
+>
+> (6) Skutečnosti rozhodné pro počátek běhu doby podle odstavce 1 se v případě pozemku, který tvoří funkční celek se stavbou pevně spojenou se zemí, nebo práva stavby, jehož součástí je stavba pevně spojená se zemí, odvíjí od stavby pevně spojené se zemí, s níž pozemek tvoří funkční celek nebo která je součástí práva stavby.
+>
+> (7) Vybranou nemovitou věcí se pro účely daně z přidané hodnoty rozumí
+>
+>   - a) stavba pevně spojená se zemí,
+>
+>   - b) jednotka,
+>
+>   - c) pozemek, který tvoří funkční celek se stavbou pevně spojenou se zemí, nebo
+>
+>   - d) právo stavby, jehož součástí je stavba pevně spojená se zemí.
+>
+> (8) Plátce nebo osoba neusazená v tuzemsku, která není registrována jako plátce a není osobou registrovanou do režimu pro malé podniky pro tuzemsko, která může tento režim využívat, se mohou rozhodnout, že se u dodání dokončené vybrané nemovité věci jedná o zdanitelné plnění, i pokud má být podle odstavce 1 osvobozeno od daně. Pokud je příjemce tohoto plnění plátcem nebo osobou registrovanou k dani v jiném členském státě, která nemá sídlo ani provozovnu v tuzemsku a není osobou registrovanou do režimu pro malé podniky pro tuzemsko, která může tento režim využívat, lze tak učinit pouze po jeho předchozím souhlasu. Pokud plátce nebo osoba neusazená v tuzemsku, která není registrována jako plátce a není osobou registrovanou do režimu pro malé podniky pro tuzemsko, která může tento režim využívat, přijali před uskutečněním zdanitelného plnění úplatu, ze které jim nevznikla povinnost přiznat daň, stanoví se při uskutečnění zdanitelného plnění základ daně podle [[#§ 36|§ 36]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 36
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=74e19d7ee3b27a816698 -->
 
 ### § 56a — Nájem nemovité věci
 
@@ -453,6 +961,82 @@ Plátce se může **rozhodnout, že nájem zdaní**, pronajímá-li **jinému pl
 #### H. Praktický závěr
 
 Vyjděte z pravidla, že **nájem nemovité věci je osvobozen**, a ověřte, zda nejde o některý z pěti vyňatých případů (krátkodobý nájem do 48 h, ubytování CZ-CPA 55, parkování, schránky, stroje) — ty jsou zdanitelné. U nájmu plátci pro ekonomickou činnost zvažte **volbu zdanění** (odst. 3, 4) k zachování odpočtu, ale respektujte **zákaz volby u bydlení** (odst. 5, práh 60 % podlahové plochy). Pronajímatelé bytů odpočet u vstupů neuplatňují.
+
+
+<!-- LEGAL-REVISION:BEGIN id=669f97849bfd95436f6b generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 56a — Nájem nemovité věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Nájem nemovité věci je osvobozen od daně s výjimkou
+>
+>   - a) krátkodobého nájmu nemovité věci,
+>
+>   - b) poskytnutí ubytovacích služeb, které odpovídají číselnému kódu klasifikace produkce CZ-CPA 55 ve znění platném k 1. lednu 2015,
+>
+>   - c) nájmu prostor a míst k parkování vozidel,
+>
+>   - d) nájmu bezpečnostních schránek,
+>
+>   - e) nájmu strojů nebo jiných upevněných zařízení.
+>
+> (2) Krátkodobým nájmem nemovité věci se pro účely odstavce 1 písm. a) rozumí nájem pozemku, jehož součástí je stavba, stavby nebo jednotky, popřípadě spolu s vnitřním movitým vybavením nebo dodáním plynu, elektřiny, tepla, chladu nebo vody, který trvá nepřetržitě nejvýše 48 hodin.
+>
+> (3) Plátce se může rozhodnout, že se jedná o zdanitelné plnění, pokud jde o nájem nemovité věci jinému plátci nebo osobě registrované k dani v jiném členském státě, která nemá sídlo ani provozovnu v tuzemsku a není osobou registrovanou do režimu pro malé podniky pro tuzemsko, která může tento režim využívat, pro účely uskutečňování jejich ekonomické činnosti.
+>
+> (4) Osoba neusazená v tuzemsku, která není osobou registrovanou do režimu pro malé podniky pro tuzemsko, která může tento režim využívat, se může rozhodnout, že se u nájmu nemovité věci plátci pro účely uskutečňování jeho ekonomické činnosti jedná o zdanitelné plnění.
+>
+> (5) Odstavce 3 a [[#§ 4|4]] se nepoužijí pro nájem
+>
+>   - a) stavby rodinného domu,
+>
+>   - b) obytného prostoru,
+>
+>   - c) jednotky, která zahrnuje obytný prostor a nezahrnuje nebytový prostor jiný než garáž, sklep nebo komoru,
+>
+>   - d) stavby, v níž je alespoň 60 % podlahové plochy této stavby nebo části stavby, je-li pronajímána tato část, tvořeno obytným prostorem,
+>
+>   - e) pozemku, jehož součástí je stavba rodinného domu, obytný prostor nebo stavba podle písmene d), s níž je tento pozemek pronajímán,
+>
+>   - f) práva stavby, jehož součástí je stavba rodinného domu nebo stavba podle písmene d), s níž je právo stavby pronajímáno.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=669f97849bfd95436f6b -->
 
 ### § 57 — Výchova a vzdělávání
 
@@ -546,6 +1130,118 @@ Osvobození ve veřejném zájmu navázané na **formalizovaný systém vzdělá
 
 U vzdělávacích plnění ověřte **formální titul** osvobození podle odst. 1 — zápis ve školském rejstříku, akreditovaný program, status veřejného/neziskového poskytovatele u aktivit pro děti a mládež či dětských skupin. Bez něj plnění zdaňte, byť má vzdělávací obsah. Osvobození rozšiřte i na zboží a služby poskytované **v rámci** výuky (odst. 2). U poskytovatelů se smíšenými plněními veďte oddělenou evidenci vstupů a krátěte odpočet koeficientem.
 
+
+<!-- LEGAL-REVISION:BEGIN id=09a4b1500b84e3683139 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 57
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Výchovou a vzděláváním se pro účely tohoto zákona rozumí
+>
+>   - a) výchovná a vzdělávací činnost poskytovaná v mateřských školách, základních školách, středních školách, konzervatořích, vyšších odborných školách, základních uměleckých školách a jazykových školách s právem státní jazykové zkoušky, které jsou zapsány ve školském rejstříku42), dále výchovná a vzdělávací činnost v rámci praktického vyučování nebo praktické přípravy podle školského zákona,
+>
+>   - b) školské služby poskytované ve školských zařízeních, které jsou zapsány ve školském rejstříku42) a které doplňují nebo podporují vzdělávání ve školách podle písmene a) nebo s ním přímo souvisejí; dále zajištění ústavní nebo ochranné výchovy anebo preventivně výchovné péče44),
+>
+>   - c) vzdělávací činnost poskytovaná na vysokých školách podle zákona o vysokých školách
+>
+>     - 1. v akreditovaných studijních programech,
+>
+>     - 2. v programech celoživotního vzdělávání,
+>
+>   - d) činnost prováděná za účelem rekvalifikace nebo poskytování služeb odborného výcviku podle přímo použitelného předpisu Evropské unie, kterým se stanoví prováděcí opatření ke směrnici o společném systému daně z přidané hodnoty7e), poskytovaná
+>
+>     - 1. osobou, která získala akreditaci k provádění této činnosti,
+>
+>     - 2. osobou, která má pro výkon této činnosti akreditovaný vzdělávací program,
+>
+>     - 3. osobou, která vykonává tuto činnost ze zákona, nebo
+>
+>     - 4. školou v oblasti oboru vzdělávání, který má zapsaný v rejstříku škol a školských zařízení,
+>
+>   - e) výchovná a vzdělávací činnost v rámci plnění povinné školní docházky žáků v zahraničních školách zřízených na území České republiky a nezapsaných do školského rejstříku, v nichž Ministerstvo školství, mládeže a tělovýchovy povolilo plnění povinné školní docházky,
+>
+>   - f) jazykové vzdělání poskytované v
+>
+>     - 1. jednoletých kurzech cizích jazyků s denní výukou vzdělávacími institucemi působícími v oblasti jazykového vzdělávání uznanými Ministerstvem školství, mládeže a tělovýchovy, které poskytují jednoleté kurzy cizích jazyků s denní výukou, nebo
+>
+>     - 2. přípravných kurzech pro vykonání standardizovaných jazykových zkoušek uznaných Ministerstvem školství, mládeže a tělovýchovy44f),
+>
+>   - g) výchovné, vzdělávací a volnočasové aktivity poskytované dětem a mládeži, pokud jsou poskytovány
+>
+>     - 1. státem,
+>
+>     - 2. krajem,
+>
+>     - 3. obcí,
+>
+>     - 4. organizační složkou státu, kraje nebo obce,
+>
+>     - 5. dobrovolným svazkem obcí,
+>
+>     - 6. hlavním městem Prahou nebo jeho městskou částí,
+>
+>     - 7. příspěvkovou organizací, nebo
+>
+>     - 8. právnickou osobou, která nebyla založena nebo zřízena za účelem podnikání,
+>
+>   - h) poskytování služby péče o dítě v dětské skupině podle zákona upravujícího poskytování služby péče o dítě v dětské skupině nebo poskytování péče o děti do 4 let v denním režimu, pokud jsou poskytovány
+>
+>     - 1. státem,
+>
+>     - 2. krajem,
+>
+>     - 3. obcí,
+>
+>     - 4. organizační složkou státu, kraje nebo obce,
+>
+>     - 5. dobrovolným svazkem obcí,
+>
+>     - 6. hlavním městem Prahou nebo jeho městskou částí,
+>
+>     - 7. příspěvkovou organizací, nebo
+>
+>     - 8. právnickou osobou, která nebyla založena nebo zřízena za účelem podnikání.
+>
+> (2) Od daně je osvobozeno dodání zboží nebo poskytnutí služby uskutečňované v rámci výchovy a vzdělávání osobou uvedenou v odstavci 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=09a4b1500b84e3683139 -->
+
 ### § 58 — Zdravotní služby a dodání zdravotního zboží
 
 > *(1) Zdravotní službou se pro účely tohoto zákona rozumí zdravotní služba podle zákona upravujícího zdravotní služby poskytovaná poskytovatelem zdravotních služeb uvedená v oprávnění k poskytování zdravotních služeb, pokud se jedná o činnost s léčebným cílem nebo chránící lidské zdraví, a služba s ní úzce související.*
@@ -598,6 +1294,68 @@ Odst. 4 osvobozuje **zdravotní pojištění** podle zákona o veřejném zdravo
 
 U zdravotních služeb testujte **dvě podmínky současně**: poskytovatele s oprávněním a **léčebný cíl** (nebo ochranu zdraví). Estetické zákroky a posudky bez léčebného účelu zdaňte. U zdravotního zboží rozlišujte: osvobozeny jsou krev, orgány, mateřské mléko a stomatologické výrobky laboratoří (odst. 2), zatímco **léčiva, potraviny pro zvláštní výživu a zdravotnické prostředky jsou zdanitelné** (odst. 3). Zdravotní pojištění je osvobozeno (odst. 4).
 
+
+<!-- LEGAL-REVISION:BEGIN id=bb047958fff6950786ce generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 58 — Zdravotní služby a dodání zdravotního zboží
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Zdravotní službou se pro účely tohoto zákona rozumí zdravotní služba podle zákona upravujícího zdravotní služby poskytovaná poskytovatelem zdravotních služeb uvedená v oprávnění k poskytování zdravotních služeb, pokud se jedná o činnost s léčebným cílem nebo chránící lidské zdraví, a služba s ní úzce související.
+>
+> (2) Dodáním zdravotního zboží se pro účely tohoto zákona rozumí dodání
+>
+>   - a) lidské krve, lidských orgánů a mateřského mléka, pokud není ke dni jejich dodání zřejmé, že budou použity pro průmyslové využití, nebo
+>
+>   - b) stomatologických výrobků, které jsou zdravotnickými prostředky podle zákona upravujícího zdravotnické prostředky, stomatologickými laboratořemi a oprav těchto výrobků.
+>
+> (3) Dodáním zdravotního zboží pro účely tohoto zákona není výdej nebo prodej
+>
+>   - a) léčiv,
+>
+>   - b) potravin pro zvláštní výživu, nebo
+>
+>   - c) zdravotnických prostředků na lékařský předpis i bez lékařského předpisu.
+>
+> (4) Od daně je osvobozeno zdravotní pojištění podle zákona [[o veřejném zdravotním pojištění|o veřejném zdravotním pojištění]]46).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bb047958fff6950786ce -->
+
 ### § 59 — Sociální pomoc
 
 > *Sociální pomocí se pro účely tohoto zákona rozumí sociální služby podle zvláštního právního předpisu47). Sociální služby jsou osvobozeny od daně, pokud jsou poskytovány podle zvláštního právního předpisu47a).*
@@ -621,6 +1379,52 @@ Stručné osvobození ve veřejném zájmu odkazující na zákon o sociálních
 #### H. Praktický závěr
 
 Osvobození podle § 59 aplikujte jen na **sociální služby poskytované podle zákona o sociálních službách** registrovaným poskytovatelem. Komerční pečovatelské, asistenční a obdobné služby mimo tento režim zdaňte. U smíšených poskytovatelů veďte oddělenou evidenci a krátěte odpočet koeficientem. Vstupní DPH u osvobozené činnosti zůstává nákladem.
+
+
+<!-- LEGAL-REVISION:BEGIN id=94cbe4def5f3ad2820c0 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 59 — Sociální pomoc
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> Sociální pomocí se pro účely tohoto zákona rozumí sociální služby podle zvláštního právního předpisu47). Sociální služby jsou osvobozeny od daně, pokud jsou poskytovány podle zvláštního právního předpisu47a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=94cbe4def5f3ad2820c0 -->
 
 ### § 60 — Provozování hazardních her
 
@@ -652,6 +1456,52 @@ Osvobozeno je **provozování hazardních her** provozovatelem dle zákona o haz
 #### H. Praktický závěr
 
 Osvobození podle § 60 svědčí **jen provozovateli hazardní hry** — subjektu, který vůči sázejícímu nese riziko výplaty výhry. Veškeré **související služby zajišťované pro provozovatele jinými osobami** (obsluha a údržba zařízení, software, marketing, prodej losů) jsou zdanitelné s nárokem na odpočet u poskytovatele. Tuto hranici, potvrzenou judikaturou NSS (15 Af 36/2019, 1 Afs 43/2023), důsledně promítněte do fakturace dodavatelského řetězce kolem provozovatele.
+
+
+<!-- LEGAL-REVISION:BEGIN id=0397235840d6f4faf562 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 60 — Provozování hazardních her
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> Provozováním hazardních her se pro účely tohoto zákona rozumí provozování hazardních her podle zákona upravujícího hazardní hry, s výjimkou služeb souvisejících s jejich provozováním zajišťovaných pro provozovatele jinými osobami.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0397235840d6f4faf562 -->
 
 ### § 61 — Ostatní plnění osvobozená od daně bez nároku na odpočet daně
 
@@ -706,6 +1556,72 @@ Spojujícím znakem většiny písmen je **podmínka nenarušení hospodářské
 
 § 61 je sběrné osvobození pro neziskové subjekty (členská plnění, sport, kultura, fundraising, sdílení nákladů v seskupení). U každého plnění ověřte **neziskový status poskytovatele**, podřaditelnost pod konkrétní písmeno a — u většiny případů — **nenarušení hospodářské soutěže**. U písm. g) (nezávislé seskupení) postupujte zvlášť opatrně a doložte splnění všech tří podmínek. Při pochybnosti o konkurenčním dopadu raději plnění zdaňte.
 
+
+<!-- LEGAL-REVISION:BEGIN id=f0ad4c3da7a0e5bd3a5c generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 61 — Ostatní plnění osvobozená od daně bez nároku na odpočet daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> Od daně jsou dále osvobozena tato plnění:
+>
+>   - a) poskytnutí služeb a dodání zboží s nimi úzce souvisejícího jako protihodnoty členského příspěvku pro vlastní členy právnických osob, které nebyly založeny nebo zřízeny za účelem podnikání a jejichž povaha je politická, odborová, náboženská, vlastenecká, filozofická, dobročinná nebo občanská, pokud toto osvobození od daně nenarušuje hospodářskou soutěž,
+>
+>   - b) poskytnutí služeb a dodání zboží úzce souvisejícího s ochranou a výchovou dětí a mládeže orgány sociálně-právní ochrany dětí a dalšími orgány nebo osobami, které zajišťují výkon sociálně-právní ochrany dětí podle zvláštního právního předpisu48a),
+>
+>   - c) poskytnutí pracovníků náboženskými nebo obdobnými organizacemi k činnostem uvedeným v písmenu b) a v § 57 až 59, a to s přihlédnutím k duchovní péči,
+>
+>   - d) poskytování služeb úzce souvisejících se sportem nebo tělesnou výchovou právnickými osobami, které nebyly založeny nebo zřízeny za účelem podnikání, osobám, které vykonávají sportovní nebo tělovýchovnou činnost,
+>
+>   - e) poskytnutí kulturních služeb a dodání zboží s nimi úzce souvisejícího krajem, obcí, právnickou osobou zřízenou zákonem, právnickou osobou zřízenou Ministerstvem kultury nebo právnickou osobou, která nebyla založena nebo zřízena za účelem podnikání,
+>
+>   - f) poskytování služeb a dodání zboží osobami, jejichž činnosti jsou osvobozeny od daně podle písmen a), b), c), d) a e) a podle [[#§ 57|§ 57]], [[#§ 58|58]] a [[#§ 59|59]] za podmínky, že se jedná pouze o dodání zboží nebo poskytnutí služeb při příležitostných akcích pořádaných výlučně za účelem získání finančních prostředků k činnostem, pro které jsou tyto osoby založeny nebo zřízeny, pokud toto osvobození od daně nenarušuje hospodářskou soutěž,
+>
+>   - g) poskytování služeb nezávislým seskupením osob, které je osobou povinnou k dani, která jedná jako taková, se sídlem v tuzemsku, svým členům, kteří uskutečňují plnění osvobozená od daně bez nároku na odpočet daně podle písmen a) až f), § 52 odst. 1, [[#§ 53|§ 53]] nebo § 57 až 59 nebo činnosti, při jejichž uskutečňování nejsou osobou povinnou k dani, pokud
+>
+>     - 1. jsou tyto služby přímo nezbytné k tomu, aby tito členové mohli uskutečňovat uvedená plnění nebo činnosti,
+>
+>     - 2. úhrada za poskytnuté služby odpovídá nákladům na jejich poskytnutí podle podílů členů na poskytnuté službě a
+>
+>     - 3. toto poskytování služeb nenarušuje tím, že se jedná o plnění osvobozené od daně, hospodářskou soutěž.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 57, § 58, § 59, § 52, § 53
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f0ad4c3da7a0e5bd3a5c -->
+
 ### § 62 — Dodání zboží použitého pro osvobozená plnění a zboží bez nároku na odpočet
 
 > *(1) Plněním osvobozeným od daně je dodání zboží použitého plátcem výlučně k uskutečnění plnění osvobozených od daně bez nároku na odpočet daně; to neplatí pro dodání stavebního pozemku nebo dodání dokončené vybrané nemovité věci, které není osvobozeno od daně podle § 56 odst. 1.*
@@ -739,6 +1655,56 @@ Spojujícím znakem většiny písmen je **podmínka nenarušení hospodářské
 § 62 použijte na dodání zboží, u něhož plátce neměl odpočet — buď proto, že je užíval **výlučně** k osvobozeným plněním bez nároku (odst. 1), nebo protože u pořízení neměl nárok podle § 72 odst. 6 (odst. 2). Ověřte výlučnost použití a vyloučení **nemovitostních výjimek** (stavební pozemek, vybraná nemovitá věc dle § 56). U pozemku a nemovité věci lze i zde **zvolit zdanění** (§ 55a odst. 4, § 56 odst. 8 obdobně).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=50a8d318051c3ff9786a generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 62 — Dodání zboží, které bylo použito pro plnění osvobozená od daně bez nároku na odpočet daně, a zboží, u něhož nemá plátce nárok na odpočet daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Plněním osvobozeným od daně je dodání zboží použitého plátcem výlučně k uskutečnění plnění osvobozených od daně bez nároku na odpočet daně; to neplatí pro dodání stavebního pozemku nebo dodání dokončené vybrané nemovité věci, které není osvobozeno od daně podle § 56 odst. 1.
+>
+> (2) Plněním osvobozeným od daně je dodání zboží, při jehož pořízení nebo použití neměl plátce nárok na odpočet daně podle § 72 odst. 6.
+>
+> (3) Plátce nebo osoba neusazená v tuzemsku, která není registrována jako plátce a není osobou registrovanou do režimu pro malé podniky pro tuzemsko, která může tento režim využívat, se mohou rozhodnout, že se i u dodání pozemku podle § 55a odst. 1 nebo u dodání dokončené vybrané nemovité věci, která jsou osvobozena od daně podle odstavce 1, jedná o zdanitelné plnění; § 55a odst. 4 a § 56 odst. 8 se použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 56, § 72, § 55a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=50a8d318051c3ff9786a -->
 
 ## Oddíl B — Osvobození S nárokem na odpočet (§§ 63–71l)
 
@@ -800,6 +1766,80 @@ Cílem je **daňová neutralita exportu**: kdyby plátce při dodání do JČS �
 
 § 63 je katalogem osvobození **s** nárokem na odpočet; jejich společným rysem je přeshraniční rozměr a **zdanění v zemi spotřeby**. U každého takového plnění daň na výstupu nepřiznávejte, ale **odpočet u souvisejících vstupů zachovejte** a tato plnění **nezahrnujte do krátícího koeficientu** (§ 76). Počítejte s typickým nadměrným odpočtem u vývozců a dodavatelů do JČS a ověřte splnění podmínek konkrétního paragrafu (§ 64–71l), na který § 63 odkazuje.
 
+
+<!-- LEGAL-REVISION:BEGIN id=058f96be865daa3f12e5 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 63 — Plnění osvobozená od daně s nárokem na odpočet daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Od daně s nárokem na odpočet daně jsou osvobozena dále uvedená osvobozená plnění za podmínek stanovených v § 64 až 71l:
+>
+>   - a) dodání zboží do jiného členského státu ([[#§ 64|§ 64]]),
+>
+>   - b) pořízení zboží z jiného členského státu ([[#§ 65|§ 65]]),
+>
+>   - c) vývoz zboží ([[#§ 66|§ 66]]),
+>
+>   - d) poskytnutí služby do třetí země ([[#§ 67|§ 67]]),
+>
+>   - e) osvobození ve zvláštních případech ([[#§ 68|§ 68]]),
+>
+>   - f) přeprava a služby přímo vázané na dovoz a vývoz zboží ([[#§ 69|§ 69]]),
+>
+>   - g) přeprava osob ([[#§ 70|§ 70]]),
+>
+>   - h) dovoz zboží ([[#§ 71|§ 71]]),
+>
+>   - i) dovoz zboží v osobních zavazadlech cestujícího nebo člena posádky letadla a dovoz pohonných hmot cestujícím (§ 71a až 71f),
+>
+>   - j) dovoz zboží, které je přepraveno ze třetí země, a ukončení odeslání nebo přepravy tohoto zboží je v jiném členském státě a dodání tohoto zboží do jiného členského státu je osvobozeno od daně ([[#§ 71g|§ 71g]]),
+>
+>   - k) dodání zboží provozovateli elektronického rozhraní ([[#§ 71h|§ 71h]]),
+>
+>   - l) dodání knihy a poskytnutí obdobné služby ([[#§ 71i|§ 71i]]),
+>
+>   - m) pořízení nového dopravního prostředku z jiného členského státu a zboží, které je předmětem spotřební daně, z jiného členského státu osobou požívající výsad a imunit ([[#§ 71l|§ 71l]]).
+>
+> (2) U plnění, které je osvobozeno od daně s nárokem na odpočet daně, vzniká povinnost jej přiznat ke dni jeho uskutečnění, pokud zákon nestanoví jinak. Při stanovení hodnoty plnění osvobozeného od daně podle odstavce 1 se postupuje podle [[#§ 36|§ 36]] obdobně. Při opravě hodnoty plnění osvobozeného od daně podle odstavce 1 se postupuje podle [[#§ 42|§ 42]] a [[#§ 42a|42a]] obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 64, § 65, § 66, § 67, § 68, § 69, § 70, § 71, § 71a, § 71g, § 71h, § 71i, § 71l, § 36, § 42, § 42a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=058f96be865daa3f12e5 -->
+
 ### § 64 — Osvobození při dodání zboží do jiného členského státu
 
 > *(1) Dodání zboží do jiného členského státu plátcem osobě registrované k dani v jiném členském státě, pro kterou je pořízení tohoto zboží v jiném členském státě předmětem daně, je osvobozeno od daně s nárokem na odpočet daně, pokud*
@@ -852,6 +1892,64 @@ Vlajkové ustanovení intrakomunitárního obchodu (transpozice osvobození intr
 
 Před uplatněním osvobození podle § 64 ověřte **všechny tři kumulativní podmínky**: pořizovatel je osobou registrovanou k dani v JČS a sdělil platné **DIČ**, zboží je **fyzicky přepraveno** do JČS (s důkazy podle prováděcího nařízení EU) a dodání je **uvedeno v souhrnném hlášení**. DIČ a souhrnné hlášení jsou hmotněprávními podmínkami — jejich nesplnění znamená zdanění jako tuzemského plnění. U zboží podléhajícího spotřební dani a u přemístění vlastního zboží postupujte podle odst. 2 a 3.
 
+
+<!-- LEGAL-REVISION:BEGIN id=5d3628afab37ceab9bc2 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 64 — Osvobození při dodání zboží do jiného členského státu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Dodání zboží do jiného členského státu plátcem osobě registrované k dani v jiném členském státě, pro kterou je pořízení tohoto zboží v jiném členském státě předmětem daně, je osvobozeno od daně s nárokem na odpočet daně, pokud
+>
+>   - a) tato osoba sdělila plátci své daňové identifikační číslo pro účely daně z přidané hodnoty,
+>
+>   - b) je zboží odesláno nebo přepraveno z tuzemska do jiného členského státu plátcem, pořizovatelem nebo třetí osobou zmocněnou plátcem nebo pořizovatelem a
+>
+>   - c) plátce uvede dodání zboží v souhrnném hlášení.
+>
+> (2) Dodání zboží, které je předmětem spotřební daně, do jiného členského státu plátcem osobě povinné k dani, která není osobou registrovanou k dani v jiném členském státě, nebo právnické osobě, která není osobou registrovanou k dani v jiném členském státě, které je odesláno nebo přepraveno z tuzemska plátcem nebo pořizovatelem nebo zmocněnou třetí osobou, je osvobozeno od daně s nárokem na odpočet daně, pokud odeslání nebo přeprava zboží je uskutečněna podle zákona upravujícího spotřební daně, a povinnost platit spotřební daň vzniká pořizovateli v členském státě ukončení odeslání nebo přepravy zboží.
+>
+> (3) Dodání zboží za úplatu, které je přemístěním zboží plátcem z tuzemska do jiného členského státu, je osvobozeno od daně s nárokem na odpočet daně, pokud by takové dodání zboží bylo osvobozeno od daně podle odstavců 1 a [[#§ 2|2]] v případě, že by se uskutečnilo pro jinou osobu registrovanou k dani v jiném členském státě.
+>
+> (4) Pro účely uplatňování osvobození od daně podle odstavců 1 až 3 se má za to, že zboží bylo odesláno nebo přepraveno do jiného členského státu, stanoví-li tak přímo použitelný předpis Evropské unie, kterým se stanoví prováděcí opatření ke směrnici o společném systému daně z přidané hodnoty7e).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5d3628afab37ceab9bc2 -->
+
 ### § 65 — Osvobození při pořízení zboží z jiného členského státu
 
 > *Pořízení zboží z jiného členského státu je osvobozeno od daně s nárokem na odpočet daně, pokud*
@@ -881,6 +1979,58 @@ Před uplatněním osvobození podle § 64 ověřte **všechny tři kumulativní
 #### H. Praktický závěr
 
 § 65 je **zrcadlovým** ustanovením: pořízení z JČS osvobozujte tehdy, bylo-li by **v každém případě** osvobozeno odpovídající tuzemské dodání (písm. a), dovoz dle § 71 odst. 1–6 (písm. b), nebo měl-li by pořizovatel nárok na vrácení daně podle § 82a/82b či § 83 mimo poměrnou výši (písm. c). Vždy ověřte bezpodmínečnost osvobození srovnávaného plnění; tím zajistíte konzistentní daňové zacházení nezávislé na původu zboží.
+
+
+<!-- LEGAL-REVISION:BEGIN id=e07d814b45cf12db8967 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 65 — Osvobození při pořízení zboží z jiného členského státu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> Pořízení zboží z jiného členského státu je osvobozeno od daně s nárokem na odpočet daně, pokud
+>
+>   - a) dodání takového zboží plátcem v tuzemsku by bylo v každém případě osvobozeno od daně,
+>
+>   - b) dovoz takového zboží by byl v každém případě osvobozen od daně podle § 71 odst. 1 až 6, nebo
+>
+>   - c) pořizovatel by měl v každém případě nárok na vrácení daně na vstupu podle [[#§ 82a|§ 82a]] a [[#§ 82b|82b]], nebo podle [[#§ 83|§ 83]], s výjimkou nároku na vrácení daně v poměrné výši.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71, § 82a, § 82b, § 83
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e07d814b45cf12db8967 -->
 
 ### § 66 — Osvobození od daně při vývozu zboží
 
@@ -953,6 +2103,82 @@ Na dodání v tuzemsku se do splnění podmínek **hledí jako na zdanitelné** 
 
 Vývoz osvobozujte při **výstupu zboží z EU do třetí země**, ať přepravu zajišťuje prodávající (přímý vývoz), nebo kupující neusazený v tuzemsku (nepřímý vývoz). Klíčové je **prokázání výstupu** celním rozhodnutím (odst. 8) a správné určení **dne uskutečnění = dne výstupu z EU** (odst. 7). U vývozu v zavazadlech cestujícího („Tax Free“) hlídejte limit **2 000 Kč** na dokladu, **neobchodní povahu** zboží a lhůtu **3 kalendářních měsíců** a do potvrzení výstupu zacházejte s dodáním jako se zdanitelným.
 
+
+<!-- LEGAL-REVISION:BEGIN id=1b9222fdda7e05f15174 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 66 — Osvobození od daně při vývozu zboží
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Vývozem zboží se pro účely tohoto zákona rozumí výstup zboží z území Evropské unie na území třetí země.
+>
+> (2) Vývoz zboží je osvobozen od daně, pokud jde o dodání zboží, které je odesláno nebo přepraveno z tuzemska do třetí země
+>
+>   - a) prodávajícím nebo jím zmocněnou osobou, nebo
+>
+>   - b) kupujícím nebo jím zmocněnou osobou, jestliže kupující nemá v tuzemsku sídlo ani místo pobytu, ani provozovnu, s výjimkou zboží přepravovaného kupujícím za účelem vybavení nebo zásobení rekreačních lodí nebo letadel, popřípadě jiného prostředku pro dopravu pro soukromé použití.
+>
+> (3) Vývoz zboží, které se nachází v osobním zavazadle cestujícího, je podle odstavce 2 písm. b) osvobozen od daně, pokud
+>
+>   - a) bydliště cestujícího a místo, kde se obvykle zdržuje, se nachází ve třetí zemi; má se za to, že bydliště a místo, kde se cestující obvykle zdržuje, se nachází ve třetí zemi, pokud se místo zapsané v cestovním dokladu nachází ve třetí zemi,
+>
+>   - b) toto zboží je neobchodní povahy a
+>
+>   - c) toto zboží je vyvezeno do konce třetího kalendářního měsíce bezprostředně následujícího po kalendářním měsíci, v němž se uskutečnilo dodání tohoto zboží, u kterého plátce vystavil doklad o prodeji.
+>
+> (4) V případě dodání zboží uskutečněného v tuzemsku lze podle odstavce 3 osvobodit pouze vývoz zboží, jehož cena včetně daně uvedená na jednom dokladu o prodeji podle § 84 odst. 1 vystaveném jednomu cestujícímu je vyšší než 2 000 Kč.
+>
+> (5) Celní úřad pro účely osvobození od daně podle odstavce 3 potvrdí na žádost cestujícího výstup zboží, které se nachází v jeho osobním zavazadle, z území Evropské unie. V případě, že celní úřad zjistí, že nejsou splněny podmínky podle odstavce 3 nebo [[#§ 4|4]], výstup tohoto zboží nepotvrdí.
+>
+> (6) Na dodání zboží uskutečněné v tuzemsku, jehož vývoz bude osvobozen podle odstavce 3, se hledí jako na zdanitelné plnění do dne, kdy dojde ke splnění podmínek pro toto osvobození a uplatnění nároku na vrácení daně podle § 84 odst. 9; to neplatí pro dodání zboží osvobozené od daně podle jiného ustanovení tohoto zákona.
+>
+> (7) Při vývozu zboží, který je osvobozen od daně, se pro účely tohoto zákona za den uskutečnění plnění považuje den výstupu zboží z území Evropské unie.
+>
+> (8) Výstup zboží z území Evropské unie je plátce povinen prokázat
+>
+>   - a) rozhodnutím celního úřadu nebo obdobného orgánu podle právních předpisů jiného členského státu, u kterého je potvrzen výstup zboží z území Evropské unie, o propuštění do celního režimu vývozu, pasivního zušlechťovacího styku, vnějšího tranzitu, nebo o zpětném vývozu, nebo
+>
+>   - b) jinými důkazními prostředky.
+>
+> (9) Výstup zboží, které se nachází v osobním zavazadle cestujícího, z území Evropské unie je plátce povinen prokázat potvrzením celního úřadu nebo obdobného orgánu podle právních předpisů jiného členského státu o jeho výstupu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 84, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1b9222fdda7e05f15174 -->
+
 ### § 67 — Osvobození při poskytnutí služby do třetí země
 
 > *(1) Poskytnutí služby do třetí země osobě, která nemá v tuzemsku sídlo ani provozovnu, s místem plnění v tuzemsku, je osvobozeno od daně s nárokem na odpočet daně.*
@@ -978,6 +2204,54 @@ Vývoz osvobozujte při **výstupu zboží z EU do třetí země**, ať přeprav
 #### H. Praktický závěr
 
 § 67 aplikujte úzce: na **práce na movitém majetku** (zpracování, oprava, úprava) poskytnuté osobě bez sídla/provozovny v tuzemsku, je-li majetek po provedení prací **odeslán do třetí země**. Ověřte místo plnění v tuzemsku, postavení příjemce a doložte odeslání zboží mimo EU. Bez splnění těchto znaků jde o běžné poskytnutí služby s daní (podle pravidel o místu plnění).
+
+
+<!-- LEGAL-REVISION:BEGIN id=8eb87d7ea7c84d4f929f generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 67 — Osvobození při poskytnutí služby do třetí země
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Poskytnutí služby do třetí země osobě, která nemá v tuzemsku sídlo ani provozovnu, s místem plnění v tuzemsku, je osvobozeno od daně s nárokem na odpočet daně.
+>
+> (2) Službou podle odstavce 1 jsou práce na movitém majetku, který je pořízen nebo dovezen za účelem provedení těchto prací v tuzemsku a následně je odeslán nebo přepraven do třetí země osobou, která tyto služby poskytla, nebo osobou, pro kterou jsou tyto služby poskytnuty, nebo zmocněnou třetí osobou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8eb87d7ea7c84d4f929f -->
 
 ### § 68 — Osvobození ve zvláštních případech
 
@@ -1092,6 +2366,136 @@ Sběrné ustanovení s **dlouhým katalogem** zvláštních osvobození s nárok
 
 § 68 je rozsáhlým katalogem zvláštních osvobození **s** nárokem na odpočet (lodě a letadla mezinárodní dopravy, diplomatické a unijní subjekty, ozbrojené síly NATO/EU, zlato centrálním bankám, humanitární dodání, plnění v reakci na COVID-19). U každého plnění ověřte přesné podřazení pod konkrétní odstavec, **vyloučení vyňatých služeb** (odst. 6) a u diplomatického/vojenského režimu si zajistěte **osvědčení o osvobození**. Pamatujte, že dodání ozbrojeným silám ČR osvobozeno není.
 
+
+<!-- LEGAL-REVISION:BEGIN id=51ac0f6f86469522ebd5 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 68 — Osvobození ve zvláštních případech
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Od daně s nárokem na odpočet daně je osvobozeno dodání zboží pro zásobení lodí
+>
+>   - a) používaných k plavbě po volném moři a přepravujících osoby za úplatu nebo používaných k obchodní, průmyslové nebo rybářské činnosti,
+>
+>   - b) používaných k poskytnutí záchrany a pomoci na moři nebo k pobřežnímu rybolovu, s výjimkou dodání palubních zásob lodím používaným k pobřežnímu rybolovu,
+>
+>   - c) válečných, pokud opouštějí tuzemsko a směřují do zahraničních přístavů a kotvišť.
+>
+> (2) Od daně s nárokem na odpočet daně je osvobozeno
+>
+>   - a) dodání, úprava, oprava, údržba nebo nájem námořních lodí, včetně nájmu námořních lodí s posádkou, uvedených v odstavci 1 písm. a) a b),
+>
+>   - b) dodání, nájem, oprava nebo údržba zařízení včetně rybářského vybavení, které je na těchto lodích instalováno nebo používáno.
+>
+> (3) Od daně s nárokem na odpočet daně je osvobozeno
+>
+>   - a) dodání, úprava, oprava, údržba nebo nájem letadel, včetně nájmu letadel s posádkou, které jsou užívány leteckými společnostmi provozujícími zejména mezinárodní leteckou dopravu za úplatu,
+>
+>   - b) dodání, nájem, oprava nebo údržba zařízení, které je na těchto letadlech instalováno nebo používáno.
+>
+> (4) Od daně s nárokem na odpočet daně je osvobozeno dodání zboží pro zásobení letadel uvedených v odstavci 3.
+>
+> (5) Od daně s nárokem na odpočet daně je osvobozeno poskytnutí služby, s výjimkou služeb uvedených v odstavci 2, která bezprostředně souvisí s námořními loděmi uvedenými v odstavci 2 nebo bezprostředně souvisí s přepravovaným nákladem.
+>
+> (6) Od daně s nárokem na odpočet daně je osvobozeno poskytnutí služby, s výjimkou služeb uvedených v odstavci 3, která bezprostředně souvisí s letadly uvedenými v odstavci 3 nebo bezprostředně souvisí s přepravovaným nákladem. Za takové poskytnutí služby, se nepovažuje zejména ubytování cestujících z důvodu zpoždění v letecké dopravě, nájem salónku a kancelářských prostor na letišti nebo odbavení cestujících.
+>
+> (7) Subjektem Evropské unie se pro účely daně z přidané hodnoty rozumí:
+>
+>   - a) orgány Evropské unie,
+>
+>   - b) Evropské společenství pro atomovou energii,
+>
+>   - c) Evropská investiční banka,
+>
+>   - d) subjekt založený Evropskou unií.
+>
+> (8) Od daně s nárokem na odpočet daně je osvobozeno dodání zboží nebo poskytnutí služby diplomatické misi, konzulárnímu úřadu, mezinárodní organizaci, zastoupení mezinárodní organizace a jejich členům a úředníkům, a to v mezích a za podmínek upravených v mezinárodních smlouvách zakládajících tyto mise, úřady nebo organizace, v dohodách o umístění jejich sídla nebo zastoupení nebo v jiných právních předpisech, pokud mají tyto mise, úřady, organizace nebo zastoupení sídlo nebo umístění v jiném členském státě. Od daně s nárokem na odpočet daně je osvobozeno dodání zboží nebo poskytnutí služby subjektům Evropské unie se sídlem v jiném členském státě, a to v mezích a za podmínek upravených v protokolu, v dohodách o jeho provádění nebo v dohodách o umístění sídla nebo zastoupení těchto subjektů, pokud tím není narušena hospodářská soutěž. Osvobození od daně se uplatní, pouze pokud plátce uskutečňující tato dodání nebo poskytnutí prokáže nárok na osvobození těchto dodání nebo poskytnutí osvědčením o osvobození od daně potvrzeným příslušným orgánem členského státu, na jehož území je sídlo nebo umístění těchto misí, úřadů, organizací, zastoupení anebo subjektů.
+>
+> (9) Správce daně na žádost osoby požívající výsad a imunit podle § 80 odst. 1 nebo [[#§ 2|2]] potvrdí osvědčení o osvobození od daně, pokud
+>
+>   - a) má být této osobě v jiném členském státě dodáno zboží nebo poskytnuta služba a má se u takového plnění uplatnit osvobození od daně s nárokem na odpočet daně a
+>
+>   - b) by u dodání zboží nebo poskytnutí služby podle písmene a) v případě jejich uskutečnění s místem plnění v tuzemsku byla daň zaplacená v ceně tohoto zboží nebo služby vrácena této osobě podle [[#§ 80|§ 80]].
+>
+> (10) Od daně s nárokem na odpočet daně je osvobozeno dodání zboží nebo poskytnutí služby ozbrojeným silám jiného státu
+>
+>   - a) uskutečněné v tuzemsku určené pro použití těmito ozbrojenými silami nebo civilními zaměstnanci, kteří je doprovázejí, anebo k zásobení jejich jídelen, pokud jde o ozbrojené síly
+>
+>     - 1. jiného členského státu, které se podílejí na obranném úsilí vynakládaném na provádění činnosti Evropské unie v rámci společné bezpečnostní a obranné politiky,
+>
+>     - 2. státu, který je členem Organizace Severoatlantické smlouvy, které se podílejí na společném obranném úsilí; osvobozeno není dodání zboží nebo poskytnutí služby ozbrojeným silám České republiky, nebo,
+>
+>     - 3. státu, se kterým má Česká republika uzavřenou mezinárodní smlouvu, která je součástí českého právního řádu, a to v rozsahu stanoveném takovou mezinárodní smlouvou,
+>
+>   - b) do jiného členského státu pro použití ozbrojenými silami nebo civilními zaměstnanci, kteří je doprovázejí, anebo k zásobení jejich jídelen, pokud nejde o ozbrojené síly státu určení a jde o ozbrojené síly
+>
+>     - 1. členského státu, které se podílejí na obranném úsilí vynakládaném na provádění činnosti Evropské unie v rámci společné bezpečnostní a obranné politiky,
+>
+>     - 2. státu, který je členem Organizace Severoatlantické smlouvy, které se podílejí na společném obranném úsilí, nebo
+>
+>     - 3. státu, se kterým má Česká republika uzavřenou mezinárodní smlouvu, která je součástí českého právního řádu, a to v rozsahu stanoveném takovou mezinárodní smlouvou.
+>
+> (11) Nárok na osvobození od daně podle odstavce 10 v případě ozbrojených sil, které vyslal jiný členský stát, se prokazuje osvědčením o osvobození od daně podle přímo použitelného předpisu Evropské unie, kterým se stanoví prováděcí opatření ke směrnici o společném systému daně z přidané hodnoty7e). Toto osvědčení potvrzuje pro účely osvobození od daně
+>
+>   - a) Ministerstvo obrany podle odstavce 10 písm. a), nebo
+>
+>   - b) příslušný orgán členského státu určení podle odstavce 10 písm. b).
+>
+> (12) Nárok na osvobození od daně podle odstavce 10 se v případě ozbrojených sil, které vyslal jiný než členský stát, prokazuje čestným prohlášením potvrzeným příslušným orgánem státu, který ozbrojené síly vyslal, nebo jinou písemností, stanoví-li tak mezinárodní smlouva, která je součástí českého právního řádu.
+>
+> (13) Od daně s nárokem na odpočet daně je osvobozeno dodání zlata centrálním bankám jiných států.
+>
+> (14) Od daně s nárokem na odpočet daně je osvobozeno dodání zboží humanitárním a dobročinným organizacím, které je v rámci své humanitární, dobročinné nebo vzdělávací činnosti mimo území Evropské unie odešlou nebo přepraví do třetí země.
+>
+> (15) Od daně s nárokem na odpočet daně je osvobozeno poskytnutí služby osobou, která jedná jménem a na účet jiné osoby, která spočívá v zajištění plnění osvobozeného od daně podle § 66 až 69, s výjimkou odstavce 16, nebo plnění uskutečněného ve třetí zemi.
+>
+> (16) Od daně s nárokem na odpočet daně je osvobozena přeprava zboží mezi členskými státy, pokud se jedná o přepravu nebo odeslání zboží na ostrovy tvořící autonomní oblasti Azory a Madeira, z těchto ostrovů nebo mezi těmito ostrovy.
+>
+> (17) Od daně s nárokem na odpočet daně je osvobozeno dodání zboží nebo poskytnutí služby agentuře nebo subjektu, které byly založeny podle práva Evropské unie, nebo Evropské komisi, pokud je toto plnění pořízeno nebo přijato v rámci plnění úkolů, které jim byly svěřeny právem Evropské unie za účelem reakce na vznik a rozšíření onemocnění COVID-19 způsobeného koronavirem označovaným jako SARS CoV-2, s výjimkou případů, kdy je toto plnění použito touto agenturou, tímto subjektem nebo Evropskou komisí pro účely dalšího dodání zboží nebo poskytnutí služby za úplatu.
+>
+> (18) Nárok na osvobození od daně podle odstavce 17 se prokazuje osvědčením o osvobození od daně podle přímo použitelného předpisu Evropské unie, kterým se stanoví prováděcí opatření ke směrnici o společném systému daně z přidané hodnoty7e). Toto osvědčení potvrzuje pro účely osvobození od daně příslušný orgán jiného členského státu, v němž se nachází sídlo, zastoupení nebo umístění Evropské komise, agentury nebo subjektu, pro které je plnění uskutečněno; to neplatí, pokud se jedná o dodání zboží nebo poskytnutí služby s místem plnění v tuzemsku Evropské komisi, agentuře nebo subjektu, které mají v tuzemsku sídlo, zastoupení nebo umístění.
+>
+> (19) Zjistí-li plátce, že u dodání zboží nebo poskytnutí služby, na které se uplatnilo osvobození od daně podle odstavce 17, již nejsou splněny podmínky pro uplatnění tohoto osvobození, vzniká mu povinnost vystavit opravný daňový doklad; pro vystavení opravného daňového dokladu se [[#§ 45|§ 45]] použije obdobně. Plátce použije u zdanitelného plnění sazbu daně platnou ke dni, kdy přestaly platit podmínky pro uplatnění tohoto osvobození.
+>
+> (20) Z daně stanovené na základě zjištění, že již nejsou splněny podmínky pro uplatnění osvobození od daně podle odstavce 17, nevzniká úrok z prodlení do dne splatnosti daně za zdaňovací období, v němž plátce zjistil tuto skutečnost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 80, § 2, § 66, § 45
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=51ac0f6f86469522ebd5 -->
+
 ### § 69 — Osvobození služeb vázaných na dovoz a vývoz zboží
 
 > *(1) Při vývozu zboží je osvobozeno od daně poskytnutí služby přímo vázané na vývoz zboží.*
@@ -1130,6 +2534,66 @@ Osvobozuje **služby navázané na pohyb zboží přes hranici EU** — typicky 
 
 § 69 osvobozuje služby (zejména **přepravu** a manipulaci) **přímo vázané** na vývoz a dovoz zboží. U dovozu osvobozujte službu, jejíž hodnota je **zahrnuta do základu daně při dovozu** (jinak hrozí dvojí zdanění), nebo službu vázanou na dočasně uskladněné/celně propuštěné zboží. Vždy si zajistěte **důkaz přepravy** (odst. 3) a ověřte přímou vazbu na pohyb zboží přes hranici EU; nepřímé subdodávky zdaňte.
 
+
+<!-- LEGAL-REVISION:BEGIN id=4330f7815f09417501fe generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 69 — Osvobození poskytnutí služeb vázaných na dovoz zboží a vývoz zboží
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Při vývozu zboží je osvobozeno od daně poskytnutí služby přímo vázané na vývoz zboží.
+>
+> (2) Při dovozu zboží je osvobozeno od daně poskytnutí služby
+>
+>   - a) vztahující se k dovozu zboží, je-li hodnota této služby zahrnuta do základu daně při dovozu zboží, nebo
+>
+>   - b) přímo vázané na dovoz zboží, pokud je toto zboží při vstupu na území Evropské unie dočasně uskladněno nebo propuštěno do celního režimu podle § 12 odst. 2 písm. b).
+>
+> (3) Osvobození od daně při uskutečňování přepravy při dovozu zboží nebo vývozu zboží je plátce, který uskutečňuje přepravu při dovozu zboží nebo vývozu zboží, povinen doložit
+>
+>   - a) přepravním dokladem,
+>
+>   - b) smlouvou o přepravě věci, nebo
+>
+>   - c) jinými důkazními prostředky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4330f7815f09417501fe -->
+
 ### § 70 — Osvobození přepravy osob
 
 > *Přeprava osob a jejich zavazadel mezi jednotlivými členskými státy a dále mezi členskými státy a třetími zeměmi, včetně služeb přímo souvisejících s touto přepravou, je v tuzemsku osvobozena od daně s nárokem na odpočet daně. Za služby přímo související s touto přepravou osob se považují zejména služby zajištění přepravy osob jménem a na účet jiné osoby, prodej přepravních dokladů, vystavení dokladů, vytvoření rezervace a její změna a výměna přepravních dokladů. Tato přeprava je osvobozena, i když je prováděna osobami, které jsou registrovány k dani v jiném členském státě, nebo zahraniční osobou. Zpáteční přeprava se považuje za samostatnou přepravu.*
@@ -1153,6 +2617,52 @@ Osvobozena je **mezinárodní přeprava osob** (mezi členskými státy a mezi E
 #### H. Praktický závěr
 
 § 70 osvobozuje **mezinárodní přepravu osob** (mezi členskými státy a mezi EU a třetími zeměmi) **s nárokem na odpočet**, včetně přímo souvisejících služeb (prodej a výměna přepravních dokladů, rezervace). Každý směr, včetně **zpáteční cesty, posuzujte samostatně**. Osvobození svědčí i zahraničním dopravcům a dopravcům registrovaným v JČS. Čistě vnitrostátní přepravu osob řešte v obecném režimu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=dd6f14e0056fb0eadbfb generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 70 — Osvobození přepravy osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> Přeprava osob a jejich zavazadel mezi jednotlivými členskými státy a dále mezi členskými státy a třetími zeměmi, včetně služeb přímo souvisejících s touto přepravou, je v tuzemsku osvobozena od daně s nárokem na odpočet daně. Za služby přímo související s touto přepravou osob se považují zejména služby zajištění přepravy osob jménem a na účet jiné osoby, prodej přepravních dokladů, vystavení dokladů, vytvoření rezervace a její změna a výměna přepravních dokladů. Tato přeprava je osvobozena, i když je prováděna osobami, které jsou registrovány k dani v jiném členském státě, nebo zahraniční osobou. Zpáteční přeprava se považuje za samostatnou přepravu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dd6f14e0056fb0eadbfb -->
 
 ### § 71 — Osvobození od daně při dovozu zboží
 
@@ -1301,6 +2811,168 @@ Obsáhlé ustanovení provazující **DPH s celním režimem**. Základní pravi
 
 § 71 provazuje DPH s **celním režimem**. Dovoz osvobozujte, bylo-li by osvobozeno i tuzemské dodání téhož zboží (odst. 1), nebo je-li zboží **osvobozeno od cla** v taxativně vymezených případech (odst. 2–6) — u kávy/čaje respektujte množstevní limity. U **prodeje na dálku** ověřte podmínky **IOSS** (odst. 7): přiznání daně v dovozním režimu a uvedení daňového evidenčního čísla v celním prohlášení. Hlídejte výjimky (ozbrojené síly ČR, zboží použité k dalšímu dodání za úplatu).
 
+
+<!-- LEGAL-REVISION:BEGIN id=e2c9be65d99e994bd63a generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 71 — Osvobození od daně při dovozu zboží
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Od daně je osvobozen dovoz zboží, pokud by dodání tohoto zboží plátcem v tuzemsku bylo v každém případě osvobozeno od daně.
+>
+> (2) Od daně je osvobozen dovoz zboží, jestliže je dováženému zboží přiznáno osvobození od cla podle přímo použitelného předpisu Evropské unie49), pokud se jedná o:
+>
+>   - a) zboží dovážené v zásilkách neobchodní povahy, jde-li o dovoz kávy nebo čaje, vztahuje se osvobození od daně na množství do
+>
+>     - 1. 500 g kávy, nebo 200 g kávového extraktu a esence,
+>
+>     - 2. 100 g čaje, nebo 40 g čajového extraktu a esence,
+>
+>   - b) osobní majetek fyzických osob,
+>
+>     - 1. které se stěhují ze zahraničí do tuzemska,
+>
+>     - 2. dovážený při příležitosti sňatku,
+>
+>     - 3. nabytý děděním,
+>
+>   - c) výbavu, studijní potřeby a vybavení obývaných domácností žáků nebo studentů,
+>
+>   - d) přemístění obchodního majetku a ostatního zařízení při přemístění obchodního závodu,
+>
+>   - e) léčivé látky, léčivé přípravky, laboratorní zvířata, biologické nebo chemické látky,
+>
+>     - 1. laboratorní zvířata a biologické nebo chemické látky určené k výzkumu,
+>
+>     - 2. léčivé látky lidského původu a činidla k určování krevní skupiny a tkání,
+>
+>     - 3. referenční látky pro kontrolu jakosti přípravků,
+>
+>     - 4. farmaceutické výrobky používané při mezinárodních sportovních událostech,
+>
+>   - f) zboží určené charitativním nebo dobročinným subjektům,
+>
+>     - 1. zboží dovážené pro uskutečnění obecných záměrů, základní životní potřeby pouze bezúplatně nabyté,
+>
+>     - 2. bezúplatně nabyté zboží dovážené ve prospěch osob se zdravotním postižením pro účely vzdělávání, zaměstnávání a sociální rozvoj,
+>
+>     - 3. zboží dovážené ve prospěch obětí katastrof,
+>
+>   - g) dovoz v rámci mezinárodních vztahů,
+>
+>     - 1. čestná vyznamenání nebo ceny,
+>
+>     - 2. dary obdržené v rámci mezinárodních vztahů,
+>
+>     - 3. zboží určené k užívání hlavou státu,
+>
+>   - h) zboží dovážené k podpoře obchodní činnosti,
+>
+>     - 1. vzorky zboží nepatrné hodnoty,
+>
+>     - 2. tiskoviny a reklamní materiál,
+>
+>     - 3. zboží používané nebo spotřebované v průběhu výstavy nebo podobné události,
+>
+>   - i) zboží dovážené ke zkouškám, analýzám nebo pokusům,
+>
+>   - j) různý dovoz, a to
+>
+>     - 1. zásilky určené subjektům příslušným ve věcech ochrany autorských práv nebo průmyslového či obchodního vlastnictví,
+>
+>     - 2. turistický propagační materiál,
+>
+>     - 3. různé dokumenty a zboží,
+>
+>     - 4. materiál k upevnění a ochraně zboží při přepravě,
+>
+>     - 5. stelivo, píce a krmivo pro zvířata během jejich přepravy,
+>
+>     - 6. pohonné hmoty a maziva nacházející se v silničních motorových vozidlech a speciálních kontejnerech,
+>
+>     - 7. zboží určené na výstavbu, údržbu nebo výzdobu památníků nebo hřbitovů válečných obětí,
+>
+>     - 8. rakve, urny a smuteční ozdoby.
+>
+> (3) Od daně je dále osvobozen dovoz
+>
+>   - a) čistokrevných koní starých nejvýše šest měsíců, narozených ve třetí zemi nebo na třetím území ze zvířete, které bylo na území Evropské unie pokryto a poté dočasně vyvezeno k porodu,
+>
+>   - b) sbírkových a uměleckých předmětů vzdělávací, vědecké nebo kulturní povahy, které nejsou určeny k prodeji a které dovážejí muzea a galerie, pokud jsou dováženy bezúplatně, nebo pokud jsou dováženy za úplatu a nejsou dodány osobou povinnou k dani,
+>
+>   - c) oficiálních publikací vydávaných orgány veřejné moci země nebo území vývozu, mezinárodními organizacemi, veřejnými samosprávami a veřejnoprávními subjekty usazenými v zemi nebo na území vývozu a tiskovin šířených při příležitosti voleb do Evropského parlamentu nebo při příležitosti vnitrostátních voleb v zemi, z níž tiskovina pochází, zahraničními politickými organizacemi úředně uznanými v členských státech, pokud tyto publikace a tiskoviny podléhaly dani v zemi nebo na území vývozu a nevyužily vrácení daně při vývozu,
+>
+>   - d) vratných obalů bez úplaty či za úplatu,
+>
+>   - e) úlovku do přístavu, který nebyl zpracován nebo který již byl konzervován za účelem prodeje, ale dosud nebyl dodán, pokud byl uskutečněn osobou podnikající v námořním rybářství, nebo
+>
+>   - f) plynu prostřednictvím přepravní nebo distribuční soustavy nebo vpuštěním z plavidla převážejícího plyn do soustavy zemního plynu nebo těžební plynovodní sítě, dovoz elektřiny, tepla nebo chladu prostřednictvím tepelných nebo chladicích sítí.
+>
+> (4) Od daně je dále osvobozen dovoz zboží
+>
+>   - a) osobě podle § 80 odst. 1 nebo [[#§ 2|2]], pokud bylo tomuto zboží přiznáno osvobození od cla,
+>
+>   - b) uskutečněný subjekty Evropské unie, a to v mezích a za podmínek upravených v protokolu a v dohodách o jeho provádění nebo v dohodách o umístění sídla těchto subjektů, pokud tím není narušena hospodářská soutěž,
+>
+>   - c) uskutečněný mezinárodními organizacemi jinými než uvedenými v písmenu b), které jsou za mezinárodní organizace uznávány úřady hostitelského členského státu, nebo uskutečněný členy těchto organizací v mezích a za podmínek upravených mezinárodními smlouvami zakládajícími tyto organizace nebo dohodami o umístění jejich sídla; toto ustanovení se pro zastoupení mezinárodní organizace použije obdobně,
+>
+>   - d) ozbrojenými silami pro jejich použití nebo použití civilními zaměstnanci, kteří je doprovázejí, anebo k zásobení jejich jídelen, pokud jde o ozbrojené síly
+>
+>     - 1. jiného členského státu, které se podílejí na obranném úsilí vynakládaném na provádění činnosti Evropské unie v rámci společné bezpečnostní a obranné politiky, nebo
+>
+>     - 2. státu, který je členem Organizace Severoatlantické smlouvy, které se podílejí na společném obranném úsilí; osvobozen není dovoz zboží ozbrojenými silami České republiky, nebo
+>
+>   - e) ozbrojenými silami státu, se kterým má Česká republika uzavřenou mezinárodní smlouvu, která je součástí českého právního řádu, nebo osobami podle § 86a odst. 1, a to v rozsahu stanoveném takovou mezinárodní smlouvou.
+>
+> (5) U vráceného zboží je přiznán nárok na osvobození od daně pouze osobě, která předmětné zboží vyvezla, pokud bylo tomuto zboží přiznáno osvobození od cla.
+>
+> (6) Od daně je osvobozen dovoz zlata Českou národní bankou.
+>
+> (7) Od daně je osvobozen dovoz zboží, pokud je
+>
+>   - a) daň při prodeji dovezeného zboží na dálku přiznána v dovozním režimu zvláštního režimu jednoho správního místa a
+>
+>   - b) v celním prohlášení ve věci propuštění tohoto zboží do celního režimu volného oběhu uvedeno daňové evidenční číslo pro účely dovozního režimu zvláštního režimu jednoho správního místa.
+>
+> (8) Od daně je osvobozen dovoz zboží uskutečněný agenturou nebo subjektem, které byly založeny podle práva Evropské unie, nebo Evropskou komisí, pokud je toto zboží dováženo v rámci plnění úkolů, které jim byly svěřeny právem Evropské unie za účelem reakce na vznik a rozšíření onemocnění COVID-19 způsobeného koronavirem označovaným jako SARS CoV-2, s výjimkou případů, kdy je toto zboží použito touto agenturou, tímto subjektem nebo Evropskou komisí pro účely dalšího dodání zboží za úplatu. Zjistí-li plátce, že u dovozu zboží, na který se uplatnilo toto osvobození od daně, již nejsou splněny podmínky pro uplatnění tohoto osvobození, použije u zdanitelného plnění sazbu daně platnou ke dni, kdy přestaly platit podmínky pro uplatnění tohoto osvobození.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 80, § 2, § 86a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e2c9be65d99e994bd63a -->
+
 ### § 71a–71f — Dovoz v osobních zavazadlech a pohonné hmoty
 
 > *(1) Od daně je v tuzemsku osvobozen příležitostný dovoz zboží v osobních zavazadlech cestujícího, pokud je toto zboží určeno k osobnímu užívání cestujícím, k užívání členy jeho rodiny nebo jako dar a z povahy ani množství zboží nelze usuzovat, že je dováženo pro obchodní účely (dále jen „dovoz zboží cestujícím“), a pokud jsou splněny podmínky uvedené v § 71b až 71d a v § 71f.*
@@ -1344,6 +3016,340 @@ Tabákové a alkoholové limity se nevztahují na cestující **mladší 17 let*
 
 Osvobození podle § 71a–71f aplikujte na **příležitostný neobchodní dovoz** v zavazadlech cestujících ze třetích zemí v rámci hodnotových limitů (**430 EUR** letecká doprava, **300 EUR** rekreační létání a posádka, **200 EUR** osoby do 15 let) a množstevních limitů u tabáku, alkoholu, vína, piva a PHM (**10 l** v přenosné nádrži). Tabákové a alkoholové limity neuplatňujte u osob mladších 17 let. Pro přepočet hodnoty použijte kurz z **prvního pracovního dne října** předchozího roku. Nadlimitní a zjevně obchodní dovoz zdaňte.
 
+
+<!-- LEGAL-REVISION:BEGIN id=ef9ba0859948469ff204 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 71a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Od daně je v tuzemsku osvobozen příležitostný dovoz zboží v osobních zavazadlech cestujícího, pokud je toto zboží určeno k osobnímu užívání cestujícím, k užívání členy jeho rodiny nebo jako dar a z povahy ani množství zboží nelze usuzovat, že je dováženo pro obchodní účely (dále jen „dovoz zboží cestujícím“), a pokud jsou splněny podmínky uvedené v § 71b až 71d a v [[#§ 71f|§ 71f]].
+>
+> (2) Osobními zavazadly cestujícího se pro účely tohoto zákona rozumí zavazadla, která cestující předkládá při svém příjezdu celnímu úřadu, a zavazadla, která celnímu úřadu předloží později, pokud prokáže, že byla zapsána jako doprovodná zavazadla v okamžiku jeho odjezdu u společnosti, která zajišťovala jeho přepravu.
+>
+> (3) Za dovoz zboží cestujícím se nepovažuje dovoz zboží, u kterého cestující prokáže, že bylo pořízeno na území Evropské unie, a u kterého nebyla v žádném členském státě vrácena daň nebo spotřební daň.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71b, § 71f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ef9ba0859948469ff204 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=f02c5d84b3125f262cfb generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 71b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Dovoz zboží cestujícím v letecké dopravě je v tuzemsku osvobozen od daně do výše hodnoty zboží odpovídající částce 430 EUR na osobu.
+>
+> (2) Dovoz zboží cestujícím v rámci rekreačního nebo sportovního létání49c) je v tuzemsku osvobozen od daně do výše hodnoty zboží odpovídající částce 300 EUR na osobu.
+>
+> (3) Při dovozu zboží cestujícím mladším patnácti let se částka uvedená v odstavcích 1 a [[#§ 2|2]] snižuje na částku 200 EUR na osobu.
+>
+> (4) Do celkové výše hodnoty zboží osvobozeného od daně podle odstavců 1 až 3 nelze započítat jen část hodnoty některého dovezeného zboží.
+>
+> (5) Do celkové výše hodnoty zboží osvobozeného od daně podle odstavců 1 až 3 se nezapočítává hodnota
+>
+> - a) zboží uvedeného v [[#§ 71c|§ 71c]], [[#§ 71d|71d]] a [[#§ 71f|71f]],
+>
+> - b) zboží, které je dočasně dovezeno cestujícím do tuzemska,
+>
+> - c) zboží dováženého nazpět po jeho dočasném vývozu cestujícím,
+>
+> - d) léčiv nezbytných pro osobní potřebu cestujícího.
+>
+> (6) Pro přepočet hodnoty zboží na českou měnu se použije kurz platný první pracovní den měsíce října roku předcházejícího dovozu zboží zveřejněný v Úředním věstníku Evropské unie. Takto přepočítaná hodnota zboží na českou měnu se zaokrouhlí na stokoruny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 71c, § 71d, § 71f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f02c5d84b3125f262cfb -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=b2e3ab45dd8413443cdb generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 71c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Dovoz zboží cestujícím v případě, že se jedná o dovoz tabákových výrobků podle zákona upravujícího spotřební daně, je v tuzemsku osvobozen od daně nejvýše v rozsahu
+>
+> - a) 200 cigaret,
+>
+> - b) 100 doutníků o hmotnosti jednoho kusu nejvýše 3 gramy,
+>
+> - c) 50 doutníků o hmotnosti jednoho kusu vyšší než 3 gramy, nebo
+>
+> - d) 250 g tabáku ke kouření.
+>
+> (2) Dovoz zboží cestujícím v případě, že se jedná o dovoz zahřívaných tabákových výrobků, ostatních tabákových výrobků a výrobků souvisejících s tabákovými výrobky podle zákona upravujícího spotřební daně, je v tuzemsku osvobozen od daně nejvýše v rozsahu
+>
+> - a) 100 g náplní do zahřívaných tabákových výrobků,
+>
+> - b) 100 g ostatních tabákových výrobků,
+>
+> - c) 20 ml náplní do elektronických cigaret,
+>
+> - d) 100 g nikotinových sáčků,
+>
+> - e) 100 g ostatních nikotinových výrobků.
+>
+> (3) Pro účely osvobození od daně představuje každé množství jednotlivých druhů výrobků uvedené v odstavci 1 100 % celkového množství, které lze osvobodit od daně. Osvobození od daně lze uplatnit na jakoukoli kombinaci množství těchto výrobků, pokud součet jejich procentních podílů využitých pro dovoz nepřesáhne 100 %.
+>
+> (4) Osvobození od daně podle odstavců 1 až 3 se nevztahuje na zboží dovezené cestujícím mladším sedmnácti let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b2e3ab45dd8413443cdb -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=64bb5891776571eba4b8 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 71d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Dovoz zboží cestujícím v případě, že se jedná o dovoz alkoholu a alkoholických nápojů, s výjimkou tichého vína a piva, je v tuzemsku osvobozen od daně nejvýše v rozsahu
+>
+> - a) 1 litru alkoholického nápoje, jehož skutečný obsah lihu přesahuje 22 % objemových, nebo nedenaturovaného alkoholu s obsahem lihu nejméně 80 % objemových, nebo
+>
+> - b) 2 litrů alkoholického nápoje, jehož skutečný obsah alkoholu nepřesahuje 22 % objemových.
+>
+> (2) Pro účely osvobození od daně představuje každé množství jednotlivých druhů výrobků uvedené v odstavci 1 100 % celkového množství, které lze osvobodit od daně. Osvobození od daně lze uplatnit na jakoukoli kombinaci množství těchto výrobků, pokud součet jejich procentních podílů využitých pro dovoz nepřesáhne 100 %.
+>
+> (3) Při dovozu tichého vína a piva je v tuzemsku osvobozen od daně dovoz zboží cestujícím v množství nejvýše 4 litry tichého vína na osobu a 16 litrů piva na osobu.
+>
+> (4) Osvobození od daně podle odstavců 1 až 3 se nevztahuje na zboží dovezené cestujícím mladším sedmnácti let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=64bb5891776571eba4b8 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=3ffcaf6fe9299e081dfe generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 71e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Dovoz zboží při výkonu práce členem posádky letadla, které je používáno k přepravě mezi třetími zeměmi a tuzemskem, nebo dovoz zboží členem posádky letadla v rámci rekreačního nebo sportovního létání, je v tuzemsku osvobozen od daně do výše hodnoty zboží odpovídající částce 300 EUR na osobu.
+>
+> (2) Ustanovení § 71a až 71d se pro dovoz zboží členem posádky letadla uvedeného v odstavci 1 použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3ffcaf6fe9299e081dfe -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=e8aa4b44217addddb302 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 71f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> Od daně je v tuzemsku osvobozen dovoz pohonných hmot v běžné nádrži motorového dopravního prostředku a dovoz pohonných hmot v množství nejvýše 10 litrů v přenosné nádrži v jednom motorovém dopravním prostředku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e8aa4b44217addddb302 -->
+
 ### § 71g — Dovoz zboží přepravovaného do jiného členského státu (režim 42)
 
 > *(1) Od daně je osvobozen dovoz zboží, při kterém vzniká povinnost přiznat daň v tuzemsku, pokud je zboží odesláno nebo přepraveno ze třetí země, a ukončení odeslání nebo přepravy zboží je v jiném členském státě a dodání tohoto zboží do jiného členského státu je osvobozeno od daně podle § 64.*
@@ -1380,6 +3386,64 @@ Osvobozuje **dovoz s následným dodáním do JČS** (tzv. celní režim 42): zb
 
 § 71g (celní režim 42) osvobozuje **dovoz s bezprostředně navazujícím dodáním do JČS**. Při propuštění do volného oběhu poskytněte celnímu úřadu **své DIČ, DIČ odběratele v JČS a podklady** o určení zboží do JČS (odst. 2) a dovoz uveďte do přiznání za příslušné období (odst. 3). Zajistěte, aby navazující dodání skutečně splnilo podmínky osvobození podle § 64 (zejména souhrnné hlášení); jinak vzniká povinnost přiznat daň podle § 23.
 
+
+<!-- LEGAL-REVISION:BEGIN id=9e35cf202e1085e8862e generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 71g
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Od daně je osvobozen dovoz zboží, při kterém vzniká povinnost přiznat daň v tuzemsku, pokud je zboží odesláno nebo přepraveno ze třetí země, a ukončení odeslání nebo přepravy zboží je v jiném členském státě a dodání tohoto zboží do jiného členského státu je osvobozeno od daně podle [[#§ 64|§ 64]].
+>
+> (2) Pokud se však jedná o dodání zboží do jiného členského státu podle § 64 odst. 1 nebo o dodání zboží za úplatu, které je přemístěním zboží plátcem, podle § 64 odst. 3, je dovoz zboží osvobozen od daně, pokud plátce v okamžiku propuštění zboží do celního režimu volného oběhu poskytne celnímu úřadu
+>
+> - a) své daňové identifikační číslo,
+>
+> - b) daňové identifikační číslo osoby registrované k dani v jiném členském státě, které je zboží odesláno nebo přepraveno, popřípadě své daňové identifikační číslo, přidělené pro účely daně z přidané hodnoty v jiném členském státě, která jsou uvedena v celním prohlášení ve věci propuštění zboží do celního režimu volného oběhu, a
+>
+> - c) podklady dokazující, že dovezené zboží je bezprostředně určeno k odeslání nebo přepravě do jiného členského státu.
+>
+> (3) Plátce je povinen uvést dovoz zboží osvobozený od daně podle odstavce 1 do daňového přiznání za zdaňovací období, ve kterém bylo zboží do tohoto celního režimu propuštěno.
+>
+> (4) Pokud nejsou splněny podmínky podle odstavce 1, vzniká plátci povinnost přiznat daň podle [[#§ 23|§ 23]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 64, § 23
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9e35cf202e1085e8862e -->
+
 ### § 71h — Dodání zboží provozovateli elektronického rozhraní
 
 > *Od daně je osvobozeno dodání zboží zahraniční osobou provozovateli elektronického rozhraní, pokud jde o dodání zboží podle § 13a odst. 2 písm. a).*
@@ -1403,6 +3467,52 @@ Součást režimu **e-commerce**: při „domnělém dodání" přes elektronick
 #### H. Praktický závěr
 
 § 71h je technickým osvobozením v režimu **e-commerce**: u „domnělého dodání“ přes elektronické rozhraní podle § 13a odst. 2 písm. a) osvobozujte **první dodání** (zahraniční dodavatel → provozovatel platformy) **s nárokem na odpočet**, aby daň dopadla až na dodání platformou zákazníkovi. Ověřte, že jde skutečně o dodání podle § 13a; mimo tuto fikci § 71h neaplikujte.
+
+
+<!-- LEGAL-REVISION:BEGIN id=00d5987b361203516756 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 71h — Osvobození při dodání zboží provozovateli elektronického rozhraní
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> Od daně je osvobozeno dodání zboží zahraniční osobou provozovateli elektronického rozhraní, pokud jde o dodání zboží podle § 13a odst. 2 písm. a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 13a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=00d5987b361203516756 -->
 
 ### § 71i–71l — Kniha, závazné posouzení a pořízení osobami s imunitou
 
@@ -1448,6 +3558,214 @@ Součást režimu **e-commerce**: při „domnělém dodání" přes elektronick
 Osvobození s nárokem podle § 71i aplikujte na **dodání knihy** (a obdobné elektronické a knihovní služby) splňující kódy celní nomenklatury, podmínku **reklamy do 50 %** obsahu a převahu nehudebního/neaudiovizuálního obsahu — má však **subsidiární** povahu (uplatní se, jen nelze-li použít jiné osvobození, odst. 3). U hraničních produktů využijte **závazné posouzení GFŘ** (§ 71j–71k). Pořízení nového dopravního prostředku a zboží podléhajícího spotřební dani osobami s výsadami a imunitami osvobozujte podle § 71l ve vazbě na § 80.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=debcfaa1c37fa52047c3 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 71i — Osvobození od daně při dodání knihy a poskytnutí obdobné služby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Knihou se pro účely daně z přidané hodnoty rozumí kniha, obrázková kniha, předloha ke kreslení, omalovánka, brožura, leták, hudebnina nebo kartografický výrobek, včetně zvukového záznamu přednesu jejich obsahu, pokud se jedná o zboží,
+>
+> - a) které je uvedeno pod kódem nomenklatury celního sazebníku, ve znění platném k 1. lednu 2018, v čísle 4901, 4903 až 4905, 4911 nebo 8523,
+>
+> - b) u kterého reklama podle zákona upravujícího regulaci reklamy nepředstavuje více než 50 % jeho obsahu a
+>
+> - c) které výlučně nebo převážně nesestává z hudebního zvukového nebo audiovizuálního obsahu.
+>
+> (2) Službou obdobnou dodání knihy se pro účely daně z přidané hodnoty rozumí
+>
+> - a) elektronicky poskytovaná služba spočívající v poskytnutí knihy, jejíž dodání by bylo osvobozeno od daně, pokud by byla obsažena na hmotném nosiči, včetně jejího zpřístupnění v rámci veřejných knihovnických a informačních nebo dalších služeb poskytovaných podle knihovního zákona nebo obdobných služeb poskytovaných podle jiného právního předpisu,
+>
+> - b) půjčování nebo nájem knihy, pokud se jedná o veřejné knihovnické a informační nebo další služby poskytované podle knihovního zákona nebo obdobné služby poskytované podle jiného právního předpisu.
+>
+> (3) Osvobození od daně s nárokem na odpočet daně při dodání knihy a poskytnutí obdobné služby se na dodání zboží nebo poskytnutí služby uplatní, pokud nelze na takové plnění uplatnit osvobození od daně bez nároku na odpočet daně nebo jiné osvobození od daně s nárokem na odpočet daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=debcfaa1c37fa52047c3 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=f3b79ba67cb7ed75732a generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 71j — Předmět závazného posouzení pro uplatnění osvobození od daně s nárokem na odpočet při dodání knihy a poskytnutí obdobné služby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> Předmětem závazného posouzení je určení, zda je dodání zboží nebo poskytnutí služby osvobozeno od daně s nárokem na odpočet při dodání knihy a poskytnutí obdobné služby podle [[#§ 71i|§ 71i]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71i
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f3b79ba67cb7ed75732a -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=b02725d42fec76374485 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 71k — Žádost o závazné posouzení pro uplatnění osvobození od daně s nárokem na odpočet při dodání knihy a poskytnutí obdobné služby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Generální finanční ředitelství vydá na žádost osoby rozhodnutí o závazném posouzení o uplatnění osvobození od daně s nárokem na odpočet při dodání knihy a poskytnutí obdobné služby podle [[#§ 71i|§ 71i]] na určitá dodání zboží nebo poskytnutí služby.
+>
+> (2) V žádosti o vydání rozhodnutí podle odstavce 1 osoba uvede
+>
+> - a) popis zboží nebo služby, jichž se žádost o vydání rozhodnutí o závazném posouzení týká; v žádosti lze uvést jednu položku zboží nebo služby,
+>
+> - b) návrh výroku rozhodnutí o závazném posouzení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71i
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b02725d42fec76374485 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=ee3f027dd3e8984352dd generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 71l
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Od daně je osvobozeno pořízení nového dopravního prostředku z jiného členského státu nebo pořízení zboží, které je předmětem spotřební daně, z jiného členského státu osobou požívající výsad a imunit podle § 80 odst. 1 nebo [[#§ 2|2]], pokud by v případě jejich dodání s místem plnění v tuzemsku byla daň zaplacená v ceně tohoto zboží nebo nového dopravního prostředku vrácena této osobě podle [[#§ 80|§ 80]].
+>
+> (2) Pokud je pořízení nového dopravního prostředku z jiného členského státu nebo pořízení zboží, které je předmětem spotřební daně, z jiného členského státu, osvobozeno od daně podle odstavce 1, je osoba požívající výsad a imunit podle § 80 odst. 1 nebo [[#§ 2|2]] povinna uvést toto plnění v daňovém přiznání pro vrácení daně, ve kterém by toto plnění mohla nejdříve uvést, pokud by žádala o vrácení daně podle [[#§ 80|§ 80]].
+>
+> (3) Ustanovení § 80 odst. 12, [[#§ 14|14]] a [[#§ 15|15]] se použijí při osvobození podle odstavce 1 obdobně. K daňovému přiznání podle odstavce 2 je osoba podle § 80 odst. 1 nebo [[#§ 2|2]] povinna přiložit doklad o prodeji nového dopravního prostředku nebo zboží, které je předmětem spotřební daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 80, § 2, § 14, § 15
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ee3f027dd3e8984352dd -->
 
 ## Souhrnná tabulka — oba druhy osvobození podle dílu 8
 

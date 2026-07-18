@@ -118,6 +118,94 @@ Tyto body řeší situace, kdy se **k 1. 5. 2004** změnila samotná geografie D
 
 § 111 je kolizní (intertemporální) ustanovení: rozhraní mezi zákonem č. 588/1992 Sb. a zákonem č. 235/2004 Sb. Praktik si pamatuje zejména **bod 1** (staré předpisy pro staré skutkové stavy a neskončené věci), **bod 6** (automatická transformace DIČ na formát „CZ" a kontinuita registrace), **bod 7** (restart obratu pro plátcovství podle § 6) a **body 8–10** (rozdělené vypořádání koeficientu odpočtu při přechodu z § 20 na § 76). U smluv a záloh uzavřených před 1. 5. 2004 je nutné ověřit, zda daň vzniká ke dni uskutečnění plnění (bod 11), a u leasingu podle bodu 12 aplikovat dosavadní zákon. Většina bodů má dnes historickou povahu, jejich interpretační a důkazní význam pro staré transakce však přetrvává.
 
+
+<!-- LEGAL-REVISION:BEGIN id=41003277087c68f5a8b7 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 111 — Přechodná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> - 1. Pro uplatnění daně z přidané hodnoty za období přede dnem nabytí účinnosti tohoto zákona, jakož i pro uplatnění práv s tím souvisejících, platí dosavadní právní předpisy.
+>
+> - 2. Podle dosavadních právních předpisů platných do dne nabytí účinnosti tohoto zákona se až do svého ukončení posuzují všechny procesní lhůty, které začaly běžet před účinností tohoto zákona. Lhůty pro uplatnění práv podle bodu 1 se řídí dosavadními právními předpisy.
+>
+> - 3. Plátce registrovaný podle dosavadních předpisů je plátcem podle tohoto zákona.
+>
+> - 4. Plátce, který podává daňové přiznání za kalendářní čtvrtletí, je povinen do 25. července 2004 podat daňové přiznání za měsíc duben 2004 podle dosavadních právních předpisů.
+>
+> - 5. Zdaňovacím obdobím pro plátce, který podává daňové přiznání za kalendářní čtvrtletí a tento plátce postupoval podle bodu 4, je období od 1. května 2004 do 30. června 2004. Od 1. července 2004 plátce podává daňové přiznání podle [[#§ 99|§ 99]].
+>
+> - 6. Osvědčení o registraci, která byla vydána přede dnem nabytí účinnosti tohoto zákona, zůstávají v platnosti. Daňová identifikační čísla přidělená přede dnem nabytí účinnosti tohoto zákona zaregistrovaným daňovým subjektům se mění tak, že první tři číslice a pomlčka se nahrazují kódem „CZ“. Daňový subjekt je povinen uvádět takto změněné daňové identifikační číslo. Na žádost daňového subjektu správce daně vyznačí změnu daňového identifikačního čísla v osvědčení o registraci.
+>
+> - 7. Pro stanovení výše obratu uvedené v [[#§ 6|§ 6]] tohoto zákona se pro účely registrace nepřihlíží k obratu dosaženému před účinností tohoto zákona.
+>
+> - 8. Ve zdaňovacích obdobích roku 2004 ode dne nabytí účinnosti tohoto zákona se použije jako zálohový koeficient pro zkracování nároku na odpočet daně podle § 76 odst. 6 koeficient vypočtený při vypořádání odpočtu daně za zdaňovací období kalendářního roku 2003.
+>
+> - 9. Při zrušení registrace počínaje dnem účinnosti tohoto zákona plátce, který při uplatnění nároku na odpočet daně u majetku v období do 31. prosince 2000 použil koeficient podle [[§ 20|§ 20]] [[dosavadního zákona|dosavadního zákona]], upraví částku snížení nároku na odpočet daně podle § 74 odst. 5 koeficientem stanoveným podle [[#§ 76|§ 76]] tohoto zákona.
+>
+> - 10. Při vypořádání nároku na odpočet daně od 1. ledna 2004 do 31. prosince 2004 postupuje plátce tak, že za období od 1. ledna 2004 do data účinnosti tohoto zákona provede vypořádání podle znění [[§ 20|§ 20]] [[dosavadního zákona|dosavadního zákona]], a za období od data účinnosti tohoto zákona do 31. prosince 2004 podle [[#§ 76|§ 76]] tohoto zákona. Vypořádání za období od 1. ledna 2004 do data účinnosti tohoto zákona plátce uvede do daňového přiznání za měsíc duben 2004. V případě dodatečné opravy uskutečněných zdanitelných plnění za již vypořádané období podle předchozí věty plátce postupuje podle [[§ 20 odst. 11|§ 20 odst. 11]] [[dosavadního zákona|dosavadního zákona]]. Vypořádání za období od data účinnosti tohoto zákona do 31. prosince 2004 plátce uvede do daňového přiznání za poslední zdaňovací období roku 2004. Ve zdaňovacích obdobích roku 2005 se použije jako zálohový koeficient pro zkracování nároku na odpočet daně podle § 76 odst. 6 koeficient vypočtený při vypořádání odpočtu daně za zdaňovací období od data účinnosti tohoto zákona do 31. prosince 2004.
+>
+> - 11. U smluv uzavřených do dne předcházejícího dni nabytí účinnosti tohoto zákona, u nichž byly do tohoto dne poskytnuty zálohy na zdanitelná plnění, která budou uskutečněna po nabytí účinnosti tohoto zákona, je plátce daně povinen přiznat daň ke dni uskutečnění zdanitelného plnění. Záloha zaplacená před datem účinnosti tohoto zákona není přijatou platbou podle tohoto zákona. U smluv uzavřených do dne předcházejícího dni nabytí účinnosti tohoto zákona na plnění, která budou uskutečněna po nabytí účinnosti tohoto zákona a budou zdanitelnými plněními podle tohoto zákona, je plátce, který je povinen přiznat a zaplatit daň, povinen tuto daň přiznat ke dni uskutečnění zdanitelného plnění nebo ke dni přijetí platby, pokud je platba přijata po nabytí účinnosti tohoto zákona. Částka zaplacená před datem účinnosti tohoto zákona není přijatou platbou podle tohoto zákona.
+>
+> - 12. Pro smlouvy o finančním pronájmu, které byly uzavřeny a předmět smlouvy byl předán do užívání do dne předcházejícího dni nabytí účinnosti tohoto zákona, se použijí příslušná ustanovení [[zákona č. 588/1992 Sb., o dani z přidané hodnoty|zákona č. 588/1992 Sb., o dani z přidané hodnoty]], ve znění platném do dne předcházejícího datu nabytí účinnosti tohoto zákona.
+>
+> - 13. Osoba registrovaná k dani v jiném členském státě se může zaregistrovat ke dni nabytí účinnosti tohoto zákona, pokud bude uskutečňovat zdanitelná plnění v tuzemsku.
+>
+> - 14. U zboží, které bylo v jiném členském státě nebo nově přistupujícím členském státě propuštěno do celního režimu vývoz nebo tranzit do 30. dubna 2004 a po dni nabytí účinnosti tohoto zákona vstoupí do tuzemska, se postupuje jako při dovozu zboží.
+>
+> - 15. U zboží, které bylo v tuzemsku propuštěno do celního režimu vývoz, tranzit nebo pasivní zušlechťovací styk do 30. dubna 2004 a po dni nabytí účinnosti tohoto zákona vstoupí do jiného členského státu, se postupuje jako při vývozu zboží.
+>
+> - 16. Ustanovení § 36 odst. 10 se poprvé použije pro vratné zálohované obaly vykoupené po 30. dubnu 2004.
+>
+> - 18. Pro stanovení místa plnění podle § 8 odst. 3 v období od účinnosti tohoto zákona do 31. prosince 2004 neplatí podmínka, že hodnota dodaného zboží do jiného členského státu nebyla překročena v předcházejícím kalendářním roce.
+>
+> - 19. Rozhodnutí o záznamní povinnosti vydané správci daně podle [[§ 18|§ 18]] [[zákona č. 588/1992 Sb., o dani z přidané hodnoty|zákona č. 588/1992 Sb., o dani z přidané hodnoty]], ve znění pozdějších předpisů, a to s platností do 31. prosince 2004, zůstávají v platnosti i po dni účinnosti tohoto zákona.
+>
+> - 20. U převodu nemovitosti, u kterého dojde k právním účinkům vkladu do 30. dubna 2004, se použijí dosavadní právní předpisy.
+>
+> - 21. U zboží, které bylo dovezeno ze zemí, které byly členskými státy před účinností tohoto zákona, a propuštěno do příslušných celních režimů, se postupuje při uplatnění daně po účinnosti tohoto zákona podle celních předpisů.
+>
+> - 22. U programů předvstupní pomoci se po účinnosti tohoto zákona vrací daň podle [[#§ 81|§ 81]] až do ukončení těchto programů.
+>
+> - 23. Pokud bude zboží před účinností tohoto zákona propuštěno do režimu vývozu a jeho výstup do jiného členského státu po účinnosti tohoto zákona nebude potvrzen celním orgánem, prokazuje plátce splnění podmínek pro osvobození od daně jinými důkazními prostředky.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 99, § 6, § 76, § 20, § 74, § 36, § 8, § 18, § 81
+
+#### Souvisící předpisy
+
+- zákon č. 588/1992 Sb. (výslovně uvedeno v místním znění)
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=41003277087c68f5a8b7 -->
+
 ## § 112 — Zrušovací ustanovení
 
 > *Zrušuje se:*
@@ -154,6 +242,67 @@ Zrušení starého zákona je nutné odečíst **ve spojení s § 111 bodem 1**:
 ### H. Praktický závěr
 
 § 112 provádí **úplnou derogaci** předchozí úpravy DPH — ruší zákon č. 588/1992 Sb. a čtyři jeho výslovně uvedené novely. Klíčové je číst derogaci **ve spojení s § 111 bodem 1**: zrušení působí jen do budoucna, zatímco pro plnění uskutečněná před 1. 5. 2004 a práva s nimi spojená obsah zrušeného zákona „přežívá". Praktik proto u starých skutkových stavů aplikuje dosavadní zákon v rozhodném znění a nenechá se zmást tím, že je formálně zrušen. Výčet čtyř novel je pouze deklaratorní — ostatní novely se vyčerpaly již svým provedením a zrušením kmenového zákona pozbyly smyslu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=213ffa5ff22197f07ad0 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 112 — Zrušovací ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> Zrušuje se:
+>
+> - 1. [[Zákon č. 588/1992 Sb., o dani z přidané hodnoty|Zákon č. 588/1992 Sb., o dani z přidané hodnoty]].
+>
+> - 2. [[Zákon č. 321/1993 Sb|Zákon č. 321/1993 Sb.]], kterým se mění a doplňuje [[zákon č. 588/1992 Sb., o dani z přidané hodnoty|zákon č. 588/1992 Sb., o dani z přidané hodnoty]], ve znění [[zákona č. 196/1993 Sb|zákona č. 196/1993 Sb.]]
+>
+> - 3. [[Zákon č. 258/1994 Sb|Zákon č. 258/1994 Sb.]], kterým se mění a doplňuje [[zákon č. 588/1992 Sb., o dani z přidané hodnoty|zákon č. 588/1992 Sb., o dani z přidané hodnoty]], ve znění pozdějších předpisů.
+>
+> - 4. [[Zákon č. 133/1995 Sb|Zákon č. 133/1995 Sb.]], kterým se mění a doplňuje [[zákon č. 588/1992 Sb., o dani z přidané hodnoty|zákon č. 588/1992 Sb., o dani z přidané hodnoty]], ve znění pozdějších předpisů.
+>
+> - 5. [[Zákon č. 208/1997 Sb|Zákon č. 208/1997 Sb.]], kterým se mění a doplňuje [[zákon č. 588/1992 Sb., o dani z přidané hodnoty|zákon č. 588/1992 Sb., o dani z přidané hodnoty]], ve znění pozdějších předpisů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- zákon č. 588/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 321/1993 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 196/1993 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 258/1994 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 133/1995 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 208/1997 Sb. (výslovně uvedeno v místním znění)
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=213ffa5ff22197f07ad0 -->
 
 ## § 113 — Účinnost
 
@@ -203,6 +352,52 @@ Odložení účinnosti dílčích ustanovení je běžná technika, jíž zákon
 
 § 113 stanoví účinnost zákona **dnem vstupu přístupové smlouvy ČR k EU v platnost** (1. 5. 2004), s odložením tří ustanovení (§ 23 odst. 3, § 73 odst. 3 věta poslední, § 51 odst. 1 písm. j) na **1. 1. 2005**. Praktik nehledá v § 113 pevné datum — účinnost je navázána na právní skutečnost přistoupení. U starých plnění z roku 2004 je třeba ověřit, zda dotčené ustanovení v rozhodné době již bylo účinné. Pro účinnost pozdějších novel se § 113 nepoužije; rozhodná jsou účinnostní ustanovení jednotlivých novelizačních zákonů. Závěrečná ustanovení o pozbytí platnosti vyvolávají následek jednorázově a nelze je znovu aktivovat (*I.ÚS 504/10*).
 
+
+<!-- LEGAL-REVISION:BEGIN id=d9fe0e984bd10e9cb424 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 113 — Účinnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost, s výjimkou ustanovení § 23 odst. 3, § 73 odst. 3 věty poslední a § 51 odst. 1 písm. j), která nabývají účinnosti dnem 1. ledna 2005.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 23, § 73, § 51
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d9fe0e984bd10e9cb424 -->
+
 ## Přílohy zákona
 
 Zákon má **šest příloh**. Mají **normativní povahu** — nejsou pouhým výkladovým doplňkem, nýbrž závazně dotvářejí hmotné právo (zejména okruh subjektů, sazby a režim přenesení). Společným znakem příloh č. 2, 3 a 5 je technika **dvojí podmínky**: do daného režimu spadá plnění, které odpovídá **současně** uvedenému číselnému kódu (klasifikace CZ-CPA u služeb, kód nomenklatury celního sazebníku u zboží) **a zároveň** výslovnému slovnímu popisu v textové části přílohy.
@@ -219,6 +414,75 @@ Seznam **11 druhů plnění**, při jejichž provádění se subjekty vykonávaj
 
 Tato příloha je eurokonformní transpozicí přílohy I směrnice 2006/112/ES (činnosti, u nichž jsou veřejnoprávní subjekty vždy osobami povinnými k dani).
 
+
+<!-- LEGAL-REVISION:BEGIN id=b3cedb9ea8695beb525a generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+##### Revizní doplnění k příloze 1 — Seznam plnění, při jejichž provádění se subjekty, které vykonávají veřejnou správu, považují za osoby povinné k dani
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+###### Znění ustanovení
+
+> Příloha č. 1 k zákonu č. 235/2004 Sb.
+> Seznam plnění, při jejichž provádění se subjekty, které vykonávají veřejnou správu, považují za osoby povinné k dani
+>
+> - 1. Dodání vody, plynu, tepla, chladu a elektřiny.
+>
+> - 2. Dodání nového zboží vyrobeného za účelem prodeje.
+>
+> - 3. Služby telekomunikační.
+>
+> - 4. Přeprava osobní a nákladní.
+>
+> - 5. Skladování, přístavní a letištní služby.
+>
+> - 6. Služby cestovních kanceláří a agentur, průvodcovské služby.
+>
+> - 7. Služby reklamních agentur.
+>
+> - 8. Služby pořádání výstav, veletrhů a kongresů.
+>
+> - 9. Provozování prodejen pro zaměstnance, kantýn, závodních a podobných jídelen.
+>
+> - 10. Služby provozovatelů rozhlasového a televizního vysílání jiné než osvobozené od daně podle [[#§ 53|§ 53]].
+>
+> - 11. Plnění uskutečněná Státním zemědělským intervenčním fondem týkající se dodání zemědělských a potravinářských výrobků podle předpisů platných pro činnost tohoto fondu.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- zákon č. 235/2004 Sb. (výslovně uvedeno v místním znění)
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b3cedb9ea8695beb525a -->
+
 #### Příloha č. 2 — Služby ve snížené sazbě daně
 
 Seznam služeb podléhajících **snížené sazbě** identifikovaných kódem klasifikace **CZ-CPA** (ve znění platném k 1. 1. 2015) ve spojení se slovním popisem. Reprezentativní položky:
@@ -232,6 +496,83 @@ Seznam služeb podléhajících **snížené sazbě** identifikovaných kódem k
 
 Textová část přílohy obsahuje legislativní **definice** pro účely DPH (hromadná doprava osob, pitná voda, vodovod, vnitřní vodovod, vybraný nápoj, nealkoholický nápoj), které jsou pro správné zařazení do snížené sazbu nezbytné — viz výklad k sazbám [08](08-cast1-hlava2-dil7-sazby-dane.md).
 
+
+<!-- LEGAL-REVISION:BEGIN id=4b9e865ae2c84477af0d generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+##### Revizní doplnění k příloze 2 — Seznam služeb podléhajících snížené sazbě daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+###### Znění ustanovení
+
+> Příloha č. 2 k zákonu č. 235/2004 Sb.
+>
+> Seznam služeb podléhajících snížené sazbě daně
+>
+> CZ-CPAPopis služby36.00.2Úprava a rozvod vody prostřednictvím sítí.37Odvádění a čištění odpadních vod včetně ostatních služeb souvisejících s těmito činnostmi.49Pozemní hromadná doprava osob a jejich zavazadel; osobní doprava lyžařskými vleky.50Vodní hromadná doprava osob a jejich zavazadel.55Ubytovací služby.56Stravovací služby s výjimkou podávání nápojů jiných než pitné vody a vybraných nápojů; podávání pitné vody a vybraných nápojů.59.14, 90, 91, 93Poskytnutí oprávnění ke vstupu na představení, do divadel, do cirkusů, do zábavních parků, na koncerty, do muzeí, do zoologických zahrad, do kin, na výstavy a na podobné kulturní události nebo do podobných kulturních zařízení; poskytnutí oprávnění ke vstupu do botanických zahrad, přírodních rezervací a národních parků.77, 85, 91Půjčování nebo nájem novin, časopisů a periodik, na jejichž dodání se uplatňuje snížená sazba daně, pokud se jedná o veřejné knihovnické a informační nebo další služby poskytované podle knihovního zákona nebo obdobné služby poskytované podle jiného právního předpisu.86Zdravotní péče.87Sociální péče.88.10, 88.91Domácí péče o děti, staré, nemocné nebo zdravotně postižené občany.93.11, 93.12, 93.13, 93.29.11,Poskytnutí oprávnění ke vstupu na sportovní události; použití krytých i nekrytých sportovních zařízení ke sportovním činnostem; služby související93.29.19s provozem rekreačních parků a pláží; provoz lyžařských svahů.96.03Pohřební a související služby mimo pohřebních služeb pro zvířata.96.04Služby tureckých lázní, saun, parních lázní a solných jeskyní.
+>
+> Snížené sazbě daně podléhají služby, které odpovídají současně číselnému kódu klasifikace produkce CZ-CPA, ve znění platném k 1. lednu 2015, a výslovně uvedenému slovnímu popisu k tomuto kódu v textové části této přílohy.
+>
+> Kódem nomenklatury celního sazebníku se rozumí kód popisu vybraných výrobků uvedený v celním sazebníku, ve znění platném k 1. lednu 2018.
+>
+> Hromadnou dopravou osob se pro účely daně z přidané hodnoty rozumí přeprava osob po stanovených trasách, kdy cestující nastupují a vystupují na předem určených zastávkách nebo místech podle předem stanovených jízdních řádů schválených podle [[zákona č. 266/1994 Sb., o dráhách|zákona č. 266/1994 Sb., o dráhách]], ve znění pozdějších předpisů, nebo [[zákona č. 114/1995 Sb., o vnitrozemské plavbě|zákona č. 114/1995 Sb., o vnitrozemské plavbě]], ve znění pozdějších předpisů, a přeprava osob, která je linkovou osobní dopravou nebo příležitostnou osobní silniční dopravou podle [[zákona č. 111/1994 Sb., o silniční dopravě|zákona č. 111/1994 Sb., o silniční dopravě]], ve znění pozdějších předpisů.
+>
+> Pitnou vodou se pro účely daně z přidané hodnoty rozumí voda splňující požadavky pro pitnou vodu stanovené [[zákonem č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů|zákonem č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů]], ve znění pozdějších předpisů, dodávaná odběratelům vodovodem a teplá voda splňující podmínky pro teplou vodu podle [[zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů|zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů]], ve znění pozdějších předpisů, dodávaná odběratelům potrubím nebo vnitřním vodovodem, které jsou konstrukčně propojeny směšovací baterií s vodovodním potrubím pitné vody.
+>
+> Vodovodem se pro účely daně z přidané hodnoty rozumí provozně samostatný soubor staveb a zařízení zahrnující vodovodní řady a vodárenské objekty, jimiž jsou zejména stavby pro jímání a odběr povrchové nebo podzemní vody, její úpravu a shromažďování.
+>
+> Vnitřním vodovodem se pro účely daně z přidané hodnoty rozumí potrubí určené pro rozvod vody po pozemku nebo stavbě, které navazuje na konec vodovodní přípojky.
+>
+> Vybraným nápojem se pro účely daně z přidané hodnoty rozumí nealkoholický nápoj, pokud jde o
+>
+> - a) mléko a tekuté mléčné výrobky uvedené pod kódy nomenklatury celního sazebníku v kapitole 4,
+>
+> - b) nápoje uvedené pod kódy nomenklatury celního sazebníku 2202 99 11 a 2202 99 15,
+>
+> - c) mléko a tekuté mléčné výrobky podle písmene a) a nápoje podle písmene b) obsahující přidaný cukr nebo jiné sladidlo, přísadu nebo jinou potravinu, pokud si zachovávají podstatný charakter mléka nebo tekutých mléčných výrobků podle písmene a) nebo nápojů podle písmene b).
+>
+> Nealkoholickým nápojem se pro účely daně z přidané hodnoty rozumí nápoj jiný než alkoholický nápoj podle [[zákona č. 65/2017 Sb., o ochraně zdraví před škodlivými účinky návykových látek|zákona č. 65/2017 Sb., o ochraně zdraví před škodlivými účinky návykových látek]], ve znění pozdějších předpisů.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- zákon č. 235/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 266/1994 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 114/1995 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 111/1994 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 258/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 65/2017 Sb. (výslovně uvedeno v místním znění)
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4b9e865ae2c84477af0d -->
+
 #### Příloha č. 3 — Zboží ve snížené sazbě daně
 
 Seznam zboží podléhajícího **snížené sazbě** podle **kódu nomenklatury celního sazebníku** (ve znění k 1. 1. 2018) a slovního popisu. Reprezentativní okruhy:
@@ -244,6 +585,62 @@ Seznam zboží podléhajícího **snížené sazbě** podle **kódu nomenklatury
 - **zboží pro osobní používání nemocnými a zdravotně postiženými** (Braille papír, pomůcky pro nevidomé a neslyšící, počítače upravené pro postižené aj.);
 - **dětské autosedačky** (kód 94).
 
+
+<!-- LEGAL-REVISION:BEGIN id=445be56e08b0d1a321d2 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+##### Revizní doplnění k příloze 3 — Seznam zboží podléhajícího snížené sazbě daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+###### Znění ustanovení
+
+> Příloha č. 3 k zákonu č. 235/2004 Sb.
+> Seznam zboží podléhajícího snížené sazbě daně
+> Kód nomenklatury celního sazebníkuNázev zboží01-05, 07-23, 25-Potraviny; krmiva pro zvířata; živá zvířata, semena, rostliny a přísady, obvykle určené k přípravě potravin; výrobky obvykle používané jako doplněk nebo náhražka potravin.
+>  Mimo nápojů a vody; to neplatí pro vybrané nápoje.2201-Pitná voda.0601, 0602-Živé dřeviny a jiné rostliny; cibule, kořeny a podobné.07-12-Rostliny a semena.28-30-Sorbit pro diabetiky, aspartam, sacharin a jeho soli, antibiotika, farmaceutické výrobky - jen určené pro zdravotní služby, prevenci nemocí a léčbu pro humánní lékařské účely; radiofarmaka, očkovací látky, léky, kontrastní prostředky pro rentgenová vyšetření, diagnostické reagencie určené k podávání pacientům, chemické antikoncepční přípravky na hormonálním základě - určené pro zdravotní a veterinární služby, prevenci nemocí a léčbu pro humánní a veterinární lékařské účely.4902, 8523-Noviny, časopisy a periodika, včetně zvukového záznamu přednesu jejich obsahu, pokud nejde o zboží,-u kterého reklama podle zákona upravujícího regulaci reklamy představuje více než 50 % obsahu, nebo-které výlučně nebo převážně sestává z hudebního zvukového nebo audiovizuálního obsahu.01-96-Zdravotnické prostředky podle nařízení Evropského parlamentu a Rady upravujícího zdravotnické prostředky79) (dále jen „nařízení o zdravotnických prostředcích“) a jejich příslušenství podle tohoto nařízení a diagnostické zdravotnické prostředky in vitro podle nařízení Evropského parlamentu a Rady upravujícího diagnostické zdravotnické prostředky in vitro80) (dále jen „nařízení o diagnostických zdravotnických prostředcích in vitro“) a jejich příslušenství podle tohoto nařízení, pokud lze tyto prostředky a tato příslušenství zařadit mezi zdravotnické prostředky předepisované na poukaz nebo stomatologické výrobky, které lze hradit z veřejného zdravotního pojištění podle zákona upravujícího úhrady zdravotnických prostředků předepisovaných na poukaz a stomatologických výrobků hrazených z veřejného zdravotního pojištění; mimo zdravotnické prostředky a příslušenství zdravotnických prostředků, které lze zařadit do úhradové skupiny „Nekategorizované zdravotnické prostředky“, vatu buničitou a náplast s výjimkou hypoalergenní náplasti.01-96-Zdravotnické prostředky podle nařízení o zdravotnických prostředcích a jejich příslušenství podle tohoto nařízení, pokud jsou zhotovené podle předpisu kvalifikovaného zdravotnického pracovníka, kterým tento pracovník vydává individuální návrh charakteristik zdravotnického prostředku určeného k použití pouze pro jednoho konkrétního pacienta.01-96-Zdravotnické prostředky podle nařízení o zdravotnických prostředcích a jejich příslušenství podle tohoto nařízení a diagnostické zdravotnické prostředky in vitro podle nařízení o diagnostických zdravotnických prostředcích in vitro, a jejich příslušenství podle tohoto nařízení, pokud jsou tyto prostředky určeny pro jedno použití.9001 30-Kontaktní čočky, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.9001 40-Brýlové čočky ze skla, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.9001 50-Brýlové čočky z ostatních materiálů, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.9003-Obruby a obroučky pro brýle, pro ochranné brýle nebo pro podobné výrobky, a jejich části a součásti, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích, a jejich příslušenství podle tohoto nařízení.9004-Brýle korekční, ochranné nebo jiné a podobné výrobky, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.9018 19-Pulzní oxymetry, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.9018 31,
+>  9018 32,
+>  9018 39 00-Injekční stříkačky, jehly, katétry (cévky), kanyly a podobné výrobky, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.9018 90 10-Tlakoměry, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.9019-Přístroje pro mechanoterapii; masážní přístroje; psychotechnické přístroje; přístroje pro léčbu ozonem, kyslíkem, aerosolem, dýchací oživovací přístroje nebo jiné léčebné dýchací přístroje. Pouze pokud se jedná o zdravotnické prostředky podle nařízení o zdravotnických prostředcích. Příslušenství těchto zdravotnických prostředků podle tohoto nařízení.9020 00 00-Ostatní dýchací přístroje a plynové masky, kromě ochranných masek bez mechanických částí a vyměnitelných filtrů, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích, a jejich příslušenství podle tohoto nařízení.9021-Ortopedické pomůcky a přístroje, včetně berlí, chirurgických pásů a kýlních pásů; dlahy a jiné prostředky k léčbě zlomenin; umělé části těla; pomůcky pro nedoslýchavé a jiné prostředky nošené v ruce nebo na těle anebo implantované v organismu ke kompenzování následků nějaké vady nebo neschopnosti. Pouze pokud se jedná o zdravotnické prostředky podle nařízení o zdravotnických prostředcích. Příslušenství těchto zdravotnických prostředků podle tohoto nařízení.9025-Teploměry, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.48, 64, 66, 84,
+>  85, 87, 90, 91-Zboží pro osobní používání nemocnými nebo zdravotně postiženými k léčení nemoci nebo zdravotního postižení nebo ke zmírnění jejich důsledků, jež není zdravotnickým prostředkem nebo příslušenstvím zdravotnických prostředků podle právního předpisu upravujícího zdravotnické prostředky, a to:-Braille papír-Osobní a kuchyňské váhy s hlasovým výstupem pro nevidomé a částečně vidící osoby-Psací stroje a stroje na zpracování textu (slovní procesory) upravené k používání nevidomými a částečně vidícími osobami nebo osobami s amputovanou nebo ochrnutou horní končetinou-Elektronické kalkulačky s hlasovým nebo hmatovým výstupem pro nevidomé a částečně vidící osoby a elektronické počítací stroje s hlasovým nebo hmatovým výstupem pro nevidomé a částečně vidící osoby-Počítače speciálně upravené pro nevidomé a částečně vidící osoby s hlasovým nebo hmatovým výstupem nebo hardwarovým adaptérem pro zvětšování písma a obrazu, a jejich jednotky a přídavná zařízení s hlasovým nebo hmatovým výstupem nebo hardwarovým adaptérem pro zvětšování písma a obrazu-Braillská počítačová tiskárna pro nevidomé a částečně vidící osoby, klávesnice pro nevidomé a částečně vidící osoby a jiné výstupní a vstupní jednotky počítače pro zpracování hmatového písma-Jednotky počítačů a přídavná zařízení k počítačům umožňující jejich ovládání osobami se sníženou jemnou motorikou nebo amputovanými končetinami-Telefony a videotelefony konstruované pro použití neslyšícími osobami-Zvětšovače televizního obrazu pro nevidomé a částečně vidící osoby-Speciální akustické nebo vizuální přístroje pro neslyšící, nevidomé a částečně vidící osoby-Ruční ovládání nožních pedálů, ruční páky, včetně řadicí páky, pro tělesně postižené osoby-Hodinky pro nevidomé a částečně vidící osoby s hmatovýmnebohlasovým výstupem s pouzdrem jiným než z drahých kovů a vibrační a světelné hodinky pro neslyšící osoby-Vibrační a světelné budíky pro neslyšící osoby a budíky s hlasovým nebo hmatovým výstupem pro nevidomé a částečně vidící osoby-Části a součásti těchto výrobků, u kterých je čestným prohlášením doloženo, že zboží náleží k určitému výše uvedenému druhu zboží.94-Dětské sedačky do automobilů.
+>
+> Kódem nomenklatury celního sazebníku se rozumí kód popisu vybraných výrobků uvedený v celním sazebníku ve znění platném k 1. lednu 2018.
+>
+> Snížené sazbě daně podléhá zboží, které odpovídá současně kódu nomenklatury celního sazebníku a výslovně uvedenému slovnímu popisu k tomuto kódu v textové části této přílohy.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- zákon č. 235/2004 Sb. (výslovně uvedeno v místním znění)
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=445be56e08b0d1a321d2 -->
+
 #### Příloha č. 4 — Umělecká díla, sběratelské předměty a starožitnosti
 
 Definuje předměty pro účely **zvláštního režimu** zdanění (přirážková daň u obchodníků s použitým zbožím). Člení se na tři skupiny:
@@ -252,9 +649,109 @@ Definuje předměty pro účely **zvláštního režimu** zdanění (přirážko
 - **B) Sběratelské předměty** — poštovní známky a kolky (9704), sbírky zoologického, mineralogického, historického či numismatického zájmu (9705);
 - **C) Starožitnosti** — jiné předměty starší **100 let** (9706).
 
+
+<!-- LEGAL-REVISION:BEGIN id=cb09af7e1a1b3ab088d0 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+##### Revizní doplnění k příloze 4 — Umělecká díla, sběratelské předměty a starožitnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+###### Znění ustanovení
+
+> Příloha č. 4 k zákonu č. 235/2004 Sb.
+> Umělecká díla, sběratelské předměty a starožitnosti
+> Kód nomenklatury celního sazebníkuNázev zbožíA) Umělecká díla5805- Tapisérie zhotovené ručně podle originální předlohy poskytnuté umělcem, nejvýše však v osmi kopiích.6304- Nástěnné textilie, zhotovené ručně podle originální předlohy poskytnuté umělcem, nejvýše však v osmi kopiích.9701- Obrazy, malby, kresby, koláže, a podobná výtvarná díla, zhotoveny zcela výhradně ručně umělcem, kromě plánů a výkresů pro architektonické, technické, průmyslové, obchodní, topografické nebo podobné účely, ručně dekorované a zhotovené předměty, divadelní kulisy, ateliérová a podobná malovaná pozadí.9702- Původní rytiny, tisky a litografie, které jsou zhotoveny umělcem bezprostředním přetiskem v omezeném počtu exemplářů v černobílém nebo barevném provedení a to výhradně ručně nikoli mechanickým nebo fototechnickým postupem.9703- Původní plastiky a sochy z jakéhokoliv materiálu, pokud byly zcela zhotoveny umělcem; odlévané sochy do 8 kusů, pokud výroba probíhá pod dohledem umělce nebo jeho právního zástupce.B) Sběratelské předměty9704- Poštovní známky, výplatní známky nebo kolky, obálky frankované a opatřené poštovním razítkem prvního dne emise známky, poštovní ceniny a obdobné frankované či nefrankované předměty, pokud nejsou zákonným platidlem ani nejsou zamýšleny k použití jako zákonné platidlo.9705- Sbírky a sběratelské předměty zoologického, botanického, mineralogického, anatomického historického, archeologického, paleontologického, etnografického nebo numismatického zájmu.C) Starožitnosti9706- Jiné předměty než umělecká díla nebo sběratelské předměty, pokud jsou starší 100 let.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- zákon č. 235/2004 Sb. (výslovně uvedeno v místním znění)
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cb09af7e1a1b3ab088d0 -->
+
 #### Příloha č. 5 — Zboží v režimu přenesení daňové povinnosti
 
 Seznam zboží, u jehož dodání se obligatorně použije **režim přenesení daňové povinnosti** (reverse charge) podle [13](13-cast1-hlava4-preneseni-danove-povinnosti.md). Příloha je zaměřena protipodvodně a obsahuje zejména **odpady a šrot**: granulovaná struska (2618), odpad z plastů (3915), kaučuku (4004), sběrový papír (4707), textilní odpad, **skleněné střepy** (7001 10) a rozsáhlý výčet **odpadu a šrotu z kovů** — železo a ocel (7204), měď (7404), nikl, hliník, olovo, zinek, cín i vzácné kovy (drahé kovy 7112) a odpad galvanických článků a baterií (8548 10). Označení **„ex"** před kódem znamená, že se přenesení vztahuje jen na zboží odpovídající současně kódu i slovnímu popisu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=e5696dcd7f4eb06291ee generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+##### Revizní doplnění k příloze 5 — Seznam zboží, u kterého se při dodání použije režim přenesení daňové povinnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+###### Znění ustanovení
+
+> Příloha č. 5 k zákonu č. 235/2004 Sb.
+> Seznam zboží, u kterého se při dodání použije režim přenesení daňové povinnosti
+> Kód nomenklatury celního sazebníkuNázev zboží2618 00 00Granulovaná struska (struskový písek) z výroby železa nebo oceli2619 00Struska, zpěněná struska (jiná než granulovaná struska), okuje a jiné odpady z výroby železa nebo oceli2620Struska, popel a zbytky (jiné než z výroby železa nebo oceli), obsahující kovy, arsen, nebo jejich sloučeniny3915Odpady, úlomky a odřezky z plastů4004 00 00Odpady, úlomky a odřezky z kaučuku (jiné než z tvrdého kaučuku) a prášky a zrna z nich4707Sběrový papír, kartón nebo lepenka (odpad a výmět)5003 00 00Hedvábný odpad (včetně zámotků nevhodných ke smotávání, niťového odpadu a rozvlákněného materiálu)5103 00 00Odpad z vlny nebo z jemných nebo hrubých zvířecích chlupů (včetně niťového odpadu avšak kromě rozvlákněného materiálu)5103 20 00Ostatní odpad z vlny nebo jemných zvířecích chlupů5103 30 00Odpad z hrubých zvířecích chlupů5202 00 00Bavlněný odpad (včetně niťového odpadu a rozvlákněného materiálu)5202 10 00Niťový odpad5505Odpad z chemických vláken (včetně výčesků, niťového odpadu a rozvlákněného materiálu)6310Použité nebo nové hadry, motouzy, šňůry, provazy a lana z textilních materiálů ve formě zbytků nebo výrobků vyřazených z používání7001 00 10Skleněné střepy a jiné skleněné odpady7112Odpad a šrot z drahých kovů nebo z kovů plátovaných drahými kovy; ostatní odpad a šrot obsahující drahé kovy nebo sloučeniny drahých kovů, používaný hlavně pro rekuperaci drahých kovů7204Odpad a šrot ze železa nebo oceli; přetavený odpad ze železa nebo oceli v ingotech7404 00Měděný odpad a šrot7503 00Niklový odpad a šrot7602 00Hliníkový odpad a šrot7802 00 00Olověný odpad a šrot7902 00 00Zinkový odpad a šrot8002 00 00Cínový odpad a šrot8101 97 00Odpad a šrot z wolframu8102 97 00Odpad a šrot z molybdenu8103 30 00Odpad a šrot z tantalu8104 20 00Odpad a šrot z hořčíku8105 30 00Odpad a šrot z kobaltuex 8106 00 10Odpad a šrot z bismutu8107 30 00Odpad a šrot z kadmia8108 30 00Odpad a šrot z titanu8109 30 00Odpad a šrot ze zirkonia8110 20 00Odpad a šrot z antimonu8111 00 19Odpad a šrot z manganu8112 13 00Odpad a šrot z berylia8112 22 00Odpad a šrot z chrómu8112 52 00Odpad a šrot z thallia8112 92 10Odpad a šrot hafnia8112 92 21Odpad a šrot z niobu (columbia); rhenia; gallia; india; vanadu a germania8113 00 40Odpad a šrot z cermetů8548 10Odpad a zbytky galvanických článků, baterií a elektrických akumulátorů; nepoužitelné galvanické články, baterie a elektrické akumulátory.
+>
+> Kódem nomenklatury celního sazebníku se rozumí kód popisu vybraných výrobků uvedený v celním sazebníku ve znění platném k 1. lednu 201872).
+>
+> Je-li před kódem nomenklatury celního sazebníku uvedeno „ex“, vztahuje se příloha na zboží označené současně kódem nomenklatury celního sazebníku a výslovně uvedeným slovním popisem k tomuto kódu v části přílohy.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- zákon č. 235/2004 Sb. (výslovně uvedeno v místním znění)
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e5696dcd7f4eb06291ee -->
 
 #### Příloha č. 6 — Dodání zboží a služeb v režimu přenesení podle nařízení vlády
 
@@ -268,6 +765,74 @@ Seznam **deseti** plnění, u nichž se režim přenesení daňové povinnosti u
 - plnění, u nichž bylo ČR **prováděcím rozhodnutím Rady** povoleno zvláštní opatření odchylující se od čl. 193 směrnice 2006/112/ES.
 
 > ⚠ Rozdíl mezi přílohou č. 5 a č. 6: u **přílohy č. 5** se reverse charge uplatní **přímo ze zákona**; u **přílohy č. 6** je třeba **aktivace nařízením vlády** (a typicky platí finanční limit a další podmínky stanovené prováděcím předpisem). Aktuální rozsah aktivovaných plnění je proto nutné ověřit v nařízení vlády č. 361/2014 Sb. ve znění pozdějších předpisů — to však již překračuje text samotného zákona.
+
+
+<!-- LEGAL-REVISION:BEGIN id=bbd7c292a4ceaf8d337d generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+##### Revizní doplnění k příloze 6 — Seznam dodání zboží nebo poskytnutí služeb, při nichž se použije režim přenesení daňové povinnosti, stanoví-li tak vláda nařízením
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+###### Znění ustanovení
+
+> Příloha č. 6 k zákonu č. 235/2004 Sb.
+> Seznam dodání zboží nebo poskytnutí služeb, při nichž se použije režim přenesení daňové povinnosti, stanoví-li tak vláda nařízením
+>
+> - 1. Převod povolenek na emise skleníkových plynů podle zákona upravujícího podmínky obchodování s povolenkami na emise skleníkových plynů.
+>
+> - 2. Dodání mobilních telefonů, kterými se pro účely daně z přidané hodnoty rozumí zařízení vyrobená nebo upravená pro použití ve spojení se sítí, která má licenci, a provozovaná na stanovených frekvencích, bez ohledu na to, zda mají další využití.
+>
+> - 3. Dodání zařízení s integrovanými obvody, jako jsou mikroprocesory a centrální procesorové jednotky, ve stavu před zabudováním do výrobků pro konečné uživatele.
+>
+> - 4. Dodání plynu a elektřiny obchodníkovi vymezenému v § 7a odst. 2.
+>
+> - 5. Dodání certifikátů plynu a elektřiny.
+>
+> - 6. Poskytnutí telekomunikačních služeb.
+>
+> - 7. Dodání herních konzolí, tabletů a laptopů.
+>
+> - 8. Dodání obilovin a technických plodin, včetně olejnatých semen a cukrové řepy.
+>
+> - 9. Dodání surových či polozpracovaných kovů, včetně drahých kovů, jiných než v příloze č. 5 a s výjimkou dodání, na která se vztahují zvláštní režimy podle [[#§ 90|§ 90]] nebo [[#§ 92|92]].
+>
+> - 10. Dodání zboží nebo poskytnutí služby, u kterých bylo České republice prováděcím rozhodnutím Rady povoleno uplatňovat zvláštní opatření odchylující se od článku 193 směrnice [[2006/112/ES|2006/112/ES]] o společném systému daně z přidané hodnoty.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- zákon č. 235/2004 Sb. (výslovně uvedeno v místním znění)
+- akt EU 2006/112 (výslovně uvedeno v místním znění)
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bbd7c292a4ceaf8d337d -->
 
 #### Poznámky pod čarou a transpoziční odkazy
 

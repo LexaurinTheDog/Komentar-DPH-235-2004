@@ -77,6 +77,66 @@ Jádro sporů u § 92a se točí kolem **statusu příjemce** (odst. 2 a 3) a ko
 
 § 92a je nutno vždy číst **společně** s konkrétním ustanovením § 92b–92g, které určuje předmět přenosu. Před aplikací PDP ověřte čtyři body: (1) jsou obě strany **plátci** a je to **zveřejněno** (odst. 6); (2) příjemce **jedná jako OPD** ke dni uskutečnění, resp. přijetí zálohy (odst. 2, 3); (3) nejde o **nucený prodej** (odst. 4); (4) zálohy řešte podle odst. 7 a § 37a odst. 1. Odpovědnost za správný výpočet nese **příjemce** (odst. 5), proto pečlivě dokládejte zatřídění plnění. U hraničních případů zafixujte postup **shodou obou stran v dobré víře** (odst. 8) a u opakovaně sporných plnění využijte **závazné posouzení** (§ 92h–92i).
 
+
+<!-- LEGAL-REVISION:BEGIN id=8b037380a1211c3d2848 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 92a — Základní ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) V režimu přenesení daňové povinnosti je plátce, pro kterého bylo zdanitelné plnění s místem plnění v tuzemsku uskutečněno, povinen přiznat daň ke dni uskutečnění zdanitelného plnění.
+>
+> (2) Režim přenesení daňové povinnosti se nepoužije, pokud ke dni uskutečnění zdanitelného plnění příjemce tohoto plnění nejedná jako osoba povinná k dani.
+>
+> (3) Režim přenesení daňové povinnosti se nepoužije na zdanitelné plnění, pokud ke dni přijetí úplaty přede dnem uskutečnění tohoto plnění příjemce tohoto plnění nejedná jako osoba povinná k dani.
+>
+> (4) Režim přenesení daňové povinnosti se nepoužije na zdanitelné plnění, pokud se jedná o nucený prodej obchodního majetku plátce.
+>
+> (5) Plátce, pro kterého je zdanitelné plnění v režimu přenesení daňové povinnosti uskutečněno, je povinen doplnit výši daně v evidenci pro účely daně z přidané hodnoty. Za správnost vypočtené daně odpovídá plátce, pro kterého je plnění uskutečněno.
+>
+> (6) Režim přenesení daňové povinnosti nelze použít v případě, že o plátci, který uskutečnil nebo přijal zdanitelné plnění, nebyla ke dni uskutečnění tohoto plnění zveřejněna způsobem umožňujícím dálkový přístup skutečnost, že je plátcem, a to do dne, ve kterém je tato skutečnost o těchto plátcích zveřejněna způsobem umožňujícím dálkový přístup.
+>
+> (7) Pokud vznikla povinnost přiznat daň z úplaty přijaté před uskutečněním zdanitelného plnění v režimu přenesení daňové povinnosti, použije se režim přenesení daňové povinnosti při uskutečnění zdanitelného plnění na daň vypočtenou ze základu daně stanoveného podle § 37a odst. 1.
+>
+> (8) Mají-li plátce, který uskutečnil zdanitelné plnění, a plátce, pro kterého bylo zdanitelné plnění uskutečněno, důvodně za to, že toto zdanitelné plnění podléhá režimu přenesení daňové povinnosti, a tento režim k tomuto plnění použijí, považuje se toto plnění za zdanitelné plnění podléhající režimu přenesení daňové povinnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 37a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8b037380a1211c3d2848 -->
+
 ## Díl 2 — Trvalé použití režimu přenesení daňové povinnosti (§ 92b–92ea)
 
 Trvalé použití je **stálá** součást zákona — režim platí přímo ze zákona bez nutnosti aktivace nařízením vlády a bez časového omezení. Pokrývá komodity a služby dlouhodobě vyhodnocené jako rizikové.
@@ -110,6 +170,60 @@ Rozhodující kazuistikou u dodání zlata je **dělící linie ryzosti 333/1000
 
 U dodání zlata postupujte ve třech krocích: (1) zjistěte **ryzost** a **podobu** kovu — neopracované zlato ≥ 333/1000 → PDP, nižší ryzost → běžný režim; (2) ověřte, zda nejde o **investiční zlato** bez volby zdanění (osvobozeno) nebo o dodání **ČNB** (výjimka); (3) u zprostředkování navažte na režim hlavního dodání (§ 92 odst. 6). Vždy uchovejte **doklad o ryzosti** jako důkazní podklad — odpovědnost za správné určení režimu nese příjemce. Hraniční případy řešte ve spojení s ochranou dobré víry (§ 92a odst. 8).
 
+
+<!-- LEGAL-REVISION:BEGIN id=ceb98a617f6ac42434da generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 92b — Dodání zlata
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Za zlato se pro účely tohoto ustanovení považuje
+>
+> - a) zlato o ryzosti 333 tisícin nebo vyšší, s výjimkou investičního zlata, v podobě neopracované, zejména slitku, cihly, prutu, valounu, zrna, granule, granálie, lístku, drátu, prášku, zlomků, smetků nebo odpadu,
+>
+> - b) investiční zlato při dodání podle § 92 odst. 5.
+>
+> (2) Při dodání zlata plátci, s výjimkou České národní banky, použije plátce režim přenesení daňové povinnosti.
+>
+> (3) Při poskytnutí zprostředkovatelské služby podle § 92 odst. 6 plátci použije plátce režim přenesení daňové povinnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 92
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ceb98a617f6ac42434da -->
+
 ### § 92c — Dodání zboží uvedeného v příloze č. 5
 
 > *Při dodání zboží uvedeného v příloze č. 5 k tomuto zákonu, včetně dodání tohoto zboží po zpracování v podobě čištění, leštění, třídění, řezání, štěpení, lisování nebo odlévání do ingotů plátci, použije plátce režim přenesení daňové povinnosti.*
@@ -133,6 +247,52 @@ Sektor druhotných surovin patří k historicky **nejrizikovějším** a kazuist
 
 U dodání odpadu a šrotu nejprve ověřte **zatřídění zboží do přílohy č. 5** a poté, zda případné zpracování nepřekročilo rámec **jednoduchých operací** vyjmenovaných v § 92c. Pamatujte, že režim platí **bez hodnotového limitu** a dopadá i na nejmenší dodávky mezi plátci. Vzhledem k vysoké rizikovosti oboru pečlivě dokumentujte povahu zboží i zpracování (vážní lístky, popis komodity) — důkazní břemeno správného režimu leží na příjemci. U sporného zatřídění využijte ochranu dobré víry (§ 92a odst. 8), případně závazné posouzení (§ 92h–92i).
 
+
+<!-- LEGAL-REVISION:BEGIN id=4c052a6915323040b2a8 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 92c — Dodání zboží uvedeného v příloze č. 5 k tomuto zákonu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> Při dodání zboží uvedeného v příloze č. 5 k tomuto zákonu, včetně dodání tohoto zboží po zpracování v podobě čištění, leštění, třídění, řezání, štěpení, lisování nebo odlévání do ingotů plátci, použije plátce režim přenesení daňové povinnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4c052a6915323040b2a8 -->
+
 ### § 92d — Dodání nemovité věci
 
 > *Při dodání nemovité věci plátci použije plátce režim přenesení daňové povinnosti, pokud se na základě rozhodnutí podle § 55a odst. 4, § 56 odst. 8 nebo § 62 odst. 3 jedná o zdanitelné plnění.*
@@ -155,6 +315,52 @@ Dodání nemovité věci je zpravidla **osvobozeno** od daně (§ 56), poskytova
 #### H. Praktický závěr
 
 Před prodejem nemovité věci mezi plátci ověřte, **z jakého důvodu** je plnění zdanitelné: pouze při **volbě zdanění** podle § 55a odst. 4, § 56 odst. 8 nebo § 62 odst. 3 se použije PDP a daň přizná **kupující**. Volbu zdanění je třeba učinit a doložit řádně (typicky v kupní smlouvě či dokladu). U dodání zdanitelného přímo ze zákona PDP nepoužijte. Vždy ověřte status kupujícího (plátce, OPD) a zvažte dopady do **úprav odpočtu** na straně prodávajícího. U nejasností ohledně režimu osvobození/zdanění postupujte ve shodě s druhou stranou (§ 92a odst. 8).
+
+
+<!-- LEGAL-REVISION:BEGIN id=0beed4cc974d52f18b68 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 92d — Dodání nemovité věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> Při dodání nemovité věci plátci použije plátce režim přenesení daňové povinnosti, pokud se na základě rozhodnutí podle § 55a odst. 4, § 56 odst. 8 nebo § 62 odst. 3 jedná o zdanitelné plnění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 55a, § 56, § 62
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0beed4cc974d52f18b68 -->
 
 ### § 92e — Poskytnutí stavebních nebo montážních prací
 
@@ -186,6 +392,54 @@ Odst. 2 rozšiřuje PDP i na **poskytnutí pracovníků** (personální leasing)
 
 U stavebních a montážních prací postupujte takto: (1) zatřiďte plnění podle **CZ-CPA k 1. 1. 2015** — kódy 41–43 → PDP; (2) ověřte, že příjemce je **plátce jednající jako OPD** (nikoli pro soukromou nemovitost) a že místo plnění je **v tuzemsku**; (3) nezapomeňte na **poskytnutí pracovníků** pro tyto práce (odst. 2). Plnění vykažte v kontrolním hlášení s kódem předmětu plnění. Vzhledem k četnosti sporů o zatřídění **fixujte hraniční případy** shodným postupem obou stran v dobré víře (§ 92a odst. 8) a u opakovaných nebo hodnotově významných plnění využijte **závazné posouzení GFŘ** (§ 92i) jako prevenci doměrku.
 
+
+<!-- LEGAL-REVISION:BEGIN id=6a0602c2b23fa9746fff generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 92e — Poskytnutí stavebních nebo montážních prací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Při poskytnutí stavebních nebo montážních prací, které odpovídají kódům 41 až 43 klasifikace produkce CZ-CPA ve znění platném k 1. lednu 2015, plátci použije plátce režim přenesení daňové povinnosti.
+>
+> (2) Při poskytnutí pracovníků pro stavební nebo montážní práce plátci použije plátce režim přenesení daňové povinnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6a0602c2b23fa9746fff -->
+
 ### § 92ea — Použití PDP v ostatních případech
 
 > *Plátce použije režim přenesení daňové povinnosti při poskytnutí zdanitelného plnění plátci, pokud se jedná o:*
@@ -216,6 +470,56 @@ Tyto situace jsou rizikové, neboť plnění vzniká „mimochodem" při vymáh�
 
 U realizace zajištění podle § 92ea vždy nejprve **identifikujte titul** přechodu zboží — jde-li o realizaci záruky (písm. a) nebo o výkon postoupené výhrady vlastnictví (písm. b), použije se mezi plátci PDP a daň přizná **příjemce** (věřitel/nabyvatel). Pečlivě určete **okamžik uskutečnění** plnění a ověřte status příjemce (plátce, OPD). Odlišujte tyto smluvní zajišťovací situace od **nuceného prodeje** podle § 92a odst. 4, který je z přenosu vyňat. Vzhledem k nestandardní povaze plnění doporučujeme režim ošetřit již ve smluvní dokumentaci zajištění, aby nedošlo k chybnému vystavení dokladu s daní.
 
+
+<!-- LEGAL-REVISION:BEGIN id=e3455da1b70bec8e7cac generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 92ea — Použití režimu přenesení daňové povinnosti v ostatních případech
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> Plátce použije režim přenesení daňové povinnosti při poskytnutí zdanitelného plnění plátci, pokud se jedná o:
+>
+> - a) dodání zboží poskytovaného jako záruka při realizaci této záruky, nebo
+>
+> - b) dodání zboží po postoupení výhrady vlastnictví nabyvateli a výkon tohoto práva nabyvatelem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e3455da1b70bec8e7cac -->
+
 ## Díl 3 — Dočasné použití režimu přenesení daňové povinnosti (§ 92f–92g)
 
 Na rozdíl od Dílu 2 se dočasný režim **neaktivuje sám ze zákona**, nýbrž až **nařízením vlády**. Zákon vytváří pouze **zmocnění**; teprve nařízení určí, na která konkrétní plnění z přílohy č. 6 (a v jaké hodnotě) se PDP skutečně použije. Důvodem je pružná reakce na vznikající podvodná schémata u dříve nerizikových komodit.
@@ -244,6 +548,52 @@ Charakteristickým rysem § 92f je, že samotné **zařazení zboží či služb
 #### H. Praktický závěr
 
 U plnění z přílohy č. 6 vždy proveďte **dvojí ověření**: (1) je dané zboží/služba **aktivováno aktuálním nařízením vlády**, a (2) dosahuje plnění **hodnotového limitu** základu daně za jedno zdanitelné plnění? Jen při splnění obojího se použije PDP a daň přizná příjemce. Vzhledem k proměnlivosti úpravy si při každém významnějším obchodu ověřte **platné znění nařízení** — mimo jeho rozsah se § 92f neuplatní. Vyhněte se umělému dělení plnění kvůli limitu. Hraniční zatřídění komodity řešte ve shodě s druhou stranou (§ 92a odst. 8), případně závazným posouzením (§ 92h–92i).
+
+
+<!-- LEGAL-REVISION:BEGIN id=2e498643c497a663ccfd generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 92f — Dodání zboží nebo poskytnutí služby uvedených v příloze č. 6 k tomuto zákonu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> Při dodání zboží nebo poskytnutí služby uvedených v příloze č. 6 k tomuto zákonu plátci použije plátce režim přenesení daňové povinnosti, pokud tak vláda stanoví nařízením.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2e498643c497a663ccfd -->
 
 ### § 92g — Mechanismus rychlé reakce
 
@@ -275,6 +625,54 @@ Mechanismus rychlé reakce (Quick Reaction Mechanism, **čl. 199b směrnice**) j
 
 Mechanismus rychlé reakce je **nouzové, dočasné a časově ohraničené** opatření. Při dodání zboží/služby, na něž byl podle § 92g zaveden, ověřte: (1) bylo zavedení **potvrzeno Evropskou komisí** a stanoveno **nařízením vlády**; (2) je plnění uskutečněno **v době účinnosti** režimu, který nesmí přesáhnout **9 měsíců** (odst. 2). Protože režim může vzniknout i zaniknout velmi rychle, **průběžně sledujte aktuální nařízení vlády** a hlídejte konec účinnosti, abyste po jejím uplynutí včas přešli zpět na běžný režim. Obecné podmínky § 92a (plátci, OPD, zveřejnění) platí i zde.
 
+
+<!-- LEGAL-REVISION:BEGIN id=1ca45124a4304ff6231a generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 92g — Mechanismus rychlé reakce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Při dodání zboží nebo poskytnutí služby plátci použije plátce režim přenesení daňové povinnosti, pokud v případě, kdy Evropská komise za účelem boje proti náhlým a rozsáhlým daňovým podvodům potvrdila, že proti použití režimu přenesení daňové povinnosti při dodání tohoto zboží nebo poskytnutí této služby nemá námitky, tak vláda stanoví nařízením.
+>
+> (2) Režim přenesení daňové povinnosti podle odstavce 1 se použije po dobu nepřesahující 9 měsíců.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1ca45124a4304ff6231a -->
+
 ## Díl 4 — Závazné posouzení (§ 92h–92i)
 
 Institut sloužící **právní jistotě** plátce: vzhledem k tomu, že hraniční zatřídění plnění (zejména stavebních prací podle CZ-CPA) může být sporné a odpovědnost za správné použití PDP nese podle § 92a odst. 5 příjemce, dává zákon možnost nechat si **autoritativně potvrdit**, zda na konkrétní plnění režim dopadá.
@@ -301,6 +699,52 @@ Předmětem závazného posouzení podle § 92h je **jediná, úzce vymezená ot
 #### H. Praktický závěr
 
 Závazné posouzení podle § 92h je vhodný nástroj všude tam, kde je **zatřídění plnění do PDP sporné** a hodnota či opakovanost plnění odůvodňuje náklady řízení — typicky ve stavebnictví (§ 92e) a u druhotných surovin (§ 92c). Pamatujte, že předmětem je **výhradně** otázka použitelnosti režimu, nikoli sazba či odpočet. Plnění v žádosti popište **co nejpřesněji**, neboť závaznost se váže právě na popsaný skutkový stav. Pro plnou ochranu kombinujte závazné posouzení s **dobrou vírou podle § 92a odst. 8**. Procesní náležitosti žádosti upravuje navazující § 92i.
+
+
+<!-- LEGAL-REVISION:BEGIN id=63a52842f815d4d96f8c generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 92h — Předmět závazného posouzení pro použití režimu přenesení daňové povinnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> Předmětem závazného posouzení je určení, zda se při poskytnutí určitého zdanitelného plnění použije režim přenesení daňové povinnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=63a52842f815d4d96f8c -->
 
 ### § 92i — Žádost o závazné posouzení
 
@@ -337,6 +781,58 @@ Závazné posouzení podléhá **správnímu poplatku** a procesně se řídí d
 Při podání žádosti o závazné posouzení podle § 92i dbejte na dvě náležitosti: (1) **přesný popis** jednoho konkrétního zdanitelného plnění — v jedné žádosti **jen jedno** plnění, pro další je třeba samostatných žádostí; (2) **návrh výroku** rozhodnutí. Žádost směřujte na **GFŘ**, počítejte se **správním poplatkem** a postupem podle **daňového řádu**. Institut využijte zejména v rizikových oborech (stavebnictví, druhotné suroviny), kde je zatřídění sporné a hodnota plnění odůvodňuje náklady řízení. Pro maximální právní jistotu kombinujte závazné posouzení s ochranou **dobré víry podle § 92a odst. 8**.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=82493c4e46186a30c500 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+#### Revizní doplnění k § 92i — Žádost o závazné posouzení pro použití režimu přenesení daňové povinnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+##### Znění ustanovení
+
+> (1) Generální finanční ředitelství vydá na žádost rozhodnutí o závazném posouzení určitého zdanitelného plnění pro použití režimu přenesení daňové povinnosti.
+>
+> (2) V žádosti o vydání rozhodnutí o závazném posouzení žadatel uvede
+>
+> - a) popis zdanitelného plnění, jehož se žádost o vydání rozhodnutí o závazném posouzení týká; v žádosti lze uvést pouze jedno zdanitelné plnění,
+>
+> - b) návrh výroku rozhodnutí o závazném posouzení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=82493c4e46186a30c500 -->
 
 ## Souhrnná tabulka — druhy plnění a režim přenesení
 

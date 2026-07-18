@@ -180,6 +180,112 @@ V praxi je třeba nejprve postavit najisto, zda poskytovatel jedná vlastním jm
 
 **Typicky rozhodné důkazy / podklady:** smlouva o zájezdu / cestovní smlouva, faktury za nakoupené vstupy s identifikací dodavatelů jako osob povinných k dani, doklady o přijatých zálohách, kalkulace přirážky a koeficientu, evidence DPH oddělující jednotlivé režimy, doklady o místě poskytnutí dopravy/ubytování (třetí země vs. EU).
 
+
+<!-- LEGAL-REVISION:BEGIN id=ccf3133fb7e09fe41d44 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 89 — Zvláštní režim pro cestovní službu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Zvláštní režim je povinen použít poskytovatel cestovní služby, který jedná se zákazníkem vlastním jménem, při poskytnutí cestovní služby zákazníkovi.
+>
+> (2) Pro účely zvláštního režimu pro cestovní službu se rozumí
+>
+> - a) poskytovatelem cestovní služby osoba povinná k dani, která poskytuje zákazníkovi cestovní službu,
+>
+> - b) zákazníkem osoba, které je poskytnuta cestovní služba,
+>
+> - c) cestovní službou poskytnutí služby zákazníkovi, která zahrnuje kombinace služeb cestovního ruchu61) a popřípadě zboží, pokud jsou jednotlivé služby cestovního ruchu a zboží nakoupené od jiných osob povinných k dani; poskytnutí cestovní služby se považuje za poskytnutí jedné služby, přestože k uskutečnění cestovní služby se využije více služeb cestovního ruchu a popřípadě zboží nakoupené od jiných osob povinných k dani; za cestovní službu se považuje i poskytnutí služby zákazníkovi, která zahrnuje pouze jednu nakoupenou službu cestovního ruchu ubytování nebo dopravy osob.
+>
+> (3) Při poskytnutí cestovní služby je základem daně přirážka poskytovatele cestovní služby snížená o daň z přirážky. Tato přirážka se stanoví jako rozdíl mezi celkovou peněžní částkou, kterou jako úplatu obdržel nebo má obdržet plátce od zákazníka nebo třetí osoby za poskytnutou cestovní službu, a součtem částek, které plátce uhradil nebo má uhradit za jednotlivé služby cestovního ruchu a zboží nakoupené od jiných osob povinných k dani, které jsou přímo zahrnuté do cestovní služby.
+>
+> (4) Pokud je před uskutečněním cestovní služby přijata úplata, ze které vzniká povinnost přiznat daň, stanoví se přirážka poskytovatele cestovní služby k této úplatě jako součin přijaté úplaty a koeficientu pro výpočet přirážky.
+>
+> (5) Koeficient pro výpočet přirážky se vypočte jako podíl
+>
+> - a) rozdílu mezi
+>
+>   - 1. celkovou peněžní částkou, kterou jako úplatu obdržel nebo má obdržet plátce od zákazníka nebo třetí osoby za poskytnutou cestovní službu, a
+>
+>   - 2. součtem částek, které plátce již uhradil za jednotlivé služby cestovního ruchu a zboží nakoupené od jiných osob povinných k dani, které jsou přímo zahrnuté do cestovní služby, a
+>
+> - b) celkové peněžní částky, kterou jako úplatu obdržel nebo má obdržet plátce od zákazníka nebo třetí osoby za poskytnutou cestovní službu.
+>
+> (6) Koeficient pro výpočet přirážky lze vypočíst také jako podíl
+>
+> - a) rozdílu mezi
+>
+>   - 1. celkovou peněžní částkou, kterou jako úplatu obdržel nebo má obdržet plátce od zákazníka nebo třetí osoby za poskytnutou cestovní službu, a
+>
+>   - 2. součtem částek, které plátce uhradil nebo předpokládá, že uhradí, za jednotlivé služby cestovního ruchu a zboží nakoupené od jiných osob povinných k dani, které jsou přímo zahrnuté do cestovní služby, a
+>
+> - b) celkové peněžní částky, kterou jako úplatu obdržel nebo má obdržet plátce od zákazníka nebo třetí osoby za poskytnutou cestovní službu.
+>
+> (7) U jedné cestovní služby lze pro stanovení přirážky poskytovatele cestovní služby k úplatě použít pouze jeden způsob výpočtu koeficientu pro výpočet přirážky; v případě, že poskytovatel cestovní služby použije způsob výpočtu koeficientu podle odstavce 6, může koeficient, který pro účely stanovení přirážky vypočetl u první přijaté úplaty, použít i pro stanovení přirážky u všech úplat následujících.
+>
+> (8) Je-li rozdíl podle odstavce 3, [[#§ 5|5]] nebo [[#§ 6|6]] záporný, základem daně je nula.
+>
+> (9) Při poskytnutí cestovní služby je místem plnění místo, kde má poskytovatel poskytující službu sídlo. Pokud je však tato služba poskytnuta prostřednictvím provozovny, je místem plnění místo, kde je tato provozovna umístěna.
+>
+> (10) Cestovní služba se považuje za uskutečněnou dnem poskytnutí cestovní služby. Za poskytnutí cestovní služby se považuje den poskytnutí poslední služby cestovního ruchu zahrnuté v cestovní službě.
+>
+> (11) U cestovní služby se uplatňuje základní sazba daně.
+>
+> (12) Pokud jednotlivé služby cestovního ruchu nakoupené od jiných osob povinných k dani jsou poskytnuty ve třetí zemi, cestovní služba je osvobozena od daně s nárokem na odpočet daně. Jestliže služby cestovního ruchu nakoupené od jiných osob povinných k dani jsou poskytnuty jak ve třetí zemi, tak i na území Evropské unie, je cestovní služba osvobozena od daně s nárokem na odpočet daně jen v poměru odpovídajícímu poskytnutým službám ve třetí zemi a na území Evropské unie. Za službu cestovního ruchu poskytnutou ve třetí zemi se považuje nakoupená letecká přeprava osob s místem určení do třetí země nebo přeprava zpět na území Evropské unie.
+>
+> (13) Poskytovatel cestovní služby nemá nárok na odpočet daně ani na vrácení daně v jiném členském státě u zboží a služeb cestovního ruchu nakoupených od plátců nebo od osob registrovaných k dani v jiném členském státě, které poskytuje zákazníkovi jako součást cestovní služby.
+>
+> (14) Při poskytnutí cestovní služby musí být na daňovém dokladu uveden údaj „zvláštní režim – cestovní služba“. Při poskytnutí cestovní služby nesmí být na daňovém dokladu samostatně uvedena daň týkající se přirážky.
+>
+> (15) Plátce, kterému byla poskytnuta cestovní služba, nemá nárok na odpočet daně z přirážky, kterou je povinen zaplatit v ceně za tuto poskytnutou službu.
+>
+> (16) Pokud poskytovatel cestovní služby poskytuje vlastní službu nebo zboží vytvořené vlastní činností, které nesmí zahrnout do cestovní služby, je povinen uplatňovat daň u těchto zdanitelných plnění podle příslušné sazby daně a daň se vypočítá z ceny určené podle právních předpisů upravujících oceňování majetku, která se považuje za peněžní částku včetně daně.
+>
+> (17) Pokud poskytovatel cestovní služby uplatňuje daň a současně je povinen použít zvláštní režim, je také povinen vést v evidenci pro účely daně z přidané hodnoty samostatně plnění podle jednotlivých způsobů uplatňování daně.
+>
+> (18) Při opravě základu daně nebo výše daně u cestovní služby plátce nevystavuje opravný daňový doklad.
+>
+> (19) Pokud však plátce poskytuje cestovní služby jiné osobě povinné k dani, která není poskytovatelem cestovní služby, pro účely uskutečňování ekonomické činnosti, nemusí uplatňovat zvláštní režim a uplatňuje u jednotlivých nakoupených služeb cestovního ruchu daň na výstupu podle příslušné sazby daně, pokud všechny nakoupené služby cestovního ruchu zahrnuté v cestovní službě jsou poskytnuty v tuzemsku.
+>
+> (20) Zvláštní režim není oprávněn použít plátce, který poskytuje službu spočívající v zajištění cestovní služby jménem a na účet jiné osoby. Daň se vypočítá z úplaty, kterou plátce obdržel nebo má obdržet za poskytnutou službu zajištění cestovní služby, která se považuje za peněžní částku včetně daně. Poskytnutí služby spočívající v zajištění cestovní služby jménem a na účet jiné osoby je osvobozeno od daně s nárokem na odpočet daně, pokud jednotlivé služby cestovního ruchu zahrnuté v cestovní službě jsou poskytnuty ve třetí zemi. Pokud jsou služby cestovního ruchu zahrnuté v cestovní službě poskytnuty jak ve třetí zemi, tak i na území Evropské unie, je poskytnutí služby spočívající v zajištění cestovní služby jménem a na účet jiné osoby osvobozeno od daně s nárokem na odpočet daně jen v poměru odpovídajícímu poskytnutým službám cestovního ruchu ve třetí zemi a na území Evropské unie.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5, § 6
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ccf3133fb7e09fe41d44 -->
+
 ## § 90 — Zvláštní režim pro obchodníky s použitým zbožím, uměleckými díly, sběratelskými předměty a starožitnostmi
 
 > *(3) Při použití zvláštního režimu je základem daně přirážka snížená o daň z přirážky. Tato přirážka se stanoví jako rozdíl mezi prodejní cenou obchodníka a pořizovací cenou tohoto zboží. Pokud je tento rozdíl záporný, základem daně je nula.*
@@ -299,6 +405,120 @@ Obchodník u zboží nabytého od neodpočitatelných dodavatelů (neplátci, os
 
 **Typicky rozhodné důkazy / podklady:** doklady o nákupu zboží s identifikací dodavatele a jeho daňového postavení, kalkulace pořizovací a prodejní ceny (vč. vedlejších výdajů), prodejní doklady s údajem o režimu, souhrnná evidence u drobného zboží, oznámení volby režimu u dovezených/autorských děl, doklady o dovozu (základ daně a daň při dovozu).
 
+
+<!-- LEGAL-REVISION:BEGIN id=aa43c05b37d1b8abbb72 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 90 — Zvláštní režim pro obchodníky s použitým zbožím, uměleckými díly, sběratelskými předměty a starožitnostmi
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Pro účely tohoto ustanovení se rozumí
+>
+> - a) uměleckými díly, sběratelskými předměty, starožitnostmi zboží uvedené v příloze č. 4,
+>
+> - b) použitým zbožím hmotný movitý majetek, který je vhodný k dalšímu použití v nezměněném stavu nebo po opravě, kromě uměleckých děl, sběratelských předmětů nebo starožitností uvedených v příloze č. 4 a kromě drahých kovů a drahokamů,
+>
+> - c) obchodníkem plátce nebo osoba registrovaná k dani v jiném členském státě, která v rámci uskutečňování ekonomické činnosti pořizuje nebo dováží použité zboží, umělecké předměty, sběratelské předměty nebo starožitnosti za účelem dalšího prodeje, jednající na vlastní účet nebo na účet jiné osoby, pokud ji náleží odměna.
+>
+> (2) Zvláštní režim může použít obchodník při dodání použitého zboží, uměleckého díla, sběratelského předmětu nebo starožitnosti, pokud je toto zboží obchodníkovi dodáno v rámci obchodování na území Evropské unie
+>
+> - a) osobou nepovinnou k dani,
+>
+> - b) osobou povinnou k dani, která může využívat režim pro malé podniky a která jedná jako osoba, která tento režim využívá, zahrnuje-li toto dodání dlouhodobý hmotný majetek,
+>
+> - c) jinou osobou povinnou k dani, pro kterou je dodání tohoto zboží osvobozeno od daně podle [[#§ 62|§ 62]] nebo obdobně podle platného předpisu jiného členského státu, nebo
+>
+> - d) jiným obchodníkem, pokud byl při dodání tohoto zboží tímto jiným obchodníkem použit zvláštní režim.
+>
+> (3) Při použití zvláštního režimu je základem daně přirážka snížená o daň z přirážky. Tato přirážka se stanoví jako rozdíl mezi prodejní cenou obchodníka a pořizovací cenou tohoto zboží. Pokud je tento rozdíl záporný, základem daně je nula. Pro účely tohoto ustanovení se rozumí
+>
+> - a) prodejní cenou úplata, která byla nebo má být získaná obchodníkem od osoby, které je zboží dodáno, nebo od třetí strany, včetně daní, cel, poplatků a vedlejších výdajů jako provize, náklady na balné, přepravu a pojištění požadované obchodníkem od osoby, které je zboží dodáno, s výjimkou částek uvedených v § 36 odst. 5 a [[#§ 14|14]],
+>
+> - b) pořizovací cenou úplata stanovená v písmenu a), která byla nebo má být získaná od obchodníka osobou, která mu zboží dodává.
+>
+> (4) Pokud jednotková pořizovací cena zboží nepřevyšuje 1 000 Kč, je možné přirážku stanovit za zdaňovací období, v rozdělení podle příslušné sazby daně. V tomto případě se přirážka stanoví jako rozdíl mezi celkovou prodejní cenou za dodané zboží a celkovou pořizovací cenou za nakoupené zboží, uskutečněné za zdaňovací období, v rozdělení podle příslušné sazby daně.
+>
+> (5) Obchodník se může rozhodnout pro používání zvláštního režimu při dodání
+>
+> - a) uměleckého díla, sběratelského předmětu nebo starožitnosti, které sám dovezl,
+>
+> - b) uměleckého díla, které mu dodal autor díla nebo jeho právní nástupce,
+>
+> - c) uměleckého díla, které mu dodala osoba povinná k dani jiná než obchodník.
+>
+> (6) Při stanovení přirážky postupuje obchodník podle odstavce 3 nebo [[#§ 4|4]] za celé zdaňovací období.
+>
+> (7) Pokud obchodník postupuje podle odstavce 5, je povinen stanovit základ daně podle odstavce 3. Pořizovací cena pro výpočet přirážky při dovozu zboží podle odstavce 5 písm. a) se stanoví jako součet základu daně při dovozu tohoto zboží a daně vyměřené při dovozu zboží.
+>
+> (8) Postup podle odstavce 5 je obchodník povinen oznámit správci daně. Obchodník je povinen postupovat podle zvláštního režimu nejméně dva následující po sobě jdoucí kalendářní roky ode dne oznámení.
+>
+> (9) Pokud při dodání použitého zboží, uměleckého díla, sběratelského předmětu nebo starožitnosti jsou splněny podmínky pro osvobození vývozu zboží podle [[#§ 66|§ 66]], je dodání tohoto zboží, jestliže je předmětem zvláštního režimu, také osvobozeno od daně.
+>
+> (10) Plátce nemá nárok na odpočet daně z přirážky, kterou je povinen zaplatit v prodejní ceně zboží, které mu bylo dodáno obchodníkem, pokud je dodání tohoto zboží předmětem zvláštního režimu.
+>
+> (11) Obchodník při dodání zboží, které je předmětem zvláštního režimu, nemá nárok na odpočet daně
+>
+> - a) u uměleckého díla, sběratelského předmětu nebo starožitnosti, které sám dovezl,
+>
+> - b) u uměleckého díla, které mu dodal autor díla nebo jeho právní nástupce.
+>
+> (12) Pokud se použije zvláštní režim při dodání zboží mezi členskými státy, nepoužijí se [[#§ 8|§ 8]], [[#§ 8a|8a]] a [[#§ 64|64]]. Zvláštní režim nelze použít při dodání nového dopravního prostředku z tuzemska do jiného členského státu. Zvláštní režim nelze také použít při dodání zboží, pokud byl při jeho pořízení uplatněn nárok na odpočet daně.
+>
+> (13) Pokud obchodník uplatňuje daň a současně používá zvláštní režim, je povinen vést v evidenci pro účely daně z přidané hodnoty samostatně plnění podle jednotlivých způsobů uplatňování daně.
+>
+> (14) Při dodání zboží, které je předmětem zvláštního režimu, musí být na daňovém dokladu uveden údaj „zvláštní režim – použité zboží“, „zvláštní režim – umělecká díla“ nebo „zvláštní režim – sběratelské předměty a starožitnosti“. Při dodání zboží, které je předmětem zvláštního režimu, nesmí být na daňovém dokladu samostatně uvedena daň týkající se přirážky.
+>
+> (15) Obchodník má nárok na odpočet daně na vstupu u přijatého zdanitelného plnění dodání zboží, nepoužije-li při jeho následném dodání zvláštní režim, pokud jde o
+>
+> - a) umělecké dílo, sběratelský předmět nebo starožitnost, které sám dovezl,
+>
+> - b) umělecké dílo, které mu
+>
+>   - 1. dodal autor díla nebo jeho právní nástupce, nebo
+>
+>   - 2. dodala jiná osoba povinná k dani, která při tomto dodání nepoužila zvláštní režim.
+>
+> (16) Nárok na odpočet daně podle odstavce 15 vzniká obchodníkovi okamžikem, ke kterému je povinen přiznat daň z tohoto dodání zboží.
+>
+> (17) U knihy, která je zbožím podle odstavce 1 písm. a) nebo b), se ustanovení upravující zvláštní režim použijí obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 62, § 36, § 14, § 4, § 66, § 8, § 8a, § 64
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aa43c05b37d1b8abbb72 -->
+
 ## § 92 — Zvláštní režim pro investiční zlato
 
 > *(3) Od daně bez nároku na odpočet daně je osvobozeno dodání investičního zlata v tuzemsku, pořízení z jiného členského státu a jeho dovoz.*
@@ -404,3 +624,120 @@ Dodání investičního zlata je osvobozeno bez nároku na odpočet (odst. 3), a
 | **§ 92** Investiční zlato | **osvobozeno bez nároku na odpočet** (volitelné zdanění mezi plátci) | speciální **plný** odpočet u výroby/přeměny a souvisejících vstupů (odst. 7–8) | investorům a obchodníkům se zlatem (rovné postavení s jinými finančními aktivy) |
 
 > **Shrnutí kapitoly:** Hlava III řeší tři situace, kde standardní model DPH nefunguje. **§ 89** a **§ 90** používají princip **daně z marže** — zdaní jen přidanou hodnotu (přirážku), čímž odstraňují kumulaci daně u nakoupených vstupů (cestovní kancelář), resp. dvojí zdanění zboží vraceného do oběhu od neplátců (bazary, starožitnosti); cenou za to je **vyloučení nároku na odpočet** z odpovídajících vstupů a **zákaz samostatného uvedení daně** na dokladu. **§ 92** naopak zlato jako **finanční aktivum osvobozuje** bez nároku na odpočet, ale zachovává **plný odpočet** u výroby a přeměny a doplňuje jej o **přísnou identifikaci kupujících a desetiletou archivaci** dokladů. Všechny tři režimy je nutno vykládat **eurokonformně** podle hlavy XII směrnice 2006/112/ES. Pokračujeme **Hlavou IV — Režim přenesení daňové povinnosti**, [13](13-cast1-hlava4-preneseni-danove-povinnosti.md), kde se daňová povinnost přesouvá z poskytovatele na příjemce plnění.
+
+<!-- LEGAL-REVISION:BEGIN id=11630a9cca1819cd6e72 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 92 — Zvláštní režim pro investiční zlato
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Investičním zlatem se rozumí
+>
+> - a) zlato připouštěné na světové trhy zlata ve tvaru uzančních slitků v podobě cihly nebo destičky s
+>
+>   - 1. vlastním číslem,
+>
+>   - 2. ryzostí nejméně 995 tisícin,
+>
+>   - 3. hmotností připouštěnou na těchto trzích a
+>
+>   - 4. označením výrobce, ryzosti a hmotnosti,
+>
+> - b) zlaté mince, které
+>
+>   - 1. mají ryzost nejméně 900 tisícin,
+>
+>   - 2. byly vyraženy po roce 1800,
+>
+>   - 3. jsou nebo byly v zemi svého původu zákonným platidlem a
+>
+>   - 4. jsou obvykle prodávány za cenu, která nepřevyšuje volnou tržní hodnotu jejich zlatého obsahu o více než 80 %.
+>
+> (2) Zlatá mince uvedená v seznamu zveřejněném Evropskou komisí v Úředním věstníku Evropské unie se pro kalendářní rok, na který je tento seznam zveřejněn, považuje za zlatou minci podle odstavce 1 písm. b).
+>
+> (3) Od daně bez nároku na odpočet daně je osvobozeno dodání investičního zlata v tuzemsku, pořízení z jiného členského státu a jeho dovoz. Osvobození od daně bez nároku na odpočet daně se vztahuje i na
+>
+> - a) investiční zlato s osvědčením pro fyzicky alokované a nealokované zlato,
+>
+> - b) investiční zlato obchodované na zlatých účtech, a to zejména úvěry a swapy zakládající k investičnímu zlatu vlastnické právo nebo právní nárok, nebo
+>
+> - c) termínované obchody s investičním zlatem, včetně futures a forwardů, které zahrnují převod vlastnického práva nebo právního nároku k investičnímu zlatu.
+>
+> (4) Od daně bez nároku na odpočet daně je osvobozena služba osobou, která jedná jménem a na účet jiné osoby, která spočívá v zajištění dodání investičního zlata, jeho pořízení z jiného členského státu nebo jeho dovozu.
+>
+> (5) Plátce, který investiční zlato vyrobí nebo zlato přemění na investiční zlato, se může rozhodnout, že uplatní daň u dodání investičního zlata, které by bylo osvobozeno podle odstavce 3, jinému plátci s místem plnění v tuzemsku.
+>
+> (6) U zprostředkovatelské služby, která spočívá v obstarání dodání investičního zlata podle odstavce 4, může být uplatněna daň, pokud plátce při dodání investičního zlata uplatnil daň podle odstavce 5.
+>
+> (7) Plátce, který dodává investiční zlato osvobozené od daně, má nárok na odpočet daně v plné výši
+>
+> - a) při nakoupení investičního zlata, u něhož byla uplatněna daň podle odstavce 5,
+>
+> - b) při nakoupení, pořízení z jiného členského státu nebo dovozu zlata, které není investičním zlatem, a které následně plátce nebo jím zmocněná třetí osoba přemění na investiční zlato, nebo
+>
+> - c) při nakoupení služby, spočívající ve změně formy, hmotnosti nebo ryzosti zlata, včetně investičního zlata.
+>
+> (8) Plátce, který investiční zlato vyrobí nebo zlato přemění na investiční zlato, má nárok na odpočet daně v plné výši při nakoupení, pořízení z jiného členského státu nebo dovozu zboží nebo služby, přímo související s výrobou investičního zlata nebo přeměnou zlata na investiční zlato.
+>
+> (9) Plátce, který přijme službu podle odstavce 6, nebo který dodává investiční zlato osvobozené od daně a má nárok na odpočet daně podle odstavce 7 písm. b) a c), nebo který vyrobil investiční zlato nebo zlato přeměnil na investiční zlato a má nárok na odpočet daně podle odstavce 8, je povinen
+>
+> - a) vystavit doklad o dodání fyzické osobě nepovinné k dani, který obsahuje tyto údaje:
+>
+>   - 1. obchodní firmu nebo jméno, dodatek ke jménu a sídlo osoby, která uskutečňuje plnění,
+>
+>   - 2. daňové identifikační číslo osoby, která uskutečňuje plnění,
+>
+>   - 3. evidenční číslo dokladu,
+>
+>   - 4. rozsah a předmět plnění,
+>
+>   - 5. den vystavení dokladu,
+>
+>   - 6. den uskutečnění plnění nebo den přijetí úplaty, pokud před uskutečněním plnění vznikla povinnost ke dni přijetí úplaty přiznat uskutečnění plnění, pokud se liší ode dne vystavení dokladu,
+>
+>   - 7. celkovou částku za plnění, hmotnost a ryzost zlata,
+>
+>   - 8. jméno, datum narození a místo pobytu fyzické osoby nepovinné k dani,
+>
+> - b) uchovávat doklad podle písmene a) po dobu 10 let,
+>
+> - c) uvést na daňovém dokladu vystaveném plátci nebo osobě povinné k dani rovněž hmotnost a ryzost zlata.
+>
+> (10) Ustanovení odstavce 9 písm. a) a b) se nevztahuje na dodání investičního zlata podle odstavce 1 písm. b) vydaného Českou národní bankou.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=11630a9cca1819cd6e72 -->

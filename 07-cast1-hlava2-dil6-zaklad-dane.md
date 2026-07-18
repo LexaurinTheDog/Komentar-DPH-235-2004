@@ -108,6 +108,116 @@ Základ daně = celá sjednaná úplata bez DPH, navýšená o spotřební daň 
 
 **Typicky rozhodné důkazy / podklady:** smlouva/objednávka, daňový doklad s rozpisem položek, doklad o slevě/reklamaci, případně znalecký posudek k obvyklé ceně, kalkulace nákladů.
 
+
+<!-- LEGAL-REVISION:BEGIN id=c6484cdc2d676cebee38 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 36 — Základ daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Základem daně je vše, co jako úplatu obdržel nebo má obdržet plátce za uskutečněné zdanitelné plnění, včetně částky na úhradu spotřební daně od osoby, pro kterou je zdanitelné plnění uskutečněno, nebo od třetí osoby, a to bez daně za toto zdanitelné plnění.
+>
+> (2) Základem daně v případě přijetí úplaty před uskutečněním zdanitelného plnění je částka přijaté úplaty snížená o daň.
+>
+> (3) Základ daně také zahrnuje
+>
+>   - a) jiné daně, poplatky nebo jiná obdobná peněžitá plnění,
+>
+>   - b) vedlejší výdaje, které jsou účtovány osobě, pro kterou je uskutečňováno zdanitelné plnění, při jeho uskutečnění,
+>
+>   - c) při poskytnutí služby i materiál přímo související s poskytovanou službou,
+>
+>   - d) při poskytnutí stavebních nebo montážních prací provedených na dokončené stavbě nebo spojených s výstavbou stavby konstrukce, materiál, stroje a zařízení, které se do stavby jako její součást stavebními nebo montážními pracemi zabudují nebo zamontují.
+>
+> (4) Za vedlejší výdaje se pro účely základu daně považují zejména náklady na balení, přepravu, pojištění a provize.
+>
+> (5) Základ daně se sníží o slevu z ceny bez daně, pokud je poskytnuta ke dni uskutečnění zdanitelného plnění. Do základu daně se nezahrnuje částka vzniklá zaokrouhlením celkové výše úplaty při dodání zboží nebo poskytnutí služby na celou korunu.
+>
+> (6) Základem daně je v případě, že se jedná o
+>
+>   - a) dodání zboží podle § 13 odst. 4 písm. a) až c) a § 13 odst. 6 a
+>
+>     - 1. plátce toto zboží nabyl úplatně, pořizovací cena zboží snížená o hodnotu jeho opotřebení ke dni uskutečnění zdanitelného plnění bez daně,
+>
+>     - 2. plátce toto zboží nabyl bezúplatně nebo vyrobil, cena obdobného zboží bez daně ke dni uskutečnění zdanitelného plnění, nebo
+>
+>     - 3. není možné základ daně určit podle bodu 1 ani [[#§ 2|2]], výše celkových nákladů bez daně vynaložených na toto dodání zboží ke dni uskutečnění zdanitelného plnění,
+>
+>   - b) poskytnutí služby podle § 14 odst. 3 a [[#§ 4|4]], výše celkových nákladů bez daně vynaložených na poskytnutí služby ke dni uskutečnění zdanitelného plnění,
+>
+>   - c) dodání zboží nebo poskytnutí služby v případech, kdy byla úplata poskytnuta zcela formou nepeněžitého plnění, obvyklá cena bez daně tohoto dodání nebo poskytnutí ke dni uskutečnění zdanitelného plnění,
+>
+>   - d) dodání zboží nebo poskytnutí služby, kdy byla úplata poskytnuta zčásti formou nepeněžitého plnění a zčásti v peněžních prostředcích,
+>
+>     - 1. obvyklá cena tohoto zdanitelného plnění bez daně ke dni jeho uskutečnění, pokud je vyšší nebo rovna částce poskytnutých peněžních prostředků, nebo
+>
+>     - 2. částka poskytnutých peněžních prostředků, pokud je vyšší než obvyklá cena tohoto zdanitelného plnění bez daně ke dni jeho uskutečnění,
+>
+>   - e) dodání zboží nebo poskytnutí služby v případech, kdy byla úplata poskytnuta zcela nebo zčásti virtuálním aktivem podle právního předpisu upravujícího některá opatření proti legalizaci výnosů z trestné činnosti a financování terorismu s výjimkou poskytnutí úplaty virtuálním aktivem, které je plněním osvobozeným od daně podle § 54 až 55, obvyklá cena tohoto dodání nebo poskytnutí bez daně ke dni uskutečnění zdanitelného plnění.
+>
+> (7) Základem daně při dodání zboží nebo poskytnutí služby na základě víceúčelového poukazu je vše, co jako úplatu za víceúčelový poukaz uhradila nebo má uhradit osoba, pro kterou je zdanitelné plnění uskutečněno, nebo třetí osoba, a to bez daně za toto zdanitelné plnění. Není-li tato úplata známa, je základem daně částka uvedená na víceúčelovém poukazu nebo v související dokumentaci snížená o daň.
+>
+> (8) Je-li víceúčelový poukaz přijat jako část úplaty za uskutečněné zdanitelné plnění, stanoví se základ daně za toto plnění jako součet částky stanovené podle odstavce 7 pro část úplaty odpovídající víceúčelovému poukazu a částky stanovené podle odstavce 1 pro zbývající část úplaty.
+>
+> (9) Pokud se za uskutečněná plnění stanoví celková cena nebo hodnota, která zahrnuje dodání zboží nebo poskytnutí služby s různými sazbami daně, popřípadě osvobozená od daně, základ daně se pro jednotlivá zdanitelná plnění stanoví v poměrné výši odpovídající poměru cen určených podle právních předpisů upravujících oceňování majetku jednotlivých plnění k celkovému součtu těchto určených cen. Tato celková cena nebo hodnota se považuje za částku obsahující daň.
+>
+> (10) Pokud je při oceňování majetku vyžadován posudek více znalců, použije se pro zjištění poměru cen cena z posudku, v němž je cena nejvyšší, která se považuje za cenu obsahující daň.
+>
+> (11) U zdanitelného plnění podle § 21 odst. 8 nebo § 24 odst. 4 se základ daně připadající na příslušný kalendářní rok stanoví kvalifikovaným odhadem.
+>
+> (12) Základem daně při dodání platných bankovek, státovek a mincí, které jsou pro sběratelské účely prodávány za cenu vyšší, než je jejich nominální hodnota, nebo za cenu vyšší, než je přepočet jejich nominální hodnoty na českou měnu, je rozdíl mezi cenou, za kterou jsou prodávány, a jejich nominální hodnotou. Tento rozdíl se považuje za částku obsahující daň. Pokud jsou prodávány za cenu nižší, než je jejich nominální hodnota, nebo za cenu nižší, než je přepočet jejich nominální hodnoty na českou měnu, základem daně je nula.
+>
+> (13) U zdanitelného plnění podle § 13 odst. 4 písm. d) je základem daně peněžní částka, za kterou plátce vratný obal, který je dodáván spolu se zbožím, dodává, bez daně. Základem daně je tato peněžní částka i v případě, že vratný obal je dodán plátcem spolu se zbožím bezúplatně, pokud zákon dále nestanoví jinak. Jestliže plátce dodává v tuzemsku vratné obaly stejného druhu spolu se zbožím všem svým odběratelům bezúplatně, je základem daně peněžní částka, za kterou je obal stejného druhu plátcem pořízen, snížená o daň. V případě, že peněžní částka není známa, je základem daně cena vratného obalu stejného druhu určená podle právních předpisů upravujících oceňování majetku. Celkový základ daně u vratných obalů stejného druhu, z kterého se zjistí daň, se vypočte jako rozdíl mezi celkovým počtem vratných obalů stejného druhu dodaných plátcem všem svým odběratelům během příslušného účetního období nebo příslušného kalendářního roku u plátce, který nevede účetnictví, a celkovým počtem vratných obalů stejného druhu, které byly tomuto plátci vráceny během příslušného účetního období nebo během příslušného kalendářního roku u plátce, který nevede účetnictví, přičemž tento rozdíl je vynásoben částkou platnou pro vratný obal stejného druhu dodávaný v tuzemsku společně se zbožím, zjištěnou podle tohoto ustanovení. V případě, že celkový počet vratných obalů stejného druhu dodaných plátcem všem svým odběratelům během příslušného účetního období nebo příslušného kalendářního roku u plátce, který nevede účetnictví, je nižší než celkový počet vratných obalů stejného druhu, které byly tomuto plátci vráceny během příslušného účetního období nebo během příslušného kalendářního roku u plátce, který nevede účetnictví, jsou základ daně a příslušná daň uváděné na dokladu o použití se záporným znaménkem. Stejným způsobem se záporný základ daně a daň zohlední i v daňovém přiznání podle [[#§ 101|§ 101]].
+>
+> (14) Do základu daně se nezahrnuje částka, kterou plátce obdržel od jiné osoby na úhradu částky vynaložené jménem a na účet této jiné osoby. Podmínkou je, že přijatá částka nepřevýší uhrazené částky za jinou osobu a plátce si u plnění uhrazeného za jinou osobu neuplatní nárok na odpočet daně.
+>
+> (15) Obvyklou cenou se pro účely daně z přidané hodnoty rozumí celá částka, kterou by za účelem pořízení zboží nebo přijetí služby musela osoba, pro kterou se plnění uskutečnilo, nacházející se na stejném obchodním stupni, na jakém se dodání zboží nebo poskytnutí služby uskutečňuje, zaplatit v podmínkách volné hospodářské soutěže nezávislému dodavateli nebo poskytovateli v tuzemsku, aby v daném okamžiku toto zboží pořídila nebo tuto službu přijala; pokud nelze srovnatelné dodání zboží nebo poskytnutí služby zjistit, rozumí se obvyklou cenou
+>
+>   - a) v případě zboží částka, která
+>
+>     - 1. není nižší než kupní cena daného nebo podobného zboží, nebo
+>
+>     - 2. odpovídá nákladové ceně určené k okamžiku dodání zboží, pokud nelze určit částku podle bodu 1,
+>
+>   - b) v případě služby částka, která není nižší než výše celkových nákladů osoby povinné k dani na toto poskytnutí služby.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 13, § 2, § 14, § 4, § 54, § 21, § 24, § 101
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c6484cdc2d676cebee38 -->
+
 ## § 36a — Základ daně ve zvláštních případech
 
 > *(1) Základem daně je obvyklá cena bez daně, určená ke dni uskutečnění zdanitelného plnění, je-li zdanitelné plnění uskutečněno pro osobu uvedenou v odstavci 3 a je-li úplata za zdanitelné plnění*
@@ -194,6 +304,74 @@ Mimo tyto situace (např. nízká cena, ale odběratel má plný nárok na odpo�
 
 **Typicky rozhodné důkazy / podklady:** výpis z obchodního rejstříku (podíl/spojení), smlouva s cenou, znalecký posudek nebo srovnání k obvyklé ceně, evidence pro § 76 (krátící koeficient), doklad o nároku odběratele na odpočet.
 
+
+<!-- LEGAL-REVISION:BEGIN id=2fa1888b5878304cd763 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 36a — Základ daně ve zvláštních případech
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Základem daně je obvyklá cena bez daně, určená ke dni uskutečnění zdanitelného plnění, je-li zdanitelné plnění uskutečněno pro osobu uvedenou v odstavci 3 a je-li úplata za zdanitelné plnění
+>
+>   - a) nižší než obvyklá cena a osoba, pro kterou bylo zdanitelné plnění uskutečněno, nemá nárok na odpočet daně nebo nemá nárok na odpočet daně v plné výši, nebo
+>
+>   - b) vyšší než obvyklá cena a plátce, který uskutečnil zdanitelné plnění, je povinen krátit nárok na odpočet daně podle § 76 odst. 1.
+>
+> (2) Hodnotou plnění osvobozeného od daně bez nároku na odpočet daně je obvyklá cena určená ke dni jeho uskutečnění, je-li plnění uskutečněno pro osobu uvedenou v odstavci 3 a je-li úplata nižší než obvyklá cena a plátce, který uskutečnil plnění osvobozené od daně bez nároku na odpočet daně, je povinen krátit nárok na odpočet daně podle § 76 odst. 1.
+>
+> (3) Osobami, na které se vztahují odstavce 1 a [[#§ 2|2]], jsou
+>
+>   - a) osoby v kapitálově spojeném seskupení, pokud podíl na základním kapitálu nebo hlasovacích právech představuje alespoň 25 %,
+>
+>   - b) osoby v personálně spojeném seskupení; to neplatí, pokud jsou podmínky pro personálně spojené seskupení splněny tím, že je jedna osoba členem dozorčích rad obou osob,
+>
+>   - c) osoby blízké,
+>
+>   - d) společníci téže společnosti,
+>
+>   - e) v případě, že jde o dodání nemovité věci,
+>
+>     - 1. zaměstnanci nebo jiné osoby vykonávající činnost vyplývající z pracovněprávního vztahu, služebního poměru nebo jiného obdobného vztahu,
+>
+>     - 2. osoby blízké osobě podle bodu 1.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 76, § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2fa1888b5878304cd763 -->
+
 ## § 37 — Výpočet daně u dodání zboží a poskytnutí služby
 
 > *Daň se vypočte jako*
@@ -267,6 +445,60 @@ Daň počítáme „zdola" (základ × sazba), je-li znám základ bez daně, a 
 
 **Typicky rozhodné důkazy / podklady:** daňový doklad/účtenka s vyčíslením základu a daně, ceník, evidence DPH, doklad o sazbě zboží/služby.
 
+
+<!-- LEGAL-REVISION:BEGIN id=d3c7b4f0acf9a3492a49 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 37 — Výpočet daně u dodání zboží a poskytnutí služby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> Daň se vypočte jako
+>
+>   - a) součin základu daně a sazby daně, nebo
+>
+>   - b) rozdíl mezi
+>
+>     - 1. částkou odpovídající výši úplaty za zdanitelné plnění, která je včetně daně, nebo výši částky stanovené podle § 36 odst. 6, která je včetně daně, bez zahrnutí částky vzniklé zaokrouhlením celkové výše úplaty podle § 36 odst. 5 a
+>
+>     - 2. částkou, která se vypočítá jako podíl částky podle bodu 1 a koeficientu 1,21 v případě základní sazby daně nebo 1,12 v případě snížené sazby daně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 36
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d3c7b4f0acf9a3492a49 -->
+
 ## § 37a — Výpočet daně po zdanění zálohy
 
 > *(1) Základem daně při uskutečnění zdanitelného plnění v případě, že vznikla povinnost přiznat daň z úplaty přijaté před uskutečněním tohoto zdanitelného plnění, je rozdíl mezi základem daně podle § 36 odst. 1 a souhrnem základů daně podle § 36 odst. 2.*
@@ -322,6 +554,60 @@ Po zdaněné záloze se při uskutečnění plnění zdaní jen rozdíl mezi cel
 - [ ] Odlišit situaci, kdy k plnění nedojde (→ § 42).
 
 **Typicky rozhodné důkazy / podklady:** doklady o přijatých zálohách s vyčíslenou daní, datum a sazba u každé zálohy, daňový doklad k uskutečněnému plnění, smlouva o ceně, kurzovní lístek/kurz ke dni zálohy a plnění.
+
+
+<!-- LEGAL-REVISION:BEGIN id=e703dee1b6f61963396e generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 37a — Základ daně při uskutečnění zdanitelného plnění, pokud vznikla povinnost přiznat daň z úplaty přijaté před uskutečněním tohoto zdanitelného plnění
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Základem daně při uskutečnění zdanitelného plnění v případě, že vznikla povinnost přiznat daň z úplaty přijaté před uskutečněním tohoto zdanitelného plnění, je rozdíl mezi základem daně podle § 36 odst. 1 a souhrnem základů daně podle § 36 odst. 2.
+>
+> (2) Je-li základ daně vypočtený podle odstavce 1
+>
+>   - a) kladný, uplatní se při uskutečnění zdanitelného plnění sazba daně a kurz pro přepočet cizí měny na českou měnu platné ke dni uskutečnění zdanitelného plnění,
+>
+>   - b) záporný, uplatní se při uskutečnění zdanitelného plnění sazba daně a kurz pro přepočet cizí měny na českou měnu, které byly uplatněny při přiznání daně z úplaty přijaté přede dnem uskutečnění zdanitelného plnění.
+>
+> (3) V případě, že základ daně podle odstavce 1 je záporný a pro výpočet daně při přijetí úplat přede dnem uskutečnění zdanitelného plnění byly uplatněny různé sazby daně, uplatní se při uskutečnění zdanitelného plnění tytéž sazby daně, a to pro tu část z přijaté úplaty, kterou vznikl nebo byl navýšen kladný rozdíl mezi souhrnem základů daně podle § 36 odst. 2 a základem daně podle § 36 odst. 1; obdobně se postupuje, byly-li uplatněny různé kurzy pro přepočet cizí měny na českou měnu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 36
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e703dee1b6f61963396e -->
 
 ## § 38 — Základ daně a výpočet daně při dovozu zboží
 
@@ -387,6 +673,64 @@ Při dovozu je základ daně širší než u tuzemského plnění: celní hodnot
 - [ ] Vypočíst daň „zdola" podle § 37 písm. a); ověřit odpočet u zušlechťovacího styku.
 
 **Typicky rozhodné důkazy / podklady:** celní rozhodnutí / JSD, faktura dodavatele, přepravní a pojistné doklady, doklad o spotřební dani, údaj o celním kurzu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=233c1bca6f0c8f093d76 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 38 — Základ daně a výpočet daně při dovozu zboží
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Základem daně při dovozu zboží podle [[#§ 20|§ 20]] je součet
+>
+>   - a) základu pro vyměření cla, včetně cla, dávek a poplatků splatných z důvodu dovozu zboží, pokud již nejsou zahrnuty do základu pro vyměření cla,
+>
+>   - b) vedlejších výdajů vzniklých do prvního místa určení v tuzemsku, popřípadě do dalšího místa určení na území Evropské unie, pokud je toto místo při uskutečnění zdanitelného plnění známo, pokud nejsou zahrnuty do základu daně podle písmena a),
+>
+>   - c) příslušné spotřební daně, pokud není stanoveno v [[#§ 41|§ 41]] jinak.
+>
+> (2) Prvním místem určení se pro účely odstavce 1 rozumí místo uvedené v přepravním dokladu, na jehož základě je zboží dováženo do dovážejícího členského státu. Pokud není první místo určení uvedeno na přepravním dokladu, považuje se za první místo určení místo prvního přeložení dováženého zboží v dovážejícím členském státě.
+>
+> (3) U propuštění zboží do celního režimu volného oběhu, dočasného použití s částečným osvobozením od dovozního cla nebo vrácení zboží se daň vypočte podle § 37 písm. a). U zboží propuštěného do celního režimu volného oběhu z celního režimu pasivního zušlechťovacího styku se základ daně vypočte podle odstavce 1 bez zahrnutí hodnoty služby poskytnuté osobou neusazenou v tuzemsku s místem plnění v tuzemsku podle § 9 odst. 1.
+>
+> (4) Pro účely stanovení základu daně při dovozu zboží se pro přepočet cizí měny na českou měnu použije kurz stanovený podle přímo použitelných předpisů Evropské unie upravujících clo.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20, § 41, § 37, § 9
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=233c1bca6f0c8f093d76 -->
 
 ## § 39 – § 41 — Základ daně u přeshraničních a spotřebně daněných plnění
 
@@ -483,6 +827,156 @@ Pro plnění **mimo tuzemsko** (která se nedaní v ČR, ale vykazují se kvůli
 **Typicky rozhodné důkazy / podklady:** faktura zahraničního poskytovatele/dodavatele, doklad o místě plnění, doklad o spotřební dani a jejím případném vrácení, evidence DPH a kontrolní/souhrnné hlášení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9d2f60eda0e86679a6e1 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 39 — Základ daně a výpočet daně při poskytnutí služby osobou neusazenou v tuzemsku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Základ daně při poskytnutí služby osobou neusazenou v tuzemsku se stanoví obdobně podle [[#§ 36|§ 36]].
+>
+> (2) Plátce je povinen si sám daň vypočítat podle § 37 písm. a).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 36, § 37
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9d2f60eda0e86679a6e1 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=440d7b352b83302bfe30 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 40 — Základ daně a výpočet daně při pořízení zboží z jiného členského státu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Základ daně při pořízení zboží z jiného členského státu se stanoví obdobně podle [[#§ 36|§ 36]].
+>
+> (2) Pokud je pořizovateli vrácena spotřební daň zaplacená v členském státě, ze kterého bylo zboží odesláno nebo přepraveno, dodatečně po pořízení zboží z tohoto členského státu, provede se oprava základu daně.
+>
+> (3) Plátce je povinen si sám daň vypočítat podle § 37 písm. a).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 36, § 37
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=440d7b352b83302bfe30 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=22dcefa1b1c2571a18ec generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 41 — Základ daně a výpočet daně u zboží, které je v režimu podmíněného osvobození od spotřební daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Základ daně při dovozu zboží, které je propuštěno do celního režimu volného oběhu s následným umístěním do režimu podmíněného osvobození od spotřební daně, se stanoví podle [[#§ 38|§ 38]] bez zahrnutí spotřební daně.
+>
+> (2) U zboží, které je při pořízení z jiného členského státu v tuzemsku umístěno do režimu podmíněného osvobození od spotřební daně, se základ daně stanoví obdobně podle [[#§ 36|§ 36]] bez zahrnutí spotřební daně.
+>
+> (3) U zboží, které se nachází v režimu podmíněného osvobození od spotřební daně, a plátce uskutečňuje jeho dodání podle [[#§ 13|§ 13]], aniž by zboží bylo uvedeno do volného daňového oběhu, se základ daně stanoví podle [[#§ 36|§ 36]].
+>
+> (4) U zboží, které se nachází v režimu podmíněného osvobození od spotřební dně, a plátce uskutečňuje jeho dodání podle [[#§ 13|§ 13]] při uvedení zboží do volného daňového oběhu, se základ daně stanoví podle [[#§ 36|§ 36]].
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 38, § 36, § 13
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=22dcefa1b1c2571a18ec -->
 
 ## Oddíl 2 — Oprava základu daně a oprava výše daně
 
@@ -635,6 +1129,122 @@ Pro opravu se použije sazba a kurz **původního plnění** (u opravy podle ods
 
 **Typicky rozhodné důkazy / podklady:** původní daňový doklad, dohoda/listina o slevě, vrácení zboží či odstoupení, opravný daňový doklad, doklad o jeho odeslání/doručení, evidence DPH a kontrolní hlášení.
 
+
+<!-- LEGAL-REVISION:BEGIN id=e4b4286b4d442c069e64 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 42 — Oprava základu daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Plátce opraví základ daně, pokud
+>
+>   - a) ode dne uskutečnění zdanitelného plnění nastala skutečnost, na základě které dojde ke změně základu daně,
+>
+>   - b) nedojde k převodu vlastnického práva ke zboží na jeho uživatele podle § 13 odst. 3 písm. c), nebo
+>
+>   - c) přede dnem uskutečnění zdanitelného plnění dojde ke změně výše přijaté úplaty, ze které vznikla povinnost přiznat daň.
+>
+> (2) Opravu základu daně z důvodu reorganizace nebo preventivní restrukturalizace nelze provést u plnění, které není jako pohledávka zahrnuto do schváleného
+>
+>   - a) reorganizačního plánu v případě reorganizace, nebo
+>
+>   - b) restrukturalizačního plánu podle zákona [[o preventivní restrukturalizaci|o preventivní restrukturalizaci]] v případě preventivní restrukturalizace.
+>
+> (3) Oprava základu daně se považuje za samostatné zdanitelné plnění uskutečněné
+>
+>   - a) dnem, kdy nastaly skutečnosti rozhodné pro provedení opravy základu daně,
+>
+>   - b) dnem účinnosti reorganizačního plánu v případě, že k opravě základu daně dochází z důvodu změny výše základu daně na základě tohoto plánu,
+>
+>   - c) dnem zrušení rozhodnutí o schválení reorganizačního plánu v případě, že k opravě základu daně dochází z důvodu změny výše základu daně na základě tohoto zrušení,
+>
+>   - d) dnem přeměny reorganizace v konkurs v případě, že k opravě základu daně dochází z důvodu změny výše základu daně na základě této přeměny,
+>
+>   - e) dnem účinnosti restrukturalizačního plánu podle zákona [[o preventivní restrukturalizaci|o preventivní restrukturalizaci]] v případě, že k opravě základu daně dochází z důvodu změny výše základu daně na základě tohoto plánu, nebo
+>
+>   - f) dnem účinnosti rozhodnutí o zrušení účinnosti restrukturalizačního plánu podle zákona [[o preventivní restrukturalizaci|o preventivní restrukturalizaci]] v případě, že k opravě základu daně dochází z důvodu změny výše základu daně na základě tohoto zrušení.
+>
+> (4) Při opravě základu daně plátce
+>
+>   - a) vystaví opravný daňový doklad, nebo
+>
+>   - b) provede opravu základu daně v evidenci pro účely daně z přidané hodnoty, pokud plátce
+>
+>     - 1. neměl povinnost vystavit daňový doklad nebo
+>
+>     - 2. vystavil daňový doklad, ale pro účely vystavení opravného daňového dokladu mu není osoba, pro kterou se původní plnění uskutečnilo, dostatečně známa.
+>
+> (5) Plátce je povinen vystavit opravný daňový doklad a vynaložit úsilí, které po něm lze rozumně požadovat, k tomu, aby se tento daňový doklad dostal do dispozice příjemce plnění do 15 dnů ode dne uvedeného v odstavci 3.
+>
+> (6) Oprava základu daně jako samostatné zdanitelné plnění se uvede v daňovém přiznání za zdaňovací období, ve kterém se tato oprava považuje za uskutečněnou. Pokud je snižován základ daně a plátce má povinnost vystavit opravný daňový doklad, oprava základu daně jako samostatné zdanitelné plnění se uvede v daňovém přiznání za zdaňovací období, ve kterém plátce vynaložil úsilí, které po něm lze rozumně požadovat, k tomu, aby se tento daňový doklad dostal do dispozice příjemce plnění; to neplatí pro samostatné zdanitelné plnění uskutečněné podle odstavce 3 písm. b) až f).
+>
+> (7) V případě opravy základu daně je plátce povinen provést opravu výše daně. Pro opravu základu daně a související opravu výše daně se použije v případě opravy podle
+>
+>   - a) odstavce 1 písm. a) nebo b) sazba daně platná ke dni vzniku povinnosti přiznat daň u původního zdanitelného plnění a
+>
+>     - 1. kurz pro přepočet cizí měny na českou měnu platný ke dni vzniku povinnosti přiznat daň u původního zdanitelného plnění, nebo
+>
+>     - 2. kurz platný pro první pracovní den kalendářního roku, ve kterém vznikl důvod opravy; tento kurz lze použít, pouze pokud byl vystaven opravný daňový doklad podle § 45 odst. 4, nebo
+>
+>   - b) odstavce 1 písm. c)
+>
+>     - 1. sazba daně platná ke dni přijetí úplaty, z níž vznikla povinnost přiznat daň, a
+>
+>     - 2. kurz pro přepočet cizí měny na českou měnu platný ke dni přijetí úplaty, z níž vznikla povinnost přiznat daň.
+>
+> (8) Opravu základu daně nelze provést, pokud den uvedený v odstavci 3 nastane po konci sedmého kalendářního roku bezprostředně následujícího po kalendářním roce, ve kterém vznikla povinnost přiznat daň u původního uskutečněného zdanitelného plnění, nebo po uplynutí 3 let od konce zdaňovacího období, ve kterém došlo k přijetí úplaty, ze které vznikla povinnost přiznat daň, pokud se zdanitelné plnění ještě neuskutečnilo. V případě přenechání zboží k užití na základě smlouvy podle § 13 odst. 3 písm. c) lze opravu základu daně provést po celou dobu tohoto přenechání zboží.
+>
+> (9) Oprava základu daně se provede rovněž do uplynutí sedmého kalendářního roku bezprostředně následujícího po kalendářním roce, ve kterém
+>
+>   - a) došlo k převzetí celkového díla, a to v případě, že byla poskytována dílčí plnění,
+>
+>   - b) došlo k převodu vlastnického práva ke zboží na uživatele podle § 13 odst. 3 písm. c), nebo
+>
+>   - c) nastala skutečnost, na jejímž základě nedošlo k převedení vlastnického práva na uživatele podle § 13 odst. 3 písm. c).
+>
+> (10) V případě opravy základu daně, pokud nedojde k převedení vlastnického práva na uživatele podle § 13 odst. 3 písm. c), plátce sníží výši daně o částku daně vypočítanou podle § 37 písm. a) ze základu daně stanoveného jako rozdíl mezi úplatou bez daně, která plátci náleží za plnění podle § 13 odst. 3 písm. c), a částkou bez daně, která plátci náleží do dne zániku závazku převést vlastnické právo k užívanému zboží jiným způsobem než splněním.
+>
+> (11) Při pořízení zboží z jiného členského státu nebo při dovozu zboží provede plátce nebo identifikovaná osoba opravu základu daně podle odstavců 1 až 8 obdobně.
+>
+> (12) Při dovozu zboží, kdy vyměří daň celní úřad a je nesprávně uplatněn základ daně nebo sazba daně, plátce tuto skutečnost oznámí celnímu úřadu, který daň původně vyměřil.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 13, § 45, § 37
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e4b4286b4d442c069e64 -->
+
 ## § 42a — Oprava základu daně po zániku registrace
 
 > *(1) Osoba povinná k dani má po dobu běhu lhůty pro opravu základu daně práva a povinnosti související s opravou základu daně i v případě, že přestala být plátcem nebo identifikovanou osobou. Tato oprava se nepovažuje za samostatné zdanitelné plnění.*
@@ -693,6 +1303,66 @@ I po zániku registrace trvá právo a povinnost opravit základ daně z plněn�
 - [ ] Hlídat zvláštní dvouletou lhůtu pro stanovení daně (odst. 4); úrok z prodlení neúčtovat (odst. 3).
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí/oznámení o zrušení registrace, původní daňový doklad, doklad o vrácení zboží či slevě, opravný daňový doklad a doklad o jeho doručení, dodatečné přiznání a kontrolní hlášení.
+
+
+<!-- LEGAL-REVISION:BEGIN id=6681dd87ac90ce3c5541 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 42a — Oprava základu daně osobou povinnou k dani, která přestala být plátcem nebo identifikovanou osobou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Osoba povinná k dani má po dobu běhu lhůty pro opravu základu daně práva a povinnosti související s opravou základu daně i v případě, že přestala být plátcem nebo identifikovanou osobou. Tato oprava se nepovažuje za samostatné zdanitelné plnění.
+>
+> (2) Oprava základu daně podle odstavce 1 se uvede v dodatečném daňovém přiznání za poslední zdaňovací období registrace, a to do konce kalendářního měsíce následujícího po kalendářním měsíci, ve kterém v případě
+>
+>   - a) opravy základu daně podle § 42 odst. 3 písm. a) osoba podle odstavce 1 vynaložila úsilí, které po ní lze rozumně požadovat, k tomu, aby se daňový doklad dostal do dispozice příjemce plnění, pokud je snižován základ daně a osoba povinná k dani má povinnost vystavit opravný daňový doklad, nebo
+>
+>   - b) jiných oprav základu daně než podle písmene a) by se tato oprava považovala za uskutečněnou, pokud by byla samostatným zdanitelným plněním.
+>
+> (3) V případě opravy základu daně podle odstavce 1 nevzniká povinnost uhradit úrok z prodlení ode dne uplynutí lhůty pro podání daňového přiznání za poslední zdaňovací období registrace do posledního dne lhůty podle odstavce 2.
+>
+> (4) V případě opravy základu daně podle odstavce 1 lze daň stanovit ve lhůtě 2 let, která začne běžet dnem, kdy uplynula lhůta pro podání dodatečného daňového přiznání podle odstavce 2, bez ohledu na to, zda již uplynula lhůta pro stanovení daně.
+>
+> (5) Oprava základu daně podle odstavce 1 se nezahrne do výpočtu koeficientu podle § 76 odst. 2.
+>
+> (6) Pokud osoba povinná k dani provede opravu základu daně podle odstavce 1, je ve lhůtě podle odstavce 2 povinna podat kontrolní hlášení za poslední období, do kterého spadá poslední zdaňovací období registrace.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 42, § 76
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6681dd87ac90ce3c5541 -->
 
 ## § 43 — Oprava výše daně
 
@@ -756,6 +1426,72 @@ I po zániku registrace trvá právo a povinnost opravit základ daně z plněn�
 - [ ] Ověřit, že daň nebyla vrácena příjemci jako bezdůvodně zaplacená (odst. 7).
 
 **Typicky rozhodné důkazy / podklady:** původní daňový doklad s chybnou daní, opravný daňový doklad a doklad o doručení, dodatečné daňové přiznání, evidence DPH, podklady k dobré víře / odstranění rizika ztráty příjmů.
+
+
+<!-- LEGAL-REVISION:BEGIN id=ba52a01894a09a339157 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 43 — Oprava výše daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) V případě, kdy plátce nebo identifikovaná osoba přiznala daň jinak, než stanoví tento zákon, a tím zvýšila daň na výstupu, je oprávněna provést opravu v dodatečném daňovém přiznání za zdaňovací období, ve kterém byla nesprávně uplatněna daň. Opravu lze provést nejdříve ke dni, ve kterém plátce nebo identifikovaná osoba, pro kterou se plnění uskutečnilo, obdržela opravný daňový doklad, nebo ve kterém byla provedena oprava v evidenci pro účely daně z přidané hodnoty.
+>
+> (2) V případě opravy výše daně podle odstavce 1 plátce nebo identifikovaná osoba
+>
+>   - a) vystaví opravný daňový doklad, nebo
+>
+>   - b) provedou opravu výše daně v evidenci pro účely daně z přidané hodnoty, pokud plátce nebo identifikovaná osoba
+>
+>     - 1. neměli povinnost vystavit daňový doklad nebo
+>
+>     - 2. vystavili daňový doklad, ale pro účely vystavení opravného daňového dokladu jim není osoba, pro kterou se původní plnění uskutečnilo, dostatečně známa.
+>
+> (3) U opravy výše daně se uplatní sazba daně platná ke dni povinnosti přiznat daň u původního plnění. Pro přepočet cizí měny na českou měnu se použije kurz uplatněný osobou provádějící přepočet ke dni povinnosti přiznat daň u původního plnění.
+>
+> (4) Opravu výše daně nelze provést po uplynutí 3 let od konce zdaňovacího období, ve kterém vznikla povinnost přiznat daň u původního plnění.
+>
+> (5) Osoba, která není plátcem a jíž vznikla povinnost přiznat daň, kterou uvedla na vystaveném dokladu, je oprávněna při opravě daně postupovat přiměřeně podle odstavců 1 až 4.
+>
+> (6) Při poskytnutí úplaty, z níž vznikla povinnost přiznat daň, platí odstavce 1 až 4 obdobně.
+>
+> (7) Opravu výše daně nemůže provést osoba, která uskutečnila plnění v rozsahu, ve kterém byla daň vrácena příjemci plnění jako bezdůvodně zaplacená daň.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ba52a01894a09a339157 -->
 
 ## § 45 — Opravný daňový doklad
 
@@ -837,6 +1573,82 @@ Opravný daňový doklad (dobropis/vrubopis) musí obsahovat identifikaci stran,
 **Typicky rozhodné důkazy / podklady:** původní daňové doklady, dohoda/listina o důvodu opravy, souhrnný opravný daňový doklad, evidence vazby na původní plnění, kontrolní hlášení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7f5ab5a5af9954abee83 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 45 — Opravný daňový doklad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Opravný daňový doklad je daňový doklad, který se vystavuje při opravě základu nebo výše daně; tento doklad musí obsahovat tyto údaje:
+>
+>   - a) označení osoby, která uskutečňuje plnění,
+>
+>   - b) daňové identifikační číslo osoby, která uskutečňuje plnění,
+>
+>   - c) označení osoby, pro kterou se uskutečňuje plnění,
+>
+>   - d) daňové identifikační číslo osoby, pro kterou se plnění uskutečňuje,
+>
+>   - e) evidenční číslo původního daňového dokladu,
+>
+>   - f) evidenční číslo opravného daňového dokladu,
+>
+>   - g) důvod opravy,
+>
+>   - h) rozdíl mezi opraveným a původním základem daně,
+>
+>   - i) rozdíl mezi opravenou a původní daní,
+>
+>   - j) rozdíl mezi opravenou a původní částkou, kterou osoba, která plnění uskutečňuje, získala nebo má získat za uskutečňované plnění celkem,
+>
+>   - k) den uvedený v § 42 odst. 3.
+>
+> (2) Pokud byl původní daňový doklad vystaven jako zjednodušený daňový doklad a osoba, pro kterou se plnění uskutečnilo, není plátci dostatečně známa, nemusí opravný daňový doklad obsahovat náležitosti podle odstavce 1 písm. c), d), h) a i).
+>
+> (3) Při opravě základu daně podle § 42 odst. 11 nemusí opravný daňový doklad obsahovat náležitosti podle odstavce 1 písm. i) a j).
+>
+> (4) Pokud se oprava základu daně nebo oprava výše daně týká více zdanitelných plnění, ke kterým byly vystaveny samostatné daňové doklady, mohou být údaje, které jsou společné pro všechny opravy, uvedeny na opravném daňovém dokladu pouze jednou. V případě, že na opravném daňovém dokladu nejsou uvedena evidenční čísla původních daňových dokladů, musí být na opravném daňovém dokladu ve vazbě na původní uskutečněná zdanitelná plnění uvedeno takové vymezení těchto plnění, aby souvislost mezi původním a opraveným zdanitelným plněním byla jednoznačně určitelná. Dále plátce na opravném daňovém dokladu uvede souhrnně rozdíly mezi opravenými a původními základy daně a tomu odpovídající částky daně za veškerá opravovaná zdanitelná plnění.
+>
+> (5) Opravný daňový doklad lze vystavit i v případě, že je opravou zvyšována výše daně, pokud plátce přiznal daň jinak, než stanoví tento zákon, a tím snížil daň na výstupu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 42
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7f5ab5a5af9954abee83 -->
 
 ## Oddíl 3 — Oprava základu daně v případě nedobytné pohledávky
 
@@ -1022,6 +1834,150 @@ Oprava je vázána na **kvalifikované situace** prokazující nedobytnost:
 
 **Typicky rozhodné důkazy / podklady:** původní daňový doklad a doklad o odvedení daně, exekuční příkaz / rozhodnutí o zastavení exekuce, přihláška a usnesení v insolvenci, výsledek řízení o pozůstalosti, písemné výzvy u bagatelních pohledávek, doklad o spojení osob / nespolehlivosti dlužníka.
 
+
+<!-- LEGAL-REVISION:BEGIN id=f19485b9acc6939bf0c9 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 46 — Základní ustanovení o opravě základu daně v případě nedobytné pohledávky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Věřitel je oprávněn provést opravu základu daně v případě nedobytné pohledávky, pokud
+>
+>   - a) pohledávka ze zdanitelného plnění je vymáhána v exekučním řízení vedeném proti dlužníkovi podle exekučního řádu, ve kterém nebyla dosud zcela vymožena, a od vydání prvního exekučního příkazu v tomto řízení uplynul nejméně 1 rok; opravu základu daně nelze provést, pokud exekuci není možné provést z důvodu stanoveného právním předpisem upravujícím jiné řízení než exekuční řízení podle exekučního řádu,
+>
+>   - b) pohledávka ze zdanitelného plnění byla vymáhána v exekučním řízení vedeném proti dlužníkovi podle exekučního řádu a tato exekuce skončila zastavením pro nemajetnost dlužníka,
+>
+>   - c) proti dlužníkovi bylo zahájeno insolvenční řízení, věřitel přihlásil svoji pohledávku ze zdanitelného plnění nejpozději ve lhůtě stanovené rozhodnutím soudu o úpadku, tato pohledávka byla zjištěna a v insolvenčním řízení se k ní přihlíží a insolvenční soud
+>
+>     - 1. rozhodl o prohlášení konkursu na majetek dlužníka nebo o přeměně reorganizace v konkurs,
+>
+>     - 2. schválil oddlužení a ze zprávy pro oddlužení je zřejmé, že pohledávka ze zdanitelného plnění nebude zcela nebo zčásti uspokojena, nebo
+>
+>     - 3. zastavil insolvenční řízení z důvodu zamítnutí, odmítnutí nebo zpětvzetí návrhu na povolení oddlužení, neschválení oddlužení nebo zrušení schváleného oddlužení, pokud je z těchto rozhodnutí zřejmé, že majetek dlužníka je pro uspokojení věřitelů zcela nepostačující,
+>
+>   - d) došlo ke smrti dlužníka a z výsledků skončeného řízení o pozůstalosti je zřejmé, že pohledávka ze zdanitelného plnění nebude zcela nebo zčásti uspokojena; v případě likvidace pozůstalosti musí být pohledávka ze zdanitelného plnění uvedena v seznamu pohledávek a pokud jde o pohledávku, která se zjišťuje, musí se jednat o pohledávku ze zdanitelného plnění, která je zjištěna,
+>
+>   - e) bylo zahájeno a dosud neskončilo řízení podle písmen a) až d), věřitel uplatnil svá procesní práva směřující k uspokojení pohledávky, ale dosud nenastaly všechny skutečnosti rozhodné pro provedení opravy základu daně podle písmen a) až d) a uplynuly 3 roky od konce zdaňovacího období, ve kterém se uskutečnilo zdanitelné plnění,
+>
+>   - f) proti dlužníkovi bylo zahájeno insolvenční řízení, věřitel mohl v tomto řízení přihlásit pohledávku ze zdanitelného plnění, ale nepřihlásil ji nejpozději ve lhůtě stanovené rozhodnutím soudu o úpadku, a insolvenční soud
+>
+>     - 1. rozhodl o prohlášení konkursu na majetek dlužníka nebo o přeměně reorganizace v konkurs,
+>
+>     - 2. schválil oddlužení a ze zprávy pro oddlužení je zřejmé, že pohledávka ze zdanitelného plnění nebude zcela nebo zčásti uspokojena, nebo
+>
+>     - 3. zastavil insolvenční řízení z důvodu zamítnutí, odmítnutí nebo zpětvzetí návrhu na povolení oddlužení, neschválení oddlužení nebo zrušení schváleného oddlužení, pokud je z těchto rozhodnutí zřejmé, že majetek dlužníka je pro uspokojení věřitelů zcela nepostačující,
+>
+>   - g) uplynul třetí kalendářní měsíc bezprostředně následující po kalendářním měsíci, ve kterém se pohledávka ze zdanitelného plnění stala splatnou, v exekučním řízení vedeném proti dlužníkovi podle [[exekučního řádu|exekučního řádu]] byla vymáhána jiná pohledávka tohoto věřitele vůči tomuto dlužníkovi a exekuce skončila v období od začátku kalendářního roku bezprostředně předcházejícího kalendářnímu roku, ve kterém se pohledávka ze zdanitelného plnění stala splatnou, zastavením pro nemajetnost dlužníka,
+>
+>   - h) uplynul třetí kalendářní měsíc bezprostředně následující po kalendářním měsíci, ve kterém se pohledávka ze zdanitelného plnění stala splatnou, v exekučním řízení vedeném proti dlužníkovi podle [[exekučního řádu|exekučního řádu]] byla vymáhána a nebyla dosud zcela vymožena jiná pohledávka tohoto věřitele vůči tomuto dlužníkovi a od vydání prvního exekučního příkazu uplynul nejméně 1 rok, nebo
+>
+>   - i) věřitel dlužníka alespoň dvakrát písemně vyzval ke splnění povinnosti uhradit pohledávku ze zdanitelného plnění, vynaložil úsilí, které lze rozumně vyžadovat, aby se takové výzvy dostaly do dispozice dlužníka, a
+>
+>     - 1. jde o pohledávku nepřesahující 10 000 Kč včetně daně,
+>
+>     - 2. jde o pohledávku, která je alespoň 6 měsíců po splatnosti,
+>
+>     - 3. souhrn pohledávek tohoto věřitele vůči jednomu dlužníkovi, u kterých věřitel provedl opravu základu daně v případě nedobytné pohledávky, nebude přesahovat 20 000 Kč včetně daně za kalendářní rok, a
+>
+>     - 4. nenastala některá ze skutečností podle písmen a) až h).
+>
+> (2) Věřitel je povinen provést opravu základu daně v případě nedobytné pohledávky, pokud po provedení opravy základu daně v případě nedobytné pohledávky nastanou skutečnosti podle odstavce 1 zakládající provedení další opravy základu daně v případě nedobytné pohledávky; podmínky pro provedení takové opravy základu daně v případě nedobytné pohledávky jsou splněny i v případě, že podle zprávy pro oddlužení nebo podle výsledků skončeného řízení o pozůstalosti bude pohledávka ze zdanitelného plnění plně uspokojena.
+>
+> (3) Opravu základu daně nelze provést, pokud
+>
+>   - a) oprava základu daně již byla provedena z jiného důvodu uvedeného v odstavci 1, a to v rozsahu, v jakém byla tato oprava a opravy s ní související provedeny,
+>
+>   - b) dlužník není věřiteli dostatečně znám,
+>
+>   - c) věřitel nejpozději k datu dodání zboží nebo poskytnutí služby věděl, že zdanitelné plnění nebude řádně zaplaceno, nebo to s přihlédnutím k okolnostem obchodního vztahu, na základě kterého bylo poskytnuto zdanitelné plnění, vědět měl a mohl, pokud by v průběhu obchodního vztahu postupoval s péčí odpovídající péči řádného hospodáře,
+>
+>   - d) věřitel neopravil základ daně podle [[#§ 42|§ 42]] v případě přeměny reorganizace v konkurs poté, co na základě schválení reorganizačního plánu opravil základ daně podle [[#§ 42|§ 42]], nebo
+>
+>   - e) před jejím provedením nastala některá ze skutečností podle § 46d odst. 1.
+>
+> (4) Má se za to, že podmínky podle odstavce 3 písm. c) jsou splněny, pokud
+>
+>   - a) věřitel a dlužník jsou nebo ke dni uskutečnění zdanitelného plnění byli
+>
+>     - 1. osobami v kapitálově spojeném seskupení a podíl na základním kapitálu nebo hlasovacích právech představuje nebo ke dni uskutečnění zdanitelného plnění představoval alespoň 25 %, nebo
+>
+>     - 2. osobami blízkými,
+>
+>   - b) věřitel a dlužník jsou nebo v době uskutečnění zdanitelného plnění byli společníky téže společnosti a toto plnění bylo uskutečněno na základě příslušné společenské smlouvy, nebo
+>
+>   - c) dlužník ke dni uzavření smlouvy, podle které je poskytováno zdanitelné plnění, jehož se oprava základu daně v případě nedobytné pohledávky týká, byl nespolehlivým plátcem nebo nespolehlivou osobou.
+>
+> (5) Opravu základu daně nelze provést po uplynutí 3 let od konce zdaňovacího období, ve kterém se uskutečnilo zdanitelné plnění.
+>
+> (6) Lhůta pro opravu základu daně podle odstavce 5 neběží
+>
+>   - a) po dobu exekučního řízení vedeného za účelem vymožení pohledávky věřitele,
+>
+>   - b) po dobu insolvenčního řízení, ve kterém se věřitel domáhá uspokojení pohledávky,
+>
+>   - c) po dobu insolvenčního řízení, ve kterém se věřitel podle odstavce 1 písm. f) mohl domáhat uspokojení pohledávky,
+>
+>   - d) po dobu řízení o pozůstalosti, ve kterém se věřitel domáhá uspokojení pohledávky,
+>
+>   - e) po dobu správního, soudního nebo rozhodčího řízení vedeného za účelem nebo v souvislosti se vznikem exekučního titulu, pokud věřitel následně na základě výsledků těchto řízení uplatnil v řízeních podle odstavce 1 písm. a) až d) svá procesní práva směřující k uspokojení pohledávky,
+>
+>   - f) od zahájení likvidace dlužníka do zahájení insolvenčního řízení, pokud se věřitel v řízení o likvidaci dlužníka domáhá uspokojení pohledávky a v průběhu likvidace je zjištěn úpadek dlužníka,
+>
+>   - g) po dobu účinnosti všeobecného nebo individuálního moratoria podle zákona [[o preventivní restrukturalizaci|o preventivní restrukturalizaci]] v případě pohledávek osob, na které se toto moratorium vztahuje, nebo
+>
+>   - h) v případě dotčené pohledávky dotčené strany podle zákona [[o preventivní restrukturalizaci|o preventivní restrukturalizaci]], a to po dobu, po níž je pohledávka zahrnuta do preventivní restrukturalizace podle zákona [[o preventivní restrukturalizaci|o preventivní restrukturalizaci]].
+>
+> (7) Věřitelem se pro účely opravy základu daně v případě nedobytné pohledávky a oblasti související s touto opravou rozumí osoba,
+>
+>   - a) která jako plátce uskutečnila zdanitelné plnění, z něhož jí vznikla povinnost přiznat daň,
+>
+>   - b) která daň z tohoto plnění přiznala,
+>
+>   - c) která neobdržela úplatu nebo její část za toto plnění a
+>
+>   - d) jejíž právo na plnění z pohledávky nezaniklo.
+>
+> (8) Dlužníkem se pro účely opravy základu daně v případě nedobytné pohledávky a oblasti související s touto opravou rozumí osoba, která přijala od věřitele zdanitelné plnění, za které nebyla poskytnuta úplata nebo její část, a jejíž povinnost poskytnout úplatu za toto zdanitelné plnění nezanikla.
+>
+> (9) Věřitel opraví základ daně u pohledávky podle odstavce 1 písm. i) v posledním zdaňovacím období kalendářního roku, ve kterém dojde ke splnění podmínek této opravy.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 42, § 46d
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f19485b9acc6939bf0c9 -->
+
 ## § 46a–46d — Výše opravy a její korekce
 
 **Výklad:**
@@ -1195,6 +2151,254 @@ Výše opravy se odvíjí od neobdržené úplaty snížené o plnění z pojiš
 
 **Typicky rozhodné důkazy / podklady:** opravné daňové doklady, doklad o pojistném/zajišťovacím plnění, rozvrhové usnesení / zpráva pro oddlužení, případně znalecký posudek k obvyklé ceně, evidence předchozích oprav.
 
+
+<!-- LEGAL-REVISION:BEGIN id=2cd829cb2e521ccace38 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 46a — Výše opravy základu daně v případě nedobytné pohledávky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Oprava základu daně v případě nedobytné pohledávky se provede ve výši základu daně stanoveného z
+>
+>   - a) neobdržené úplaty za zdanitelné plnění, která nebyla vymožena v exekučním řízení,
+>
+>   - b) neobdržené úplaty za zdanitelné plnění v případě prohlášení konkursu na majetek dlužníka nebo při přeměně reorganizace v konkurs,
+>
+>   - c) předpokládané neobdržené úplaty podle zprávy pro oddlužení v případě schválení oddlužení,
+>
+>   - d) neobdržené úplaty za zdanitelné plnění v případě zastavení insolvenčního řízení,
+>
+>   - e) neobdržené úplaty za zdanitelné plnění na základě výsledku skončeného řízení o pozůstalosti; opravu základu daně nelze provést do výše, v jaké povinnost k úhradě dluhů věřitele přešla na dědice,
+>
+>   - f) neobdržené úplaty za zdanitelné plnění určené kvalifikovaným odhadem na základě dosavadního výsledku a průběhu příslušného řízení, jde-li o opravu základu daně podle § 46 odst. 1 písm. e),
+>
+>   - g) neobdržené úplaty za zdanitelné plnění, kterou by věřitel podle § 46 odst. 1 písm. f) neobdržel, i kdyby pohledávku v insolvenčním řízení přihlásil; výše neobdržené úplaty se určí kvalifikovaným odhadem, nebo
+>
+>   - h) neobdržené úplaty za zdanitelné plnění, jde-li o opravu základu daně podle § 46 odst. 1 písm. g) až i).
+>
+> (2) Při stanovení výše základu daně podle odstavce 1 se neobdržená úplata sníží o částku v peněžních prostředcích nebo hodnotu nepeněžitého plnění, které věřitel obdržel v souvislosti s pojištěním nebo zajištěním pohledávky.
+>
+> (3) Pokud po provedení opravy základu daně v případě nedobytné pohledávky došlo ke skutečnostem zakládajícím provedení další opravy základu daně v případě nedobytné pohledávky, věřitel při stanovení výše této další opravy zohlední všechny změny základu daně provedené předešlou opravou základu daně v případě nedobytné pohledávky a opravami nebo změnami s ní souvisejícími.
+>
+> (4) Pokud nebyla pohledávka v insolvenčním řízení v rámci přezkoumání přihlášených pohledávek zjištěna v hodnotě, kterou měla v době svého vzniku, vychází se při opravě základu daně v případě nedobytné pohledávky z hodnoty pohledávky zjištěné na přezkumném jednání nebo při přezkumu provedeném insolvenčním správcem v oddlužení.
+>
+> (5) Pokud byla pohledávka přezkoumávána v rámci likvidace pozůstalosti, vychází se při opravě základu daně v případě nedobytné pohledávky z hodnoty pohledávky, v jaké je pohledávka v řízení o pozůstalosti považována za zjištěnou.
+>
+> (6) Pokud je úplata za zdanitelné plnění bez ekonomického opodstatnění zcela zjevně odchylná od obvyklé ceny určené ke dni jeho uskutečnění, je věřitel oprávněn provést opravu základu daně v případě nedobytné pohledávky pouze do výše základu daně stanoveného z této obvyklé ceny.
+>
+> (7) Byl-li u původního zdanitelného plnění stanoven základ daně v nesprávné výši, může věřitel provést opravu základu daně v případě nedobytné pohledávky pouze do výše odpovídající správně stanovenému základu daně.
+>
+> (8) Dojde-li před provedením opravy základu daně v případě nedobytné pohledávky k opravě základu daně, opravě základu daně v případě nedobytné pohledávky nebo opravě výše daně, vychází se při opravě základu daně v případě nedobytné pohledávky z opraveného základu daně nebo opravené výše daně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 46
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2cd829cb2e521ccace38 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=c914997909c292acbf4e generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 46b — Změna výše opravy základu daně určené kvalifikovaným odhadem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Věřitel je povinen změnit výši opravy základu daně určenou kvalifikovaným odhadem, pokud
+>
+>   - a) nastaly skutečnosti zakládající oprávnění k provedení opravy základu daně v případě nedobytné pohledávky podle § 46 odst. 1 písm. a) až d) a
+>
+>   - b) z těchto skutečností vyplývá, že skutečná výše základu daně stanoveného z neobdržené úplaty neodpovídá výši opravy základu daně určené kvalifikovaným odhadem.
+>
+> (2) Změnit výši opravy základu daně podle odstavce 1 nelze, pokud je absolutní hodnota rozdílu mezi skutečnou výší opravy základu daně a výší opravy určenou kvalifikovaným odhadem nižší než 1 000 Kč.
+>
+> (3) Je-li hodnota rozdílu mezi skutečnou výší opravy základu daně a výší opravy určenou kvalifikovaným odhadem
+>
+>   - a) kladná, věřitel zvýší výši opravy základu daně o absolutní hodnotu tohoto rozdílu,
+>
+>   - b) záporná, věřitel sníží výši opravy základu daně o absolutní hodnotu tohoto rozdílu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 46
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c914997909c292acbf4e -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=0307987165a6964f8635 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 46c — Dodatečná oprava základu daně v případě nedobytné pohledávky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Věřitel je povinen provést dodatečnou opravu základu daně v případě nedobytné pohledávky, pokud se po provedení opravy základu daně podle [[#§ 46|§ 46]] nebo po změně výše opravy základu daně podle [[#§ 46b|§ 46b]] sníží poslední známá neobdržená úplata.
+>
+> (2) První dodatečnou opravu podle odstavce 1 v případě oddlužení je věřitel povinen provést poté, co skutečná výše uspokojení přesáhla výši předpokládanou schválenou zprávou pro oddlužení po schválení oddlužení.
+>
+> (3) Do snížení poslední známé neobdržené úplaty podle odstavce 1 nebo [[#§ 2|2]] se započte rovněž částka v peněžních prostředcích nebo hodnota nepeněžitého plnění, které věřitel obdržel v souvislosti s postoupením pohledávky nebo v souvislosti s pojištěním nebo zajištěním pohledávky.
+>
+> (4) Věřitel je oprávněn provést dodatečnou opravu základu daně v případě nedobytné pohledávky, pokud se po provedení opravy základu daně podle [[#§ 46|§ 46]] nebo po změně výše opravy základu daně podle [[#§ 46b|§ 46b]] zvýší poslední známá neobdržená úplata.
+>
+> (5) Je-li hodnota rozdílu mezi základem daně stanoveným z poslední známé neobdržené úplaty a základem daně stanoveným z neobdržené úplaty po změně poslední známé neobdržené úplaty podle odstavce 1, [[#§ 2|2]] nebo [[#§ 4|4]]
+>
+>   - a) kladná, věřitel sníží výši opravy základu daně o absolutní hodnotu tohoto rozdílu,
+>
+>   - b) záporná, věřitel zvýší výši opravy základu daně o absolutní hodnotu tohoto rozdílu.
+>
+> (6) Dodatečnou opravu základu daně nelze provést po uplynutí 5 let od konce zdaňovacího období, ve kterém se oprava základu daně považuje jako samostatné zdanitelné plnění za uskutečněné. Pro počítání této lhůty se použije § 46 odst. 6 obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 46, § 46b, § 2, § 4
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0307987165a6964f8635 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=b04e00a27f75bb14984b generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 46d — Zrušení opravy základu daně v případě nedobytné pohledávky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Věřitel je povinen provést zrušení opravy základu daně v případě nedobytné pohledávky, pokud provedl opravu základu daně v případě nedobytné pohledávky z důvodu prohlášení konkursu na majetek dlužníka a insolvenční soud zrušil konkurs z důvodu
+>
+>   - a) zjištění, že nebyl ani dodatečně osvědčen dlužníkův úpadek,
+>
+>   - b) zjištění, že není žádný přihlášený věřitel a všechny pohledávky za majetkovou podstatou a pohledávky jim postavené na roveň jsou uspokojeny, nebo
+>
+>   - c) souhlasu všech věřitelů a insolvenčního správce s návrhem dlužníka na zrušení konkursu.
+>
+> (2) Zrušení opravy základu daně podle odstavce 1 provede věřitel ve výši poslední známé neobdržené úplaty.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b04e00a27f75bb14984b -->
+
 ## § 46e — Opravné daňové doklady při nedobytné pohledávce
 
 **Výklad:**
@@ -1237,6 +2441,278 @@ Režim nedobytných pohledávek má vlastní opravný doklad (a varianty pro zm�
 - [ ] Nemá-li věřitel povinnost doklad vystavit, provést opravu v evidenci (odst. 7).
 
 **Typicky rozhodné důkazy / podklady:** usnesení/rozhodnutí zakládající titul (prohlášení konkursu apod.), původní daňový doklad, základní (a navazující) opravný daňový doklad, doklad o jeho doručení dlužníkovi, evidence DPH a kontrolní hlášení.
+
+
+<!-- LEGAL-REVISION:BEGIN id=223f0cf6689746bd5808 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 46e — Opravné daňové doklady v případě nedobytné pohledávky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Rozhodne-li se věřitel opravit základ daně v případě nedobytné pohledávky, je povinen vystavit základní opravný daňový doklad do 30 dnů ode dne zjištění skutečností, na základě kterých se rozhodl tuto opravu provést.
+>
+> (2) Věřitel je povinen vystavit opravný daňový doklad
+>
+>   - a) v případě změny výše opravy základu daně určené kvalifikovaným odhadem do 30 dnů ode dne zjištění skutečností, na základě kterých mu vznikla povinnost změnit výši opravy základu daně určenou kvalifikovaným odhadem,
+>
+>   - b) v případě dodatečné opravy základu daně do 30 dnů ode dne snížení nebo zvýšení poslední známé neobdržené úplaty, nebo
+>
+>   - c) při zrušení opravy základu daně do 30 dnů ode dne zjištění skutečností, na základě kterých mu vznikla povinnost provést zrušení opravy základu daně.
+>
+> (3) Základní opravný daňový doklad musí obsahovat tyto údaje:
+>
+>   - a) označení věřitele,
+>
+>   - b) daňové identifikační číslo věřitele,
+>
+>   - c) označení dlužníka,
+>
+>   - d) daňové identifikační číslo dlužníka,
+>
+>   - e) odkaz na příslušné ustanovení § 46 odst. 1, podle kterého je oprava základu daně prováděna,
+>
+>   - f) informaci o tom, že se jedná o další opravu základu daně v případě nedobytné pohledávky, pokud se jedná o opravu základu daně podle § 46 odst. 2,
+>
+>   - g) spisovou značku insolvenčního řízení, je-li oprava základu daně prováděna z důvodu insolvenčního řízení,
+>
+>   - h) evidenční číslo základního opravného daňového dokladu,
+>
+>   - i) den vystavení základního opravného daňového dokladu,
+>
+>   - j) den uskutečnění opravy základu daně, pokud touto opravou došlo ke snížení výše opravy základu daně,
+>
+>   - k) informace vztahující se k původnímu zdanitelnému plnění, a to
+>
+>     - 1. evidenční číslo daňového dokladu,
+>
+>     - 2. den uskutečnění původního zdanitelného plnění,
+>
+>     - 3. výši úplaty,
+>
+>     - 4. základ daně,
+>
+>     - 5. sazbu daně a
+>
+>     - 6. výši daně,
+>
+>   - l) informace vztahující se k předchozí opravě základu daně, změně výše opravy základu daně určené kvalifikovaným odhadem, dodatečné opravě základu daně a zrušení opravy základu daně, pokud byly provedeny, a to
+>
+>     - 1. evidenční číslo základního opravného daňového dokladu a opravných daňových dokladů,
+>
+>     - 2. den vystavení základního opravného daňového dokladu a opravných daňových dokladů,
+>
+>     - 3. den uskutečnění zdanitelného plnění,
+>
+>     - 4. výši předchozí opravy základu daně, změny výše opravy základu daně určené kvalifikovaným odhadem, dodatečné opravy základu daně a zrušení opravy základu daně,
+>
+>     - 5. výši opravy poslední známé daně,
+>
+>   - m) informace vztahující se k opravě základu daně v případě nedobytné pohledávky, a to
+>
+>     - 1. neobdrženou úplatu za původní zdanitelné plnění,
+>
+>     - 2. výši opravy základu daně,
+>
+>     - 3. daň vypočtenou z neobdržené úplaty za původní zdanitelné plnění,
+>
+>   - n) datum splatnosti pohledávky ze zdanitelného plnění, pokud byla oprava základu daně provedena podle § 46 odst. 1 písm. g) až i).
+>
+> (4) Opravný daňový doklad v případě změny výše opravy základu daně určené kvalifikovaným odhadem obsahuje tyto údaje:
+>
+>   - a) označení věřitele,
+>
+>   - b) daňové identifikační číslo věřitele,
+>
+>   - c) označení dlužníka,
+>
+>   - d) daňové identifikační číslo dlužníka,
+>
+>   - e) informaci o tom, že jde o změnu výše opravy základu daně určené kvalifikovaným odhadem,
+>
+>   - f) spisovou značku insolvenčního řízení, pokud je oprava základu daně prováděna z důvodu insolvenčního řízení,
+>
+>   - g) evidenční číslo
+>
+>     - 1. daňového dokladu,
+>
+>     - 2. základního opravného daňového dokladu,
+>
+>     - 3. opravného daňového dokladu v případě změny výše opravy základu daně určené kvalifikovaným odhadem,
+>
+>   - h) den
+>
+>     - 1. uskutečnění původního zdanitelného plnění,
+>
+>     - 2. uskutečnění opravy základu daně v případě nedobytné pohledávky,
+>
+>     - 3. vystavení opravného daňového dokladu v případě změny výše opravy základu daně určené kvalifikovaným odhadem,
+>
+>     - 4. uskutečnění změny výše opravy základu daně určené kvalifikovaným odhadem, pokud touto změnou došlo ke snížení výše opravy základu daně,
+>
+>   - i) informace vztahující se k původnímu zdanitelnému plnění, a to
+>
+>     - 1. výši úplaty,
+>
+>     - 2. základ daně,
+>
+>     - 3. sazbu daně a
+>
+>     - 4. výši daně,
+>
+>   - j) informace vztahující se k opravě základu daně v případě nedobytné pohledávky, a to
+>
+>     - 1. neobdrženou úplatu za původní zdanitelné plnění určenou kvalifikovaným odhadem,
+>
+>     - 2. výši opravy základu daně,
+>
+>     - 3. daň vypočtenou z neobdržené úplaty za původní zdanitelné plnění,
+>
+>   - k) informace vztahující se ke změně výše opravy základu daně určené kvalifikovaným odhadem, a to
+>
+>     - 1. neobdrženou úplatu za původní zdanitelné plnění podle § 46a odst. 1 písm. a) až e),
+>
+>     - 2. rozdíl mezi výší neobdržené úplaty podle bodu 1 a výší neobdržené úplaty, která odpovídá výši opravy základu daně určené kvalifikovaným odhadem,
+>
+>     - 3. sazbu daně,
+>
+>     - 4. základ daně stanovený z rozdílu podle bodu 2,
+>
+>     - 5. daň vypočtenou z rozdílu podle bodu 2,
+>
+>   - l) datum splatnosti pohledávky ze zdanitelného plnění, pokud byla oprava základu daně provedena podle § 46 odst. 1 písm. g) až i).
+>
+> (5) Opravný daňový doklad v případě dodatečné opravy základu daně obsahuje tyto údaje:
+>
+>   - a) označení věřitele,
+>
+>   - b) daňové identifikační číslo věřitele,
+>
+>   - c) označení dlužníka,
+>
+>   - d) daňové identifikační číslo dlužníka,
+>
+>   - e) informaci o tom, že jde o dodatečnou opravu základu daně,
+>
+>   - f) evidenční číslo
+>
+>     - 1. daňového dokladu,
+>
+>     - 2. základního opravného daňového dokladu,
+>
+>     - 3. opravného daňového dokladu v případě změny výše opravy základu daně určené kvalifikovaným odhadem, pokud byla tato změna provedena,
+>
+>     - 4. opravného daňového dokladu v případě dodatečné opravy základu daně,
+>
+>   - g) den
+>
+>     - 1. uskutečnění původního zdanitelného plnění,
+>
+>     - 2. uskutečnění opravy základu daně v případě nedobytné pohledávky,
+>
+>     - 3. uskutečnění změny výše opravy základu daně určené kvalifikovaným odhadem, pokud byla tato změna provedena,
+>
+>     - 4. vystavení opravného daňového dokladu v případě dodatečné opravy základu daně,
+>
+>     - 5. uskutečnění dodatečné opravy základu daně, pokud touto opravou došlo ke snížení výše opravy základu daně,
+>
+>   - h) snížení nebo zvýšení poslední známé neobdržené úplaty, které je důvodem pro dodatečnou opravu základu daně,
+>
+>   - i) výši poslední známé neobdržené úplaty,
+>
+>   - j) výši neobdržené úplaty po jejím snížení nebo zvýšení podle [[#§ 46c|§ 46c]],
+>
+>   - k) rozdíl mezi
+>
+>     - 1. výší poslední známé neobdržené úplaty a
+>
+>     - 2. výší neobdržené úplaty po jejím snížení podle [[#§ 46c|§ 46c]],
+>
+>   - l) sazbu daně,
+>
+>   - m) základ daně stanovený z rozdílu podle písmene k),
+>
+>   - n) daň vypočtenou z rozdílu podle písmene k).
+>
+> (6) Opravný daňový doklad při zrušení opravy základu daně obsahuje tyto údaje:
+>
+>   - a) označení věřitele,
+>
+>   - b) daňové identifikační číslo věřitele,
+>
+>   - c) označení dlužníka,
+>
+>   - d) daňové identifikační číslo dlužníka,
+>
+>   - e) informaci o tom, že jde o zrušení opravy základu daně,
+>
+>   - f) evidenční číslo
+>
+>     - 1. daňového dokladu,
+>
+>     - 2. základního opravného daňového dokladu,
+>
+>     - 3. opravného daňového dokladu v případě změny výše opravy základu daně určené kvalifikovaným odhadem, pokud byla tato změna provedena,
+>
+>     - 4. opravného daňového dokladu v případě dodatečné opravy základu daně, pokud byla tato oprava provedena,
+>
+>     - 5. opravného daňového dokladu při zrušení opravy základu daně,
+>
+>   - g) den
+>
+>     - 1. vystavení opravného daňového dokladu při zrušení opravy základu daně,
+>
+>     - 2. den uskutečnění zrušení opravy základu daně,
+>
+>     - 3. den provedení opravy podle § 46 odst. 1,
+>
+>   - h) základ daně a daň u původního zdanitelného plnění,
+>
+>   - i) výši poslední známé neobdržené úplaty,
+>
+>   - j) sazbu daně,
+>
+>   - k) základ daně a daň ve výši, v jaké je provedeno zrušení opravy základu daně.
+>
+> (7) Povinnost podle odstavce 1 nebo 2 nevzniká věřiteli, který neměl povinnost vystavit a nevystavil daňový doklad za zdanitelné plnění, u kterého provedl opravu základu daně v případě nedobytné pohledávky. V takovém případě věřitel provede opravu základu daně v evidenci pro účely daně z přidané hodnoty.
+>
+> (8) Pokud se oprava základu daně v případě nedobytné pohledávky, změna výše opravy základu daně určená kvalifikovaným odhadem, dodatečná oprava základu daně v případě nedobytné pohledávky nebo zrušení opravy základu daně v případě nedobytné pohledávky týká více zdanitelných plnění uskutečněných pro stejnou osobu, ke kterým byly vystaveny samostatné daňové doklady, mohou být údaje, které jsou společné pro všechny opravy, uvedeny na opravném daňovém dokladu pouze jednou.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 46, § 46a, § 46c
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=223f0cf6689746bd5808 -->
 
 ## § 46f – § 46g — Vykázání a společná ustanovení
 
@@ -1425,3 +2901,166 @@ Pro opravu výše daně se vždy použije **sazba platná ke dni povinnosti při
 ---
 
 > **Shrnutí kapitoly:** **§ 36** určuje základ daně jako *vše, co plátce za plnění obdržel* (bez daně, ale včetně spotřební daně a vedlejších výdajů); **§ 36a** jej u spojených osob nahrazuje **cenou obvyklou** jako protizneužívací pojistku. **§ 37** nabízí dvojí výpočet — „zdola" součinem a „shora" koeficientem **1,21 / 1,12**. **§§ 38–41a** přizpůsobují základ dovozu, pořízení z JČS, přijaté službě a spotřební dani. Druhý a třetí oddíl tvoří **opravný aparát**: § 42 (změna ceny — dobropis/vrubopis, samostatné plnění, lhůta zpravidla 7 let), § 43 (oprava chybné daně — dodatečné přiznání, lhůta 3 roky) a procesně bohatý režim **nedobytných pohledávek** § 46–46g navázaný na exekuci, insolvenci a pozůstalost. Jakmile máme základ a umíme jej opravit, zbývá poslední krok výpočtu — **přiřazení správné sazby**. Tomu se věnuje **Díl 7 — Sazby daně** ([08](08-cast1-hlava2-dil7-sazby-dane.md)).
+
+<!-- LEGAL-REVISION:BEGIN id=51e8fb6d3113f0bb27c9 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 46f — Opravy základu daně v případě nedobytné pohledávky jako samostatné zdanitelné plnění
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Oprava základu daně se považuje za samostatné zdanitelné plnění uskutečněné
+>
+>   - a) dnem doručení základního opravného daňového dokladu dlužníkovi, pokud jde o opravu základu daně v případě nedobytné pohledávky, která má za následek snížení základu daně,
+>
+>   - b) dnem doručení opravného daňového dokladu dlužníkovi, pokud jde o změnu výše opravy základu daně určené kvalifikovaným odhadem nebo dodatečnou opravu základu daně, které mají za následek snížení opraveného základu daně,
+>
+>   - c) dnem, kdy nastaly skutečnosti rozhodné pro provedení opravy základu daně, pokud jde o opravu základu daně v případě nedobytné pohledávky, která má za následek snížení základu daně, a věřitel neměl povinnost vystavit a nevystavil základní opravný daňový doklad,
+>
+>   - d) dnem, kdy nastaly skutečnosti rozhodné pro provedení změny výše opravy základu daně určené kvalifikovaným odhadem nebo dodatečné opravy základu daně, pokud jde o změnu výše opravy základu daně určené kvalifikovaným odhadem nebo dodatečnou opravu základu daně, které mají za následek snížení základu daně, a věřitel neměl povinnost vystavit a nevystavil opravný daňový doklad,
+>
+>   - e) dnem, kdy nastaly skutečnosti rozhodné pro provedení opravy základu daně v případě nedobytné pohledávky, pokud jde o opravu základu daně v případě nedobytné pohledávky, která má za následek zvýšení opraveného základu daně, nebo
+>
+>   - f) dnem, kdy nastaly skutečnosti rozhodné pro provedení změny výše opravy základu daně určené kvalifikovaným odhadem, dodatečné opravy základu daně nebo zrušení opravy základu daně, pokud jde o změnu výše opravy základu daně určené kvalifikovaným odhadem, dodatečnou opravu základu daně nebo zrušení opravy základu daně, které mají za následek zvýšení opraveného základu daně.
+>
+> (2) Věřitel, který provedl opravu základu daně v případě nedobytné pohledávky, je povinen předložit jako přílohu k daňovému přiznání
+>
+>   - a) kopie všech vystavených daňových dokladů, na kterých jsou uvedena zdanitelná plnění, u kterých provedl tuto opravu, nebo
+>
+>   - b) seznam těchto dokladů s uvedením všech náležitostí uvedených na těchto daňových dokladech.
+>
+> (3) Povinnost podle odstavce 2 nevzniká věřiteli, který neměl povinnost vystavit a nevystavil daňový doklad za zdanitelné plnění, u kterého provedl opravu základu daně v případě nedobytné pohledávky. Tento věřitel je povinen předložit jako přílohu k daňovému přiznání přehled zdanitelných plnění, u kterých provedl opravu základu daně v případě nedobytné pohledávky, s uvedením náležitostí, které by byl povinen uvést na daňovém dokladu, pokud by měl povinnost jej vystavit, a které jsou mu známé.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=51e8fb6d3113f0bb27c9 -->
+
+<!-- LEGAL-REVISION:BEGIN id=04b7f6d3e76342d4d3cb generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 46fa — Oprava základu daně v případě nedobytné pohledávky, pokud věřitel přestal být plátcem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> (1) Osoba povinná k dani má po dobu běhu lhůty pro opravu základu daně práva a povinnosti věřitele související s opravou základu daně v případě nedobytné pohledávky i v případě, že přestala být plátcem.
+>
+> (2) Pokud věřitel provede opravu základu daně v případě nedobytné pohledávky, změnu výše opravy základu daně určené kvalifikovaným odhadem, dodatečnou opravu základu daně v případě nedobytné pohledávky nebo zrušení opravy základu daně v případě nedobytné pohledávky a není plátcem ke dni jejich uskutečnění, uvede zvýšení nebo snížení základu daně v dodatečném daňovém přiznání za poslední zdaňovací období registrace, a to do konce kalendářního měsíce následujícího po kalendářním měsíci, ve kterém se tato oprava, změna výše opravy nebo zrušení opravy považují za uskutečněné.
+>
+> (3) Věřiteli podle odstavce 2 nevzniká povinnost uhradit úrok z prodlení ode dne uplynutí lhůty pro podání daňového přiznání za poslední zdaňovací období registrace do posledního dne lhůty podle odstavce 2.
+>
+> (4) Oprava základu daně podle odstavce 2 se nezahrne do výpočtu koeficientu podle § 76 odst. 2.
+>
+> (5) Pokud osoba povinná k dani provede opravu základu daně podle odstavce 1, je ve lhůtě podle odstavce 2 povinna podat kontrolní hlášení za poslední období, do kterého spadá poslední zdaňovací období registrace.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 76
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=04b7f6d3e76342d4d3cb -->
+
+<!-- LEGAL-REVISION:BEGIN id=8bf1feeef71870290a86 generator=2026-07-17.4 source_sha256=a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b -->
+### Revizní doplnění k § 46g — Společné ustanovení pro opravu základu daně v případě nedobytné pohledávky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/235-2004 Zákon o dani z přidané hodnoty.md`; identifikátor verze: `SB-2004-00235_2026-01-01`; SHA-256: `a28b5ff663cb9e87e91119713f46736f081397d8bb5e02bb36011cd958c21e1b`.
+
+#### Znění ustanovení
+
+> V případě opravy základu daně v případě nedobytné pohledávky, změny výše opravy základu daně určené kvalifikovaným odhadem, dodatečné opravy základu daně v případě nedobytné pohledávky nebo zrušení opravy základu daně v případě nedobytné pohledávky plátce opraví výši poslední známé daně, pro kterou použije sazbu daně platnou ke dni povinnosti přiznat daň u původního zdanitelného plnění. Pro přepočet cizí měny na českou měnu se použije kurz uplatněný u původního zdanitelného plnění.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8bf1feeef71870290a86 -->
